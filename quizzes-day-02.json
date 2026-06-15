@@ -1,0 +1,24 @@
+{
+  "dayId": "day-02",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I am go always early.",
+        "I always am early.",
+        "I am always early.",
+        "Always I am early."
+      ],
+      "answerIndex": 2,
+      "explanation": "Trạng từ tần suất đứng sau động từ to be (am)."
+    },
+    {
+      "id": "q2",
+      "question": "\"She ___ eats meat; she's a vegetarian.\"",
+      "options": ["always", "never", "usually", "often"],
+      "answerIndex": 1,
+      "explanation": "Người ăn chay không bao giờ ăn thịt -> never."
+    }
+  ]
+}

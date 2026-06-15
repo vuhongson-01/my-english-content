@@ -1,0 +1,11 @@
+{
+  "level": "A2 → B1",
+  "weeks": [
+    {
+      "week": 1,
+      "title": "Ôn nền tảng A2",
+      "goal": "Củng cố thì hiện tại, từ vựng chủ đề bản thân & thói quen.",
+      "dayIds": ["day-01", "day-02"]
+    }
+  ]
+}

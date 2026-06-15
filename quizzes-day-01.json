@@ -1,0 +1,36 @@
+{
+  "dayId": "day-01",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Choose the correct form: \"He ___ to work by bus.\"",
+      "options": ["go", "goes", "going", "gone"],
+      "answerIndex": 1,
+      "explanation": "Ngôi thứ ba số ít (he) thêm -es: goes."
+    },
+    {
+      "id": "q2",
+      "question": "Make it negative: \"They live here.\"",
+      "options": [
+        "They doesn't live here.",
+        "They not live here.",
+        "They don't live here.",
+        "They don't lives here."
+      ],
+      "answerIndex": 2,
+      "explanation": "Chủ ngữ số nhiều dùng don't + động từ nguyên thể."
+    },
+    {
+      "id": "q3",
+      "question": "Which question is correct?",
+      "options": [
+        "Does you like tea?",
+        "Do you likes tea?",
+        "Do you like tea?",
+        "You like tea?"
+      ],
+      "answerIndex": 2,
+      "explanation": "Với \"you\" dùng Do + S + V nguyên thể."
+    }
+  ]
+}

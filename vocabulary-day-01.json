@@ -1,0 +1,11 @@
+{
+  "dayId": "day-01",
+  "items": [
+    { "word": "habit", "meaning": "thói quen", "example": "Reading before bed is a good habit." },
+    { "word": "usually", "meaning": "thường thường", "example": "I usually wake up at 6." },
+    { "word": "commute", "meaning": "đi làm/đi học hằng ngày", "example": "She commutes by train." },
+    { "word": "routine", "meaning": "thói quen/lịch sinh hoạt", "example": "My morning routine starts with coffee." },
+    { "word": "weekday", "meaning": "ngày trong tuần (T2–T6)", "example": "I work on weekdays." },
+    { "word": "schedule", "meaning": "lịch trình", "example": "The bus runs on a fixed schedule." }
+  ]
+}

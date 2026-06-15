@@ -1,0 +1,11 @@
+{
+  "dayId": "day-02",
+  "items": [
+    { "word": "always", "meaning": "luôn luôn", "example": "He always smiles." },
+    { "word": "rarely", "meaning": "hiếm khi", "example": "I rarely eat fast food." },
+    { "word": "frequency", "meaning": "tần suất", "example": "How is the frequency of the bus?" },
+    { "word": "often", "meaning": "thường xuyên", "example": "We often meet on weekends." },
+    { "word": "sometimes", "meaning": "thỉnh thoảng", "example": "Sometimes I walk to work." },
+    { "word": "hardly ever", "meaning": "hầu như không bao giờ", "example": "She hardly ever drinks coffee." }
+  ]
+}
