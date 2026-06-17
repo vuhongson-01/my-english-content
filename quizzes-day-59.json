@@ -1,0 +1,485 @@
+{
+  "dayId": "day-59",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"formal\"?",
+      "options": [
+        "kiểm tra",
+        "tiến hành",
+        "trang trọng",
+        "xử lý/quá trình"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"formal\" có nghĩa là \"trang trọng\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"report\"?",
+      "options": [
+        "báo cáo",
+        "thành lập",
+        "xây dựng",
+        "trao tặng"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"report\" có nghĩa là \"báo cáo\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"require\"?",
+      "options": [
+        "yêu cầu",
+        "tiến hành",
+        "cung cấp",
+        "kiểm tra"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"require\" có nghĩa là \"yêu cầu\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"process\"?",
+      "options": [
+        "tiến hành",
+        "thành lập",
+        "xử lý/quá trình",
+        "cấm"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"process\" có nghĩa là \"xử lý/quá trình\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"approve\"?",
+      "options": [
+        "bị động",
+        "cấp/phát hành",
+        "phê duyệt",
+        "khám phá"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"approve\" có nghĩa là \"phê duyệt\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"reject\"?",
+      "options": [
+        "từ chối",
+        "yêu cầu",
+        "trang trọng",
+        "chủ động"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"reject\" có nghĩa là \"từ chối\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"announce\"?",
+      "options": [
+        "tiến hành",
+        "cung cấp",
+        "xử lý/quá trình",
+        "thông báo"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"announce\" có nghĩa là \"thông báo\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"construct\"?",
+      "options": [
+        "bị động",
+        "sản xuất",
+        "xây dựng",
+        "thành lập"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"construct\" có nghĩa là \"xây dựng\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"establish\"?",
+      "options": [
+        "thành lập",
+        "phát minh",
+        "xây dựng",
+        "sản xuất"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"establish\" có nghĩa là \"thành lập\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"organize\"?",
+      "options": [
+        "tổ chức",
+        "từ chối",
+        "cấm",
+        "xử lý/quá trình"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"organize\" có nghĩa là \"tổ chức\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"conduct\"?",
+      "options": [
+        "xây dựng",
+        "phát minh",
+        "kiểm tra",
+        "tiến hành"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"conduct\" có nghĩa là \"tiến hành\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"examine\"?",
+      "options": [
+        "phê duyệt",
+        "cấp/phát hành",
+        "kiểm tra",
+        "báo cáo"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"examine\" có nghĩa là \"kiểm tra\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: The offer was _____ed.",
+      "options": [
+        "conduct",
+        "approve",
+        "reject",
+        "produce"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"The offer was rejected.\" — từ đúng là \"reject\" (từ chối)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: The winner was _____d.",
+      "options": [
+        "award",
+        "establish",
+        "examine",
+        "announce"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"The winner was announced.\" — từ đúng là \"announce\" (thông báo)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: The road was _____ed last year.",
+      "options": [
+        "construct",
+        "issue",
+        "invent",
+        "formal"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The road was constructed last year.\" — từ đúng là \"construct\" (xây dựng)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: The company was _____ed in 2000.",
+      "options": [
+        "establish",
+        "process",
+        "active",
+        "passive"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The company was established in 2000.\" — từ đúng là \"establish\" (thành lập)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: The event was _____d well.",
+      "options": [
+        "discover",
+        "award",
+        "invent",
+        "organize"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"The event was organized well.\" — từ đúng là \"organize\" (tổ chức)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: The survey was _____ed online.",
+      "options": [
+        "conduct",
+        "require",
+        "organize",
+        "produce"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The survey was conducted online.\" — từ đúng là \"conduct\" (tiến hành)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: The patient was _____d by a doctor.",
+      "options": [
+        "examine",
+        "install",
+        "construct",
+        "report"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The patient was examined by a doctor.\" — từ đúng là \"examine\" (kiểm tra)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: The software was _____ed yesterday.",
+      "options": [
+        "announce",
+        "install",
+        "produce",
+        "approve"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"The software was installed yesterday.\" — từ đúng là \"install\" (lắp đặt)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: The building was _____ed.",
+      "options": [
+        "destroy",
+        "discover",
+        "award",
+        "install"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The building was destroyed.\" — từ đúng là \"destroy\" (phá hủy)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: Meals are _____d free.",
+      "options": [
+        "construct",
+        "active",
+        "discover",
+        "provide"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Meals are provided free.\" — từ đúng là \"provide\" (cung cấp)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: Tickets are _____d at the desk.",
+      "options": [
+        "examine",
+        "require",
+        "passive",
+        "issue"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Tickets are issued at the desk.\" — từ đúng là \"issue\" (cấp/phát hành)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: She was _____ed a prize.",
+      "options": [
+        "conduct",
+        "process",
+        "formal",
+        "award"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"She was awarded a prize.\" — từ đúng là \"award\" (trao tặng)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: The letter ___ written by Tom.",
+      "options": [
+        "is wrote",
+        "were",
+        "did",
+        "was"
+      ],
+      "answerIndex": 3,
+      "explanation": "Passive past simple: was + past participle."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: Cars ___ produced in this factory.",
+      "options": [
+        "be",
+        "were being",
+        "are",
+        "is"
+      ],
+      "answerIndex": 2,
+      "explanation": "Passive present simple plural: are + participle."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: The bridge ___ built in 1990.",
+      "options": [
+        "is",
+        "was",
+        "did",
+        "were"
+      ],
+      "answerIndex": 1,
+      "explanation": "Singular subject passive past: was + participle."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: English ___ spoken all over the world.",
+      "options": [
+        "are",
+        "was being",
+        "be",
+        "is"
+      ],
+      "answerIndex": 3,
+      "explanation": "Passive present simple singular: is + participle."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: The room is ___ cleaned now.",
+      "options": [
+        "been",
+        "be",
+        "was",
+        "being"
+      ],
+      "answerIndex": 3,
+      "explanation": "Present continuous passive: is being + participle."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: These goods ___ made in Vietnam.",
+      "options": [
+        "are",
+        "is",
+        "was",
+        "be"
+      ],
+      "answerIndex": 0,
+      "explanation": "Plural subject present passive: are."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: The book was ___ last year.",
+      "options": [
+        "published",
+        "publish",
+        "publishing",
+        "publishes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Passive needs the past participle."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: The car ___ being repaired.",
+      "options": [
+        "be",
+        "is",
+        "been",
+        "are"
+      ],
+      "answerIndex": 1,
+      "explanation": "Singular present continuous passive: is being."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: The results ___ announced tomorrow.",
+      "options": [
+        "are announce",
+        "were",
+        "is",
+        "will be"
+      ],
+      "answerIndex": 3,
+      "explanation": "Future passive: will be + participle."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: Penicillin ___ discovered by Fleming.",
+      "options": [
+        "is",
+        "was",
+        "were",
+        "did"
+      ],
+      "answerIndex": 1,
+      "explanation": "Singular passive past simple uses 'was'."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"trang trọng\"?",
+      "options": [
+        "provide",
+        "active",
+        "formal",
+        "award"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"trang trọng\" trong tiếng Anh là \"formal\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"báo cáo\"?",
+      "options": [
+        "organize",
+        "conduct",
+        "report",
+        "process"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"báo cáo\" trong tiếng Anh là \"report\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"yêu cầu\"?",
+      "options": [
+        "destroy",
+        "require",
+        "passive",
+        "report"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"yêu cầu\" trong tiếng Anh là \"require\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"xử lý/quá trình\"?",
+      "options": [
+        "formal",
+        "process",
+        "provide",
+        "ban"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"xử lý/quá trình\" trong tiếng Anh là \"process\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"phê duyệt\"?",
+      "options": [
+        "approve",
+        "discover",
+        "formal",
+        "report"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"phê duyệt\" trong tiếng Anh là \"approve\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"từ chối\"?",
+      "options": [
+        "produce",
+        "destroy",
+        "reject",
+        "establish"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"từ chối\" trong tiếng Anh là \"reject\"."
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "dayId": "day-68",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"quote\"?",
+      "options": [
+        "trả lời",
+        "đề cập",
+        "đề nghị",
+        "trích dẫn"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"quote\" có nghĩa là \"trích dẫn\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"declare\"?",
+      "options": [
+        "đề nghị",
+        "tuyên bố",
+        "gợi ý",
+        "được thuật lại"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"declare\" có nghĩa là \"tuyên bố\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"respond\"?",
+      "options": [
+        "trích dẫn",
+        "phàn nàn",
+        "khăng khăng",
+        "phản hồi"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"respond\" có nghĩa là \"phản hồi\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"conversation\"?",
+      "options": [
+        "cuộc trò chuyện",
+        "từ chối",
+        "tuyên bố",
+        "trả lời"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"conversation\" có nghĩa là \"cuộc trò chuyện\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"reported\"?",
+      "options": [
+        "cuộc trò chuyện",
+        "gợi ý",
+        "được thuật lại",
+        "cảnh báo"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"reported\" có nghĩa là \"được thuật lại\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"speech\"?",
+      "options": [
+        "tuyên bố",
+        "lời nói/bài phát biểu",
+        "trả lời",
+        "phủ nhận"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"speech\" có nghĩa là \"lời nói/bài phát biểu\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"claim\"?",
+      "options": [
+        "trích dẫn",
+        "từ chối",
+        "tuyên bố",
+        "cảnh báo"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"claim\" có nghĩa là \"tuyên bố\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"mention\"?",
+      "options": [
+        "đề cập",
+        "nhắc nhở",
+        "lời nói/bài phát biểu",
+        "tuyên bố"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"mention\" có nghĩa là \"đề cập\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"admit\"?",
+      "options": [
+        "thừa nhận",
+        "đề cập",
+        "tuyên bố",
+        "cảnh báo"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"admit\" có nghĩa là \"thừa nhận\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"deny\"?",
+      "options": [
+        "nhắc nhở",
+        "tuyên bố",
+        "phủ nhận",
+        "cuộc trò chuyện"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"deny\" có nghĩa là \"phủ nhận\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"explain\"?",
+      "options": [
+        "được thuật lại",
+        "giải thích",
+        "phủ nhận",
+        "nhắc nhở"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"explain\" có nghĩa là \"giải thích\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"announce\"?",
+      "options": [
+        "từ chối",
+        "phàn nàn",
+        "thông báo",
+        "giải thích"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"announce\" có nghĩa là \"thông báo\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: Direct _____ uses quotation marks.",
+      "options": [
+        "quote",
+        "deny",
+        "complain",
+        "speech"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Direct speech uses quotation marks.\" — từ đúng là \"speech\" (lời nói/bài phát biểu)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: She _____ed she was innocent.",
+      "options": [
+        "offer",
+        "claim",
+        "deny",
+        "quote"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"She claimed she was innocent.\" — từ đúng là \"claim\" (tuyên bố)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: He _____ed that he was busy.",
+      "options": [
+        "mention",
+        "reply",
+        "declare",
+        "state"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"He mentioned that he was busy.\" — từ đúng là \"mention\" (đề cập)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: He _____ted he was wrong.",
+      "options": [
+        "admit",
+        "refuse",
+        "reply",
+        "claim"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"He admitted he was wrong.\" — từ đúng là \"admit\" (thừa nhận)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: She denied taking the money. (_____)",
+      "options": [
+        "deny",
+        "announce",
+        "admit",
+        "speech"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"She denied taking the money.\" — từ đúng là \"deny\" (phủ nhận)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: He _____ed how it worked.",
+      "options": [
+        "warn",
+        "explain",
+        "agree",
+        "announce"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"He explained how it worked.\" — từ đúng là \"explain\" (giải thích)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: They _____d the news.",
+      "options": [
+        "announce",
+        "reported",
+        "promise",
+        "complain"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"They announced the news.\" — từ đúng là \"announce\" (thông báo)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: She _____ed about the noise.",
+      "options": [
+        "reply",
+        "deny",
+        "complain",
+        "insist"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"She complained about the noise.\" — từ đúng là \"complain\" (phàn nàn)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: He _____d to come early.",
+      "options": [
+        "admit",
+        "reply",
+        "conversation",
+        "promise"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"He promised to come early.\" — từ đúng là \"promise\" (hứa)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: She _____ed us about the road.",
+      "options": [
+        "refuse",
+        "deny",
+        "conversation",
+        "warn"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"She warned us about the road.\" — từ đúng là \"warn\" (cảnh báo)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: He _____d me to rest.",
+      "options": [
+        "admit",
+        "refuse",
+        "advise",
+        "speech"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"He advised me to rest.\" — từ đúng là \"advise\" (khuyên)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: She _____ed going by train.",
+      "options": [
+        "mention",
+        "respond",
+        "complain",
+        "suggest"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"She suggested going by train.\" — từ đúng là \"suggest\" (gợi ý)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: He said he ___ tired.",
+      "options": [
+        "is",
+        "will be",
+        "has been",
+        "was"
+      ],
+      "answerIndex": 3,
+      "explanation": "Reported speech: present 'am' shifts to past 'was'."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: She told me she ___ busy.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "be"
+      ],
+      "answerIndex": 0,
+      "explanation": "Backshift of 'is' to 'was' in reported speech."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: They said they ___ come the next day.",
+      "options": [
+        "may",
+        "will",
+        "would",
+        "can"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Will' becomes 'would' in reported speech."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: He asked where I ___.",
+      "options": [
+        "living",
+        "live",
+        "do live",
+        "lived"
+      ],
+      "answerIndex": 3,
+      "explanation": "Reported question uses statement word order, past tense."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: She said she ___ finished her work.",
+      "options": [
+        "have",
+        "has",
+        "had",
+        "was"
+      ],
+      "answerIndex": 2,
+      "explanation": "Present perfect shifts to past perfect ('had')."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: He told me he ___ help me.",
+      "options": [
+        "can",
+        "could",
+        "will",
+        "may"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Can' becomes 'could' in reported speech."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: She said she ___ English every day.",
+      "options": [
+        "is studying",
+        "studied",
+        "studies",
+        "study"
+      ],
+      "answerIndex": 1,
+      "explanation": "Present simple becomes past simple."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: He said he ___ go to the party.",
+      "options": [
+        "can",
+        "will",
+        "may",
+        "might"
+      ],
+      "answerIndex": 3,
+      "explanation": "'May' becomes 'might'."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: They said they ___ seen the film.",
+      "options": [
+        "were",
+        "had",
+        "has",
+        "have"
+      ],
+      "answerIndex": 1,
+      "explanation": "Present perfect → past perfect."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: She asked if I ___ free.",
+      "options": [
+        "be",
+        "were",
+        "am",
+        "was"
+      ],
+      "answerIndex": 3,
+      "explanation": "Reported yes/no question uses 'if' and backshift."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"trích dẫn\"?",
+      "options": [
+        "quote",
+        "speech",
+        "announce",
+        "suggest"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"trích dẫn\" trong tiếng Anh là \"quote\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"tuyên bố\"?",
+      "options": [
+        "promise",
+        "agree",
+        "declare",
+        "explain"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"tuyên bố\" trong tiếng Anh là \"declare\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"phản hồi\"?",
+      "options": [
+        "mention",
+        "claim",
+        "respond",
+        "insist"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"phản hồi\" trong tiếng Anh là \"respond\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"cuộc trò chuyện\"?",
+      "options": [
+        "agree",
+        "offer",
+        "declare",
+        "conversation"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"cuộc trò chuyện\" trong tiếng Anh là \"conversation\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"được thuật lại\"?",
+      "options": [
+        "insist",
+        "warn",
+        "reported",
+        "deny"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"được thuật lại\" trong tiếng Anh là \"reported\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"lời nói/bài phát biểu\"?",
+      "options": [
+        "conversation",
+        "promise",
+        "quote",
+        "speech"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"lời nói/bài phát biểu\" trong tiếng Anh là \"speech\"."
+    }
+  ]
+}

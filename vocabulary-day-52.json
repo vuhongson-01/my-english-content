@@ -1,0 +1,125 @@
+{
+  "dayId": "day-52",
+  "items": [
+    {
+      "word": "likely",
+      "meaning": "có khả năng",
+      "example": "Rain is likely tomorrow."
+    },
+    {
+      "word": "unlikely",
+      "meaning": "khó xảy ra",
+      "example": "It is unlikely to snow here."
+    },
+    {
+      "word": "consequence",
+      "meaning": "hậu quả",
+      "example": "Every action has a consequence."
+    },
+    {
+      "word": "depend",
+      "meaning": "phụ thuộc",
+      "example": "It depends on the weather."
+    },
+    {
+      "word": "situation",
+      "meaning": "tình huống",
+      "example": "Describe the situation."
+    },
+    {
+      "word": "solve",
+      "meaning": "giải quyết",
+      "example": "If we work together, we solve it."
+    },
+    {
+      "word": "freeze",
+      "meaning": "đóng băng",
+      "example": "If you cool water, it freezes."
+    },
+    {
+      "word": "boil",
+      "meaning": "sôi",
+      "example": "Water boils at 100 degrees."
+    },
+    {
+      "word": "melt",
+      "meaning": "tan chảy",
+      "example": "Ice melts if it gets warm."
+    },
+    {
+      "word": "succeed",
+      "meaning": "thành công",
+      "example": "If you try, you will succeed."
+    },
+    {
+      "word": "fail",
+      "meaning": "thất bại",
+      "example": "If you don't study, you fail."
+    },
+    {
+      "word": "react",
+      "meaning": "phản ứng",
+      "example": "How would you react?"
+    },
+    {
+      "word": "warn",
+      "meaning": "cảnh báo",
+      "example": "If you see smoke, warn others."
+    },
+    {
+      "word": "otherwise",
+      "meaning": "nếu không",
+      "example": "Hurry, otherwise we'll be late."
+    },
+    {
+      "word": "provided",
+      "meaning": "miễn là",
+      "example": "You can go provided you finish."
+    },
+    {
+      "word": "scenario",
+      "meaning": "kịch bản",
+      "example": "Consider the worst scenario."
+    },
+    {
+      "word": "outcome",
+      "meaning": "kết quả",
+      "example": "The outcome was positive."
+    },
+    {
+      "word": "assume",
+      "meaning": "giả sử",
+      "example": "Assume the plan works."
+    },
+    {
+      "word": "condition",
+      "meaning": "điều kiện",
+      "example": "Read the conditions carefully."
+    },
+    {
+      "word": "if",
+      "meaning": "nếu",
+      "example": "If it rains, we will stay home."
+    },
+    {
+      "word": "unless",
+      "meaning": "trừ khi",
+      "example": "I won't go unless you come."
+    },
+    {
+      "word": "would",
+      "meaning": "sẽ (giả định)",
+      "example": "I would travel if I were rich."
+    },
+    {
+      "word": "imagine",
+      "meaning": "tưởng tượng",
+      "example": "Imagine you won the lottery."
+    },
+    {
+      "word": "result",
+      "meaning": "kết quả",
+      "example": "Hard work brings good results."
+    }
+  ]
+}

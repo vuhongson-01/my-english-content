@@ -1,0 +1,485 @@
+{
+  "dayId": "day-60",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"construct\"?",
+      "options": [
+        "tiến hành",
+        "kiểm tra",
+        "xây dựng",
+        "sửa chữa"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"construct\" có nghĩa là \"xây dựng\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"establish\"?",
+      "options": [
+        "giao hàng",
+        "thiết kế",
+        "thành lập",
+        "cấm"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"establish\" có nghĩa là \"thành lập\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"organize\"?",
+      "options": [
+        "sản xuất",
+        "làm hư hại",
+        "thiết kế",
+        "tổ chức"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"organize\" có nghĩa là \"tổ chức\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"conduct\"?",
+      "options": [
+        "xuất bản",
+        "xây dựng",
+        "cung cấp",
+        "tiến hành"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"conduct\" có nghĩa là \"tiến hành\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"examine\"?",
+      "options": [
+        "kiểm tra",
+        "xây dựng",
+        "phát minh",
+        "chủ động"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"examine\" có nghĩa là \"kiểm tra\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"install\"?",
+      "options": [
+        "lắp đặt",
+        "làm hư hại",
+        "chế tạo",
+        "thiết kế"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"install\" có nghĩa là \"lắp đặt\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"destroy\"?",
+      "options": [
+        "trao tặng",
+        "cấm",
+        "phá hủy",
+        "sửa chữa"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"destroy\" có nghĩa là \"phá hủy\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"provide\"?",
+      "options": [
+        "hoàn thành",
+        "làm hư hại",
+        "thiết kế",
+        "cung cấp"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"provide\" có nghĩa là \"cung cấp\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"issue\"?",
+      "options": [
+        "giao hàng",
+        "xây dựng",
+        "cấp/phát hành",
+        "thành lập"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"issue\" có nghĩa là \"cấp/phát hành\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"award\"?",
+      "options": [
+        "chủ động",
+        "phá hủy",
+        "lắp đặt",
+        "trao tặng"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"award\" có nghĩa là \"trao tặng\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"ban\"?",
+      "options": [
+        "trao tặng",
+        "cấm",
+        "khám phá",
+        "cấp/phát hành"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"ban\" có nghĩa là \"cấm\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"passive\"?",
+      "options": [
+        "chủ động",
+        "chế tạo",
+        "bị động",
+        "khám phá"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"passive\" có nghĩa là \"bị động\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: The software was _____ed yesterday.",
+      "options": [
+        "install",
+        "award",
+        "publish",
+        "discover"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The software was installed yesterday.\" — từ đúng là \"install\" (lắp đặt)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: The building was _____ed.",
+      "options": [
+        "destroy",
+        "complete",
+        "ban",
+        "examine"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The building was destroyed.\" — từ đúng là \"destroy\" (phá hủy)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: Meals are _____d free.",
+      "options": [
+        "build",
+        "provide",
+        "complete",
+        "repair"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Meals are provided free.\" — từ đúng là \"provide\" (cung cấp)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: Tickets are _____d at the desk.",
+      "options": [
+        "organize",
+        "conduct",
+        "deliver",
+        "issue"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Tickets are issued at the desk.\" — từ đúng là \"issue\" (cấp/phát hành)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: She was _____ed a prize.",
+      "options": [
+        "repair",
+        "examine",
+        "award",
+        "issue"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"She was awarded a prize.\" — từ đúng là \"award\" (trao tặng)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: Plastic bags were _____ned.",
+      "options": [
+        "award",
+        "invent",
+        "ban",
+        "damage"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"Plastic bags were banned.\" — từ đúng là \"ban\" (cấm)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: The letter was written by Tom. (_____)",
+      "options": [
+        "invent",
+        "passive",
+        "complete",
+        "ban"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"The letter was written by Tom.\" — từ đúng là \"passive\" (bị động)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: Tom wrote the letter. (_____)",
+      "options": [
+        "design",
+        "issue",
+        "discover",
+        "active"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Tom wrote the letter.\" — từ đúng là \"active\" (chủ động)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: Cars are _____d in this factory.",
+      "options": [
+        "install",
+        "produce",
+        "issue",
+        "complete"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Cars are produced in this factory.\" — từ đúng là \"produce\" (sản xuất)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: The bridge was built in 1990. (_____)",
+      "options": [
+        "passive",
+        "ban",
+        "repair",
+        "build"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"The bridge was built in 1990.\" — từ đúng là \"build\" (xây dựng)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: The phone was _____ed long ago.",
+      "options": [
+        "destroy",
+        "manufacture",
+        "invent",
+        "passive"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"The phone was invented long ago.\" — từ đúng là \"invent\" (phát minh)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: Penicillin was _____ed by chance.",
+      "options": [
+        "conduct",
+        "discover",
+        "repair",
+        "passive"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Penicillin was discovered by chance.\" — từ đúng là \"discover\" (khám phá)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: The letter ___ written by Tom.",
+      "options": [
+        "is wrote",
+        "were",
+        "was",
+        "did"
+      ],
+      "answerIndex": 2,
+      "explanation": "Passive past simple: was + past participle."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: Cars ___ produced in this factory.",
+      "options": [
+        "is",
+        "were being",
+        "are",
+        "be"
+      ],
+      "answerIndex": 2,
+      "explanation": "Passive present simple plural: are + participle."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: The bridge ___ built in 1990.",
+      "options": [
+        "were",
+        "is",
+        "did",
+        "was"
+      ],
+      "answerIndex": 3,
+      "explanation": "Singular subject passive past: was + participle."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: English ___ spoken all over the world.",
+      "options": [
+        "is",
+        "be",
+        "are",
+        "was being"
+      ],
+      "answerIndex": 0,
+      "explanation": "Passive present simple singular: is + participle."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: The room is ___ cleaned now.",
+      "options": [
+        "was",
+        "being",
+        "been",
+        "be"
+      ],
+      "answerIndex": 1,
+      "explanation": "Present continuous passive: is being + participle."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: These goods ___ made in Vietnam.",
+      "options": [
+        "is",
+        "be",
+        "was",
+        "are"
+      ],
+      "answerIndex": 3,
+      "explanation": "Plural subject present passive: are."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: The book was ___ last year.",
+      "options": [
+        "publishing",
+        "published",
+        "publishes",
+        "publish"
+      ],
+      "answerIndex": 1,
+      "explanation": "Passive needs the past participle."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: The car ___ being repaired.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "been"
+      ],
+      "answerIndex": 0,
+      "explanation": "Singular present continuous passive: is being."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: The results ___ announced tomorrow.",
+      "options": [
+        "will be",
+        "is",
+        "were",
+        "are announce"
+      ],
+      "answerIndex": 0,
+      "explanation": "Future passive: will be + participle."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: Penicillin ___ discovered by Fleming.",
+      "options": [
+        "were",
+        "did",
+        "was",
+        "is"
+      ],
+      "answerIndex": 2,
+      "explanation": "Singular passive past simple uses 'was'."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"xây dựng\"?",
+      "options": [
+        "provide",
+        "construct",
+        "produce",
+        "build"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"xây dựng\" trong tiếng Anh là \"construct\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"thành lập\"?",
+      "options": [
+        "produce",
+        "establish",
+        "award",
+        "provide"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"thành lập\" trong tiếng Anh là \"establish\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"tổ chức\"?",
+      "options": [
+        "award",
+        "publish",
+        "organize",
+        "establish"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"tổ chức\" trong tiếng Anh là \"organize\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"tiến hành\"?",
+      "options": [
+        "provide",
+        "conduct",
+        "build",
+        "construct"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"tiến hành\" trong tiếng Anh là \"conduct\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"kiểm tra\"?",
+      "options": [
+        "issue",
+        "install",
+        "examine",
+        "repair"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"kiểm tra\" trong tiếng Anh là \"examine\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"lắp đặt\"?",
+      "options": [
+        "install",
+        "construct",
+        "repair",
+        "publish"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"lắp đặt\" trong tiếng Anh là \"install\"."
+    }
+  ]
+}
