@@ -1,0 +1,485 @@
+{
+  "dayId": "day-33",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"relocate\"?",
+      "options": [
+        "cơ hội",
+        "đáng nhớ",
+        "chuyển chỗ ở",
+        "bao giờ"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"relocate\" có nghĩa là \"chuyển chỗ ở\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"discover\"?",
+      "options": [
+        "khám phá ra",
+        "cơ hội",
+        "đã rồi",
+        "gần đây"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"discover\" có nghĩa là \"khám phá ra\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"participate\"?",
+      "options": [
+        "chuyển chỗ ở",
+        "đi du lịch",
+        "vừa mới",
+        "tham gia"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"participate\" có nghĩa là \"tham gia\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"witnessed\"?",
+      "options": [
+        "gần đây",
+        "cơ hội",
+        "cuộc phiêu lưu",
+        "đã chứng kiến"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"witnessed\" có nghĩa là \"đã chứng kiến\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"experience\"?",
+      "options": [
+        "đi du lịch",
+        "trải nghiệm",
+        "ở nước ngoài",
+        "chưa bao giờ"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"experience\" có nghĩa là \"trải nghiệm\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"already\"?",
+      "options": [
+        "khám phá ra",
+        "đã rồi",
+        "chuyển chỗ ở",
+        "vừa mới"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"already\" có nghĩa là \"đã rồi\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"yet\"?",
+      "options": [
+        "cuộc phiêu lưu",
+        "bao giờ",
+        "chưa bao giờ",
+        "chưa/đã...chưa"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"yet\" có nghĩa là \"chưa/đã...chưa\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"ever\"?",
+      "options": [
+        "bao giờ",
+        "vừa mới",
+        "cho đến nay",
+        "trải nghiệm"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"ever\" có nghĩa là \"bao giờ\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"never\"?",
+      "options": [
+        "gần đây",
+        "cuộc phiêu lưu",
+        "chưa bao giờ",
+        "chuyển chỗ ở"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"never\" có nghĩa là \"chưa bao giờ\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"recently\"?",
+      "options": [
+        "gần đây",
+        "bao giờ",
+        "vừa mới",
+        "thăm"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"recently\" có nghĩa là \"gần đây\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"achieve\"?",
+      "options": [
+        "chưa bao giờ",
+        "ở nước ngoài",
+        "đạt được",
+        "gần đây"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"achieve\" có nghĩa là \"đạt được\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"travel\"?",
+      "options": [
+        "chưa/đã...chưa",
+        "đạt được",
+        "đi du lịch",
+        "cơ hội"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"travel\" có nghĩa là \"đi du lịch\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: I have _____ finished my homework.",
+      "options": [
+        "achieve",
+        "so far",
+        "never",
+        "already"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"I have already finished my homework.\" — từ đúng là \"already\" (đã rồi)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: Have you eaten _____?",
+      "options": [
+        "recent",
+        "yet",
+        "for",
+        "already"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Have you eaten yet?\" — từ đúng là \"yet\" (chưa/đã...chưa)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: Have you _____ been to Paris?",
+      "options": [
+        "accomplish",
+        "discover",
+        "ever",
+        "participate"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"Have you ever been to Paris?\" — từ đúng là \"ever\" (bao giờ)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: I have _____ tried sushi.",
+      "options": [
+        "ever",
+        "witnessed",
+        "opportunity",
+        "never"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"I have never tried sushi.\" — từ đúng là \"never\" (chưa bao giờ)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: She has _____ moved house.",
+      "options": [
+        "participate",
+        "memorable",
+        "recently",
+        "witnessed"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"She has recently moved house.\" — từ đúng là \"recently\" (gần đây)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: He has _____d his goal.",
+      "options": [
+        "never",
+        "already",
+        "achieve",
+        "relocate"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"He has achieved his goal.\" — từ đúng là \"achieve\" (đạt được)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: I have _____led to ten countries.",
+      "options": [
+        "achieve",
+        "visit",
+        "travel",
+        "already"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"I have travelled to ten countries.\" — từ đúng là \"travel\" (đi du lịch)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: She has lived _____ for years.",
+      "options": [
+        "memorable",
+        "abroad",
+        "adventure",
+        "achieve"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"She has lived abroad for years.\" — từ đúng là \"abroad\" (ở nước ngoài)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: I have known him _____ 2010.",
+      "options": [
+        "recent",
+        "adventure",
+        "recently",
+        "since"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"I have known him since 2010.\" — từ đúng là \"since\" (kể từ)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: We have lived here _____ five years.",
+      "options": [
+        "already",
+        "ever",
+        "for",
+        "recent"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"We have lived here for five years.\" — từ đúng là \"for\" (trong (khoảng))."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: They have _____ arrived.",
+      "options": [
+        "recent",
+        "achieve",
+        "just",
+        "witnessed"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"They have just arrived.\" — từ đúng là \"just\" (vừa mới)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: It was the trip of a _____.",
+      "options": [
+        "lifetime",
+        "opportunity",
+        "recently",
+        "accomplish"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"It was the trip of a lifetime.\" — từ đúng là \"lifetime\" (cả đời)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: I ___ already finished my homework.",
+      "options": [
+        "did",
+        "am",
+        "have",
+        "has"
+      ],
+      "answerIndex": 2,
+      "explanation": "Present perfect with 'I' uses 'have'."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: She ___ never been to Japan.",
+      "options": [
+        "is",
+        "has",
+        "did",
+        "have"
+      ],
+      "answerIndex": 1,
+      "explanation": "Third person singular uses 'has'."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: Have you ___ eaten sushi?",
+      "options": [
+        "for",
+        "since",
+        "yet",
+        "ever"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Ever' asks about experience in questions."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: They have lived here ___ 2015.",
+      "options": [
+        "ago",
+        "from",
+        "for",
+        "since"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Since' is used with a point in time."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: We have known each other ___ ten years.",
+      "options": [
+        "ago",
+        "for",
+        "since",
+        "from"
+      ],
+      "answerIndex": 1,
+      "explanation": "'For' is used with a period of time."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: He ___ just arrived.",
+      "options": [
+        "did",
+        "has",
+        "is",
+        "have"
+      ],
+      "answerIndex": 1,
+      "explanation": "Present perfect with 'just' for recent action."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: I haven't finished ___.",
+      "options": [
+        "already",
+        "since",
+        "yet",
+        "ever"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Yet' in negatives means up to now."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: She has ___ seen that film.",
+      "options": [
+        "for",
+        "yet",
+        "since",
+        "already"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Already' shows something happened before now."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: Have they ___ arrived?",
+      "options": [
+        "yet",
+        "ever",
+        "since",
+        "for"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Yet' in questions asks if something happened."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: I have ___ to Paris twice.",
+      "options": [
+        "went",
+        "been",
+        "gone",
+        "being"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Have been to' means visited and returned."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"chuyển chỗ ở\"?",
+      "options": [
+        "relocate",
+        "experience",
+        "discover",
+        "lifetime"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"chuyển chỗ ở\" trong tiếng Anh là \"relocate\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"khám phá ra\"?",
+      "options": [
+        "witnessed",
+        "for",
+        "discover",
+        "so far"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"khám phá ra\" trong tiếng Anh là \"discover\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"tham gia\"?",
+      "options": [
+        "recent",
+        "so far",
+        "experience",
+        "participate"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"tham gia\" trong tiếng Anh là \"participate\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"đã chứng kiến\"?",
+      "options": [
+        "witnessed",
+        "since",
+        "abroad",
+        "opportunity"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"đã chứng kiến\" trong tiếng Anh là \"witnessed\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"trải nghiệm\"?",
+      "options": [
+        "recent",
+        "lifetime",
+        "experience",
+        "adventure"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"trải nghiệm\" trong tiếng Anh là \"experience\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"đã rồi\"?",
+      "options": [
+        "adventure",
+        "never",
+        "already",
+        "participate"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"đã rồi\" trong tiếng Anh là \"already\"."
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "dayId": "day-39",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"avoid\"?",
+      "options": [
+        "lời khuyên",
+        "tránh",
+        "nghĩa vụ",
+        "chắc chắn"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"avoid\" có nghĩa là \"tránh\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"responsible\"?",
+      "options": [
+        "lịch sự",
+        "có trách nhiệm",
+        "sự cho phép",
+        "nghiêm khắc"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"responsible\" có nghĩa là \"có trách nhiệm\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"skill\"?",
+      "options": [
+        "khả năng",
+        "kỹ năng",
+        "lịch sự",
+        "nên"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"skill\" có nghĩa là \"kỹ năng\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"perhaps\"?",
+      "options": [
+        "sự cho phép",
+        "có lẽ",
+        "lời khuyên",
+        "chắc chắn"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"perhaps\" có nghĩa là \"có lẽ\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"certainly\"?",
+      "options": [
+        "chắc chắn",
+        "tránh",
+        "lời khuyên",
+        "yêu cầu"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"certainly\" có nghĩa là \"chắc chắn\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"unable\"?",
+      "options": [
+        "không thể",
+        "cấm",
+        "bị cấm",
+        "cần thiết"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"unable\" có nghĩa là \"không thể\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"strict\"?",
+      "options": [
+        "có thể",
+        "chắc chắn",
+        "cấm",
+        "nghiêm khắc"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"strict\" có nghĩa là \"nghiêm khắc\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"polite\"?",
+      "options": [
+        "bị cấm",
+        "yêu cầu",
+        "cấm",
+        "lịch sự"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"polite\" có nghĩa là \"lịch sự\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"compulsory\"?",
+      "options": [
+        "phải",
+        "có thể (quá khứ)",
+        "yêu cầu",
+        "bắt buộc"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"compulsory\" có nghĩa là \"bắt buộc\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"essential\"?",
+      "options": [
+        "nghiêm khắc",
+        "thiết yếu",
+        "có thể",
+        "cần thiết"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"essential\" có nghĩa là \"thiết yếu\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"forbid\"?",
+      "options": [
+        "cấm",
+        "lời khuyên",
+        "có trách nhiệm",
+        "nghiêm khắc"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"forbid\" có nghĩa là \"cấm\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"ability\"?",
+      "options": [
+        "không thể",
+        "khả năng",
+        "bắt buộc",
+        "cấm"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"ability\" có nghĩa là \"khả năng\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: I was _____ to attend.",
+      "options": [
+        "forbid",
+        "must",
+        "unable",
+        "could"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"I was unable to attend.\" — từ đúng là \"unable\" (không thể)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: The teacher is very _____.",
+      "options": [
+        "obligation",
+        "certainly",
+        "responsible",
+        "strict"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"The teacher is very strict.\" — từ đúng là \"strict\" (nghiêm khắc)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: It is _____ to say thank you.",
+      "options": [
+        "strict",
+        "polite",
+        "obligation",
+        "forbidden"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"It is polite to say thank you.\" — từ đúng là \"polite\" (lịch sự)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: Education is _____ here.",
+      "options": [
+        "obligation",
+        "compulsory",
+        "manage",
+        "must"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Education is compulsory here.\" — từ đúng là \"compulsory\" (bắt buộc)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: Water is _____ for life.",
+      "options": [
+        "essential",
+        "polite",
+        "forbidden",
+        "manage"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"Water is essential for life.\" — từ đúng là \"essential\" (thiết yếu)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: They _____ loud music at night.",
+      "options": [
+        "polite",
+        "forbid",
+        "forbidden",
+        "ability"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"They forbid loud music at night.\" — từ đúng là \"forbid\" (cấm)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: She has the _____ to learn fast.",
+      "options": [
+        "avoid",
+        "ability",
+        "obligation",
+        "polite"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"She has the ability to learn fast.\" — từ đúng là \"ability\" (khả năng)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: Paying tax is an _____.",
+      "options": [
+        "strict",
+        "obligation",
+        "allowed",
+        "could"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Paying tax is an obligation.\" — từ đúng là \"obligation\" (nghĩa vụ)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: Let me give you some _____.",
+      "options": [
+        "necessary",
+        "could",
+        "permission",
+        "advice"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Let me give you some advice.\" — từ đúng là \"advice\" (lời khuyên)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: You need _____ to enter.",
+      "options": [
+        "manage",
+        "responsible",
+        "permission",
+        "unable"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"You need permission to enter.\" — từ đúng là \"permission\" (sự cho phép)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: It is _____ to finish today.",
+      "options": [
+        "ability",
+        "manage",
+        "certainly",
+        "possible"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"It is possible to finish today.\" — từ đúng là \"possible\" (có thể)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: Sleep is _____ for health.",
+      "options": [
+        "necessary",
+        "strict",
+        "forbidden",
+        "unable"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"Sleep is necessary for health.\" — từ đúng là \"necessary\" (cần thiết)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: You ___ wear a seatbelt in a car.",
+      "options": [
+        "must",
+        "might",
+        "could",
+        "can"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Must' expresses a strong obligation."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: I ___ swim when I was five.",
+      "options": [
+        "can",
+        "could",
+        "must",
+        "should"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Could' expresses past ability."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: You ___ see a doctor; you look ill.",
+      "options": [
+        "must not",
+        "should",
+        "can",
+        "could"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Should' gives advice."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: Students ___ not use phones in class.",
+      "options": [
+        "can",
+        "could",
+        "must",
+        "should"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Must not' expresses prohibition."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: ___ I open the window? It's hot.",
+      "options": [
+        "Can",
+        "Have to",
+        "Should",
+        "Must"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Can' asks for permission."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: She ___ to work on Sundays.",
+      "options": [
+        "mustn't",
+        "can't",
+        "doesn't have",
+        "couldn't"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Don't have to' means no obligation."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: He is strong; he ___ lift that box.",
+      "options": [
+        "can",
+        "could not",
+        "should",
+        "must"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Can' shows present ability."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: You ___ smoke here; it's forbidden.",
+      "options": [
+        "could",
+        "mustn't",
+        "don't have to",
+        "should"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Mustn't' is prohibition."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: We ___ finish the report by Friday.",
+      "options": [
+        "could",
+        "can",
+        "have to",
+        "might"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Have to' expresses obligation."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: You ___ try this cake; it's delicious.",
+      "options": [
+        "don't have to",
+        "should",
+        "must not",
+        "could not"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Should' is a recommendation."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"tránh\"?",
+      "options": [
+        "advice",
+        "avoid",
+        "require",
+        "certainly"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"tránh\" trong tiếng Anh là \"avoid\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"có trách nhiệm\"?",
+      "options": [
+        "could",
+        "require",
+        "responsible",
+        "permission"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"có trách nhiệm\" trong tiếng Anh là \"responsible\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"kỹ năng\"?",
+      "options": [
+        "skill",
+        "should",
+        "require",
+        "forbid"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"kỹ năng\" trong tiếng Anh là \"skill\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"có lẽ\"?",
+      "options": [
+        "perhaps",
+        "forbid",
+        "could",
+        "responsible"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"có lẽ\" trong tiếng Anh là \"perhaps\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"chắc chắn\"?",
+      "options": [
+        "forbid",
+        "possible",
+        "forbidden",
+        "certainly"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"chắc chắn\" trong tiếng Anh là \"certainly\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"không thể\"?",
+      "options": [
+        "unable",
+        "forbid",
+        "perhaps",
+        "ability"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"không thể\" trong tiếng Anh là \"unable\"."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "dayId": "day-51",
+  "items": [
+    {
+      "word": "happen",
+      "meaning": "xảy ra",
+      "example": "What would happen if we left?"
+    },
+    {
+      "word": "possible",
+      "meaning": "có thể",
+      "example": "It is possible to succeed."
+    },
+    {
+      "word": "impossible",
+      "meaning": "không thể",
+      "example": "It seems impossible to win."
+    },
+    {
+      "word": "real",
+      "meaning": "thực tế",
+      "example": "This is a real situation."
+    },
+    {
+      "word": "unreal",
+      "meaning": "không thực",
+      "example": "That is an unreal scenario."
+    },
+    {
+      "word": "hypothetical",
+      "meaning": "giả định",
+      "example": "This is a hypothetical question."
+    },
+    {
+      "word": "certain",
+      "meaning": "chắc chắn",
+      "example": "I am certain it will work."
+    },
+    {
+      "word": "likely",
+      "meaning": "có khả năng",
+      "example": "Rain is likely tomorrow."
+    },
+    {
+      "word": "unlikely",
+      "meaning": "khó xảy ra",
+      "example": "It is unlikely to snow here."
+    },
+    {
+      "word": "consequence",
+      "meaning": "hậu quả",
+      "example": "Every action has a consequence."
+    },
+    {
+      "word": "depend",
+      "meaning": "phụ thuộc",
+      "example": "It depends on the weather."
+    },
+    {
+      "word": "situation",
+      "meaning": "tình huống",
+      "example": "Describe the situation."
+    },
+    {
+      "word": "solve",
+      "meaning": "giải quyết",
+      "example": "If we work together, we solve it."
+    },
+    {
+      "word": "freeze",
+      "meaning": "đóng băng",
+      "example": "If you cool water, it freezes."
+    },
+    {
+      "word": "boil",
+      "meaning": "sôi",
+      "example": "Water boils at 100 degrees."
+    },
+    {
+      "word": "melt",
+      "meaning": "tan chảy",
+      "example": "Ice melts if it gets warm."
+    },
+    {
+      "word": "succeed",
+      "meaning": "thành công",
+      "example": "If you try, you will succeed."
+    },
+    {
+      "word": "fail",
+      "meaning": "thất bại",
+      "example": "If you don't study, you fail."
+    },
+    {
+      "word": "react",
+      "meaning": "phản ứng",
+      "example": "How would you react?"
+    },
+    {
+      "word": "warn",
+      "meaning": "cảnh báo",
+      "example": "If you see smoke, warn others."
+    },
+    {
+      "word": "otherwise",
+      "meaning": "nếu không",
+      "example": "Hurry, otherwise we'll be late."
+    },
+    {
+      "word": "provided",
+      "meaning": "miễn là",
+      "example": "You can go provided you finish."
+    },
+    {
+      "word": "scenario",
+      "meaning": "kịch bản",
+      "example": "Consider the worst scenario."
+    },
+    {
+      "word": "outcome",
+      "meaning": "kết quả",
+      "example": "The outcome was positive."
+    }
+  ]
+}

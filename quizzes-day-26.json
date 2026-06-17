@@ -1,0 +1,485 @@
+{
+  "dayId": "day-26",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"likely\"?",
+      "options": [
+        "quyết tâm",
+        "chắc chắn",
+        "có lẽ",
+        "có khả năng"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"likely\" có nghĩa là \"có khả năng\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"aim\"?",
+      "options": [
+        "kế hoạch",
+        "mong đợi",
+        "nhắm tới",
+        "mục tiêu"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"aim\" có nghĩa là \"nhắm tới\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"trip\"?",
+      "options": [
+        "chuyến đi",
+        "dự báo",
+        "dự đoán",
+        "sắp tới"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"trip\" có nghĩa là \"chuyến đi\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"forecaster\"?",
+      "options": [
+        "có khả năng",
+        "mong đợi",
+        "người dự báo",
+        "lịch trình"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"forecaster\" có nghĩa là \"người dự báo\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"plan\"?",
+      "options": [
+        "mong đợi",
+        "có khả năng",
+        "kế hoạch",
+        "mục tiêu"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"plan\" có nghĩa là \"kế hoạch\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"intend\"?",
+      "options": [
+        "chuyến đi",
+        "dự định",
+        "sắp xếp",
+        "hy vọng"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"intend\" có nghĩa là \"dự định\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"predict\"?",
+      "options": [
+        "tổ chức",
+        "dự đoán",
+        "người dự báo",
+        "hứa"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"predict\" có nghĩa là \"dự đoán\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"arrange\"?",
+      "options": [
+        "sắp xếp",
+        "quyết định",
+        "mong đợi",
+        "nhắm tới"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"arrange\" có nghĩa là \"sắp xếp\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"schedule\"?",
+      "options": [
+        "có lẽ",
+        "lịch trình",
+        "chuẩn bị",
+        "dự định"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"schedule\" có nghĩa là \"lịch trình\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"decide\"?",
+      "options": [
+        "quyết định",
+        "chắc chắn",
+        "mục tiêu",
+        "chuẩn bị"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"decide\" có nghĩa là \"quyết định\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"promise\"?",
+      "options": [
+        "hạn chót",
+        "hứa",
+        "dự báo",
+        "quyết tâm"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"promise\" có nghĩa là \"hứa\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"appointment\"?",
+      "options": [
+        "quyết định",
+        "có khả năng",
+        "tương lai",
+        "cuộc hẹn"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"appointment\" có nghĩa là \"cuộc hẹn\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: I _____ to study English every day.",
+      "options": [
+        "intend",
+        "likely",
+        "promise",
+        "upcoming"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"I intend to study English every day.\" — từ đúng là \"intend\" (dự định)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: Experts _____ it will rain tomorrow.",
+      "options": [
+        "forecaster",
+        "predict",
+        "hope",
+        "prepare"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Experts predict it will rain tomorrow.\" — từ đúng là \"predict\" (dự đoán)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: She _____d a meeting for Monday.",
+      "options": [
+        "arrange",
+        "decide",
+        "likely",
+        "expect"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"She arranged a meeting for Monday.\" — từ đúng là \"arrange\" (sắp xếp)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: The train _____ changed last week.",
+      "options": [
+        "aim",
+        "upcoming",
+        "forecaster",
+        "schedule"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"The train schedule changed last week.\" — từ đúng là \"schedule\" (lịch trình)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: I will _____ tomorrow.",
+      "options": [
+        "trip",
+        "hope",
+        "decide",
+        "goal"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"I will decide tomorrow.\" — từ đúng là \"decide\" (quyết định)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: I _____ I will call you.",
+      "options": [
+        "promise",
+        "appointment",
+        "arrange",
+        "decide"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"I promise I will call you.\" — từ đúng là \"promise\" (hứa)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: I have a doctor's _____ at three.",
+      "options": [
+        "promise",
+        "plan",
+        "appointment",
+        "upcoming"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"I have a doctor's appointment at three.\" — từ đúng là \"appointment\" (cuộc hẹn)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: Nobody knows the _____.",
+      "options": [
+        "future",
+        "forecast",
+        "definitely",
+        "hope"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"Nobody knows the future.\" — từ đúng là \"future\" (tương lai)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: I _____ you will pass the exam.",
+      "options": [
+        "hope",
+        "predict",
+        "promise",
+        "arrange"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"I hope you will pass the exam.\" — từ đúng là \"hope\" (hy vọng)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: We _____ good weather next week.",
+      "options": [
+        "expect",
+        "predict",
+        "deadline",
+        "resolution"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"We expect good weather next week.\" — từ đúng là \"expect\" (mong đợi)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: She will _____ arrive late.",
+      "options": [
+        "definitely",
+        "probably",
+        "appointment",
+        "future"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"She will probably arrive late.\" — từ đúng là \"probably\" (có lẽ)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: I will _____ help you.",
+      "options": [
+        "trip",
+        "definitely",
+        "hope",
+        "expect"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"I will definitely help you.\" — từ đúng là \"definitely\" (chắc chắn)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: I think it ___ rain tomorrow.",
+      "options": [
+        "will",
+        "am going to",
+        "would",
+        "is going to definitely"
+      ],
+      "answerIndex": 0,
+      "explanation": "Use 'will' for a prediction based on opinion."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: Look at those clouds! It ___ rain.",
+      "options": [
+        "will",
+        "goes to",
+        "is going to",
+        "would"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Going to' for predictions based on present evidence."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: I ___ meet my friend at six tonight (arranged).",
+      "options": [
+        "am meeting",
+        "will meet",
+        "meet",
+        "go to meet"
+      ],
+      "answerIndex": 0,
+      "explanation": "Present continuous for fixed future arrangements."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: She ___ visit her aunt next week.",
+      "options": [
+        "goes",
+        "is go to",
+        "will to",
+        "is going to"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Be going to' + base verb for plans."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: Don't worry, I ___ help you.",
+      "options": [
+        "am will",
+        "am going",
+        "would",
+        "will"
+      ],
+      "answerIndex": 3,
+      "explanation": "Spontaneous offer uses 'will'."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: We ___ to the cinema this evening (planned).",
+      "options": [
+        "go",
+        "are going",
+        "would go",
+        "will go to"
+      ],
+      "answerIndex": 1,
+      "explanation": "Present continuous for a planned arrangement."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: Perhaps they ___ come later.",
+      "options": [
+        "would",
+        "are going to surely",
+        "go to",
+        "will"
+      ],
+      "answerIndex": 3,
+      "explanation": "Uncertain prediction uses 'will' with 'perhaps'."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: The train ___ at 9 a.m. (timetable).",
+      "options": [
+        "would leave",
+        "will leave",
+        "is leaving",
+        "leaves"
+      ],
+      "answerIndex": 3,
+      "explanation": "Present simple for timetables."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: I'm sure she ___ pass the test.",
+      "options": [
+        "will",
+        "would",
+        "is going",
+        "go to"
+      ],
+      "answerIndex": 0,
+      "explanation": "Prediction/belief uses 'will'."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: What ___ you going to do tonight?",
+      "options": [
+        "will",
+        "is",
+        "do",
+        "are"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Be going to' question with 'you' uses 'are'."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"có khả năng\"?",
+      "options": [
+        "resolution",
+        "trip",
+        "appointment",
+        "likely"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"có khả năng\" trong tiếng Anh là \"likely\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"nhắm tới\"?",
+      "options": [
+        "deadline",
+        "aim",
+        "schedule",
+        "decide"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"nhắm tới\" trong tiếng Anh là \"aim\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"chuyến đi\"?",
+      "options": [
+        "forecast",
+        "schedule",
+        "organize",
+        "trip"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"chuyến đi\" trong tiếng Anh là \"trip\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"người dự báo\"?",
+      "options": [
+        "definitely",
+        "probably",
+        "forecast",
+        "forecaster"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"người dự báo\" trong tiếng Anh là \"forecaster\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"kế hoạch\"?",
+      "options": [
+        "plan",
+        "appointment",
+        "forecaster",
+        "resolution"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"kế hoạch\" trong tiếng Anh là \"plan\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"dự định\"?",
+      "options": [
+        "deadline",
+        "schedule",
+        "promise",
+        "intend"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"dự định\" trong tiếng Anh là \"intend\"."
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "dayId": "day-56",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"real\"?",
+      "options": [
+        "thực tế",
+        "giả sử",
+        "điều kiện",
+        "giải quyết"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"real\" có nghĩa là \"thực tế\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"unreal\"?",
+      "options": [
+        "khó xảy ra",
+        "giả định",
+        "kịch bản",
+        "không thực"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"unreal\" có nghĩa là \"không thực\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"hypothetical\"?",
+      "options": [
+        "tình huống",
+        "giả định",
+        "đóng băng",
+        "phụ thuộc"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"hypothetical\" có nghĩa là \"giả định\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"certain\"?",
+      "options": [
+        "tan chảy",
+        "cảnh báo",
+        "giả sử",
+        "chắc chắn"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"certain\" có nghĩa là \"chắc chắn\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"likely\"?",
+      "options": [
+        "có khả năng",
+        "kịch bản",
+        "thành công",
+        "chắc chắn"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"likely\" có nghĩa là \"có khả năng\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"unlikely\"?",
+      "options": [
+        "thành công",
+        "khó xảy ra",
+        "chắc chắn",
+        "thất bại"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"unlikely\" có nghĩa là \"khó xảy ra\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"consequence\"?",
+      "options": [
+        "tan chảy",
+        "phản ứng",
+        "hậu quả",
+        "phụ thuộc"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"consequence\" có nghĩa là \"hậu quả\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"depend\"?",
+      "options": [
+        "có khả năng",
+        "nếu",
+        "phụ thuộc",
+        "đóng băng"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"depend\" có nghĩa là \"phụ thuộc\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"situation\"?",
+      "options": [
+        "tan chảy",
+        "kết quả",
+        "khó xảy ra",
+        "tình huống"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"situation\" có nghĩa là \"tình huống\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"solve\"?",
+      "options": [
+        "giải quyết",
+        "tình huống",
+        "điều kiện",
+        "nếu không"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"solve\" có nghĩa là \"giải quyết\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"freeze\"?",
+      "options": [
+        "tình huống",
+        "đóng băng",
+        "sôi",
+        "điều kiện"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"freeze\" có nghĩa là \"đóng băng\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"boil\"?",
+      "options": [
+        "sôi",
+        "hậu quả",
+        "nếu không",
+        "đóng băng"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"boil\" có nghĩa là \"sôi\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: It is _____ to snow here.",
+      "options": [
+        "unlikely",
+        "consequence",
+        "hypothetical",
+        "unreal"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"It is unlikely to snow here.\" — từ đúng là \"unlikely\" (khó xảy ra)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: Every action has a _____.",
+      "options": [
+        "otherwise",
+        "situation",
+        "consequence",
+        "likely"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"Every action has a consequence.\" — từ đúng là \"consequence\" (hậu quả)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: It _____s on the weather.",
+      "options": [
+        "situation",
+        "otherwise",
+        "likely",
+        "depend"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"It depends on the weather.\" — từ đúng là \"depend\" (phụ thuộc)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: Describe the _____.",
+      "options": [
+        "real",
+        "provided",
+        "situation",
+        "otherwise"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"Describe the situation.\" — từ đúng là \"situation\" (tình huống)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: If we work together, we _____ it.",
+      "options": [
+        "freeze",
+        "hypothetical",
+        "solve",
+        "provided"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"If we work together, we solve it.\" — từ đúng là \"solve\" (giải quyết)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: If you cool water, it _____s.",
+      "options": [
+        "provided",
+        "hypothetical",
+        "succeed",
+        "freeze"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"If you cool water, it freezes.\" — từ đúng là \"freeze\" (đóng băng)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: Water _____s at 100 degrees.",
+      "options": [
+        "assume",
+        "boil",
+        "situation",
+        "fail"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Water boils at 100 degrees.\" — từ đúng là \"boil\" (sôi)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: Ice _____s if it gets warm.",
+      "options": [
+        "otherwise",
+        "warn",
+        "consequence",
+        "melt"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Ice melts if it gets warm.\" — từ đúng là \"melt\" (tan chảy)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: If you try, you will _____.",
+      "options": [
+        "solve",
+        "succeed",
+        "react",
+        "likely"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"If you try, you will succeed.\" — từ đúng là \"succeed\" (thành công)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: If you don't study, you _____.",
+      "options": [
+        "unreal",
+        "situation",
+        "fail",
+        "outcome"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"If you don't study, you fail.\" — từ đúng là \"fail\" (thất bại)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: How would you _____?",
+      "options": [
+        "melt",
+        "react",
+        "provided",
+        "scenario"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"How would you react?\" — từ đúng là \"react\" (phản ứng)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: If you see smoke, _____ others.",
+      "options": [
+        "freeze",
+        "warn",
+        "otherwise",
+        "condition"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"If you see smoke, warn others.\" — từ đúng là \"warn\" (cảnh báo)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: If you heat ice, it ___.",
+      "options": [
+        "melted",
+        "will melt",
+        "melts",
+        "would melt"
+      ],
+      "answerIndex": 2,
+      "explanation": "Zero conditional: present simple in both clauses."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: If it rains, we ___ stay home.",
+      "options": [
+        "are",
+        "did",
+        "will",
+        "would"
+      ],
+      "answerIndex": 2,
+      "explanation": "First conditional: will + base verb in result."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: If I ___ rich, I would travel a lot.",
+      "options": [
+        "am",
+        "were",
+        "will be",
+        "have been"
+      ],
+      "answerIndex": 1,
+      "explanation": "Second conditional uses past simple in the if-clause."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: She would help if she ___ time.",
+      "options": [
+        "will have",
+        "had",
+        "has",
+        "have"
+      ],
+      "answerIndex": 1,
+      "explanation": "Second conditional uses past simple."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: Water boils if you ___ it to 100°C.",
+      "options": [
+        "would heat",
+        "heated",
+        "will heat",
+        "heat"
+      ],
+      "answerIndex": 3,
+      "explanation": "Zero conditional uses present simple."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: If you study, you ___ pass.",
+      "options": [
+        "would",
+        "will",
+        "did",
+        "are"
+      ],
+      "answerIndex": 1,
+      "explanation": "First conditional result uses 'will'."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: I ___ buy a car if I had money.",
+      "options": [
+        "would",
+        "did",
+        "will",
+        "am"
+      ],
+      "answerIndex": 0,
+      "explanation": "Second conditional result uses 'would'."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: Unless you hurry, you ___ be late.",
+      "options": [
+        "are",
+        "would",
+        "will",
+        "did"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Unless' = if not, first conditional."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: If he ___ harder, he would succeed.",
+      "options": [
+        "worked",
+        "work",
+        "works",
+        "will work"
+      ],
+      "answerIndex": 0,
+      "explanation": "Second conditional uses past simple."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: If you press this button, the machine ___.",
+      "options": [
+        "starts",
+        "would start",
+        "will start tomorrow",
+        "started"
+      ],
+      "answerIndex": 0,
+      "explanation": "Zero conditional for general facts."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"thực tế\"?",
+      "options": [
+        "fail",
+        "real",
+        "solve",
+        "melt"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"thực tế\" trong tiếng Anh là \"real\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"không thực\"?",
+      "options": [
+        "boil",
+        "real",
+        "certain",
+        "unreal"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"không thực\" trong tiếng Anh là \"unreal\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"giả định\"?",
+      "options": [
+        "hypothetical",
+        "situation",
+        "condition",
+        "provided"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"giả định\" trong tiếng Anh là \"hypothetical\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"chắc chắn\"?",
+      "options": [
+        "consequence",
+        "certain",
+        "solve",
+        "scenario"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"chắc chắn\" trong tiếng Anh là \"certain\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"có khả năng\"?",
+      "options": [
+        "likely",
+        "real",
+        "unreal",
+        "react"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"có khả năng\" trong tiếng Anh là \"likely\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"khó xảy ra\"?",
+      "options": [
+        "situation",
+        "if",
+        "boil",
+        "unlikely"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"khó xảy ra\" trong tiếng Anh là \"unlikely\"."
+    }
+  ]
+}

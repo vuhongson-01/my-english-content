@@ -1,0 +1,485 @@
+{
+  "dayId": "day-49",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"faster\"?",
+      "options": [
+        "nhanh hơn",
+        "hiện đại",
+        "thoải mái",
+        "ít nhất"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"faster\" có nghĩa là \"nhanh hơn\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"slower\"?",
+      "options": [
+        "nhẹ hơn",
+        "đông đúc",
+        "thú vị",
+        "chậm hơn"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"slower\" có nghĩa là \"chậm hơn\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"taller\"?",
+      "options": [
+        "so sánh",
+        "cao hơn",
+        "đẹp",
+        "khó"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"taller\" có nghĩa là \"cao hơn\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"shorter\"?",
+      "options": [
+        "ngang nhau",
+        "so sánh",
+        "ngắn/thấp hơn",
+        "phổ biến"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"shorter\" có nghĩa là \"ngắn/thấp hơn\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"similar\"?",
+      "options": [
+        "ngang nhau",
+        "phổ biến",
+        "cổ xưa",
+        "tương tự"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"similar\" có nghĩa là \"tương tự\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"different\"?",
+      "options": [
+        "thú vị",
+        "khác nhau",
+        "nhẹ hơn",
+        "đông đúc"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"different\" có nghĩa là \"khác nhau\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"popular\"?",
+      "options": [
+        "phổ biến",
+        "thoải mái",
+        "khó",
+        "cao hơn"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"popular\" có nghĩa là \"phổ biến\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"crowded\"?",
+      "options": [
+        "xếp hạng",
+        "đẹp",
+        "đông đúc",
+        "tương tự"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"crowded\" có nghĩa là \"đông đúc\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"comfortable\"?",
+      "options": [
+        "xếp hạng",
+        "thoải mái",
+        "thú vị",
+        "cổ xưa"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"comfortable\" có nghĩa là \"thoải mái\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"difficult\"?",
+      "options": [
+        "gần như",
+        "ít nhất",
+        "so sánh",
+        "khó"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"difficult\" có nghĩa là \"khó\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"interesting\"?",
+      "options": [
+        "thú vị",
+        "sự so sánh",
+        "ít nhất",
+        "ngang nhau"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"interesting\" có nghĩa là \"thú vị\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"beautiful\"?",
+      "options": [
+        "ngắn/thấp hơn",
+        "đẹp",
+        "tương tự",
+        "khó"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"beautiful\" có nghĩa là \"đẹp\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: The twins are quite _____.",
+      "options": [
+        "different",
+        "popular",
+        "beautiful",
+        "comfortable"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The twins are quite different.\" — từ đúng là \"different\" (khác nhau)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: Football is the most _____ sport.",
+      "options": [
+        "equally",
+        "quality",
+        "popular",
+        "shorter"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"Football is the most popular sport.\" — từ đúng là \"popular\" (phổ biến)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: The city is more _____ now.",
+      "options": [
+        "modern",
+        "crowded",
+        "different",
+        "quality"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"The city is more crowded now.\" — từ đúng là \"crowded\" (đông đúc)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: This chair is more _____.",
+      "options": [
+        "modern",
+        "lighter",
+        "interesting",
+        "comfortable"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"This chair is more comfortable.\" — từ đúng là \"comfortable\" (thoải mái)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: Math is more _____ for me.",
+      "options": [
+        "comfortable",
+        "beautiful",
+        "heavier",
+        "difficult"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Math is more difficult for me.\" — từ đúng là \"difficult\" (khó)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: This book is more _____.",
+      "options": [
+        "similar",
+        "shorter",
+        "quality",
+        "interesting"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"This book is more interesting.\" — từ đúng là \"interesting\" (thú vị)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: Spring is the most _____ season.",
+      "options": [
+        "quality",
+        "least",
+        "equally",
+        "beautiful"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Spring is the most beautiful season.\" — từ đúng là \"beautiful\" (đẹp)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: The new building is more _____.",
+      "options": [
+        "faster",
+        "slower",
+        "modern",
+        "beautiful"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"The new building is more modern.\" — từ đúng là \"modern\" (hiện đại)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: This is the most _____ temple.",
+      "options": [
+        "heavier",
+        "ancient",
+        "similar",
+        "slower"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"This is the most ancient temple.\" — từ đúng là \"ancient\" (cổ xưa)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: This brand has better _____.",
+      "options": [
+        "quality",
+        "slower",
+        "difficult",
+        "heavier"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"This brand has better quality.\" — từ đúng là \"quality\" (chất lượng)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: It is the _____ expensive option.",
+      "options": [
+        "popular",
+        "shorter",
+        "least",
+        "quality"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"It is the least expensive option.\" — từ đúng là \"least\" (ít nhất)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: Both are _____ good.",
+      "options": [
+        "faster",
+        "comparison",
+        "beautiful",
+        "equally"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Both are equally good.\" — từ đúng là \"equally\" (ngang nhau)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: An elephant is ___ than a dog.",
+      "options": [
+        "big",
+        "bigger",
+        "biggest",
+        "more big"
+      ],
+      "answerIndex": 1,
+      "explanation": "Comparative of short adjective: add -er."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: This is the ___ film I've ever seen.",
+      "options": [
+        "best",
+        "better",
+        "good",
+        "more good"
+      ],
+      "answerIndex": 0,
+      "explanation": "Superlative of 'good' is 'best'."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: Maths is ___ than English for me.",
+      "options": [
+        "difficulter",
+        "difficult",
+        "most difficult",
+        "more difficult"
+      ],
+      "answerIndex": 3,
+      "explanation": "Long adjectives use 'more'."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: She is the ___ student in class.",
+      "options": [
+        "tall",
+        "tallest",
+        "most tall",
+        "taller"
+      ],
+      "answerIndex": 1,
+      "explanation": "Superlative of short adjective: -est."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: Today is ___ than yesterday.",
+      "options": [
+        "hottest",
+        "more hot",
+        "hot",
+        "hotter"
+      ],
+      "answerIndex": 3,
+      "explanation": "Short adjective comparative doubles the consonant."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: A car is ___ expensive than a bike.",
+      "options": [
+        "much",
+        "most",
+        "more",
+        "very"
+      ],
+      "answerIndex": 2,
+      "explanation": "Use 'more' for comparative of long adjectives."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: This is the ___ book in the shop.",
+      "options": [
+        "cheapest",
+        "cheap",
+        "cheaper",
+        "most cheap"
+      ],
+      "answerIndex": 0,
+      "explanation": "Superlative of short adjective: -est."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: My bag is ___ as yours.",
+      "options": [
+        "biggest",
+        "bigger",
+        "more big",
+        "as big"
+      ],
+      "answerIndex": 3,
+      "explanation": "'As ... as' shows equality."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: Traffic is ___ on Mondays.",
+      "options": [
+        "worst",
+        "more bad",
+        "worse",
+        "bad"
+      ],
+      "answerIndex": 2,
+      "explanation": "Comparative of 'bad' is 'worse'."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: Russia is the ___ country in the world.",
+      "options": [
+        "largest",
+        "larger",
+        "most large",
+        "large"
+      ],
+      "answerIndex": 0,
+      "explanation": "Superlative of short adjective: -est."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"nhanh hơn\"?",
+      "options": [
+        "beautiful",
+        "faster",
+        "similar",
+        "lighter"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"nhanh hơn\" trong tiếng Anh là \"faster\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"chậm hơn\"?",
+      "options": [
+        "ancient",
+        "comfortable",
+        "slower",
+        "crowded"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"chậm hơn\" trong tiếng Anh là \"slower\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"cao hơn\"?",
+      "options": [
+        "taller",
+        "beautiful",
+        "rank",
+        "different"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"cao hơn\" trong tiếng Anh là \"taller\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"ngắn/thấp hơn\"?",
+      "options": [
+        "least",
+        "crowded",
+        "shorter",
+        "quality"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"ngắn/thấp hơn\" trong tiếng Anh là \"shorter\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"tương tự\"?",
+      "options": [
+        "quality",
+        "largest",
+        "comfortable",
+        "similar"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"tương tự\" trong tiếng Anh là \"similar\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"khác nhau\"?",
+      "options": [
+        "equally",
+        "taller",
+        "different",
+        "largest"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"khác nhau\" trong tiếng Anh là \"different\"."
+    }
+  ]
+}

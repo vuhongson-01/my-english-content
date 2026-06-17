@@ -1,0 +1,485 @@
+{
+  "dayId": "day-42",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"could\"?",
+      "options": [
+        "bổn phận",
+        "xoay xở",
+        "có trách nhiệm",
+        "có thể (quá khứ)"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"could\" có nghĩa là \"có thể (quá khứ)\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"manage\"?",
+      "options": [
+        "có khả năng",
+        "có trách nhiệm",
+        "nghiêm khắc",
+        "xoay xở"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"manage\" có nghĩa là \"xoay xở\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"require\"?",
+      "options": [
+        "có khả năng",
+        "yêu cầu",
+        "bổn phận",
+        "thiết yếu"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"require\" có nghĩa là \"yêu cầu\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"prohibit\"?",
+      "options": [
+        "khả năng",
+        "xoay xở",
+        "cấm",
+        "quy tắc"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"prohibit\" có nghĩa là \"cấm\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"recommend\"?",
+      "options": [
+        "cảnh báo",
+        "đề xuất",
+        "chắc chắn",
+        "nghiêm khắc"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"recommend\" có nghĩa là \"đề xuất\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"suggest\"?",
+      "options": [
+        "thiết yếu",
+        "có thể (quá khứ)",
+        "nghiêm khắc",
+        "gợi ý"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"suggest\" có nghĩa là \"gợi ý\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"capable\"?",
+      "options": [
+        "thiết yếu",
+        "yêu cầu",
+        "có khả năng",
+        "cấm"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"capable\" có nghĩa là \"có khả năng\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"duty\"?",
+      "options": [
+        "gợi ý",
+        "cấm",
+        "có khả năng",
+        "bổn phận"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"duty\" có nghĩa là \"bổn phận\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"rule\"?",
+      "options": [
+        "có trách nhiệm",
+        "cấm",
+        "quy tắc",
+        "bắt buộc"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"rule\" có nghĩa là \"quy tắc\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"warn\"?",
+      "options": [
+        "gợi ý",
+        "có thể (quá khứ)",
+        "có trách nhiệm",
+        "cảnh báo"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"warn\" có nghĩa là \"cảnh báo\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"permit\"?",
+      "options": [
+        "có lẽ",
+        "cho phép",
+        "đề xuất",
+        "bắt buộc"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"permit\" có nghĩa là \"cho phép\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"avoid\"?",
+      "options": [
+        "tránh",
+        "đề xuất",
+        "kỹ năng",
+        "có lẽ"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"avoid\" có nghĩa là \"tránh\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: I _____ taking the bus.",
+      "options": [
+        "unable",
+        "manage",
+        "certainly",
+        "suggest"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"I suggest taking the bus.\" — từ đúng là \"suggest\" (gợi ý)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: He is _____ of doing it.",
+      "options": [
+        "require",
+        "essential",
+        "ability",
+        "capable"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"He is capable of doing it.\" — từ đúng là \"capable\" (có khả năng)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: It is my _____ to help.",
+      "options": [
+        "manage",
+        "responsible",
+        "compulsory",
+        "duty"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"It is my duty to help.\" — từ đúng là \"duty\" (bổn phận)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: Follow the safety _____s.",
+      "options": [
+        "avoid",
+        "rule",
+        "strict",
+        "permit"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Follow the safety rules.\" — từ đúng là \"rule\" (quy tắc)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: I _____ed him about the danger.",
+      "options": [
+        "warn",
+        "skill",
+        "capable",
+        "perhaps"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"I warned him about the danger.\" — từ đúng là \"warn\" (cảnh báo)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: The law _____s this.",
+      "options": [
+        "capable",
+        "certainly",
+        "permit",
+        "warn"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"The law permits this.\" — từ đúng là \"permit\" (cho phép)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: You should _____ junk food.",
+      "options": [
+        "strict",
+        "avoid",
+        "require",
+        "permit"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"You should avoid junk food.\" — từ đúng là \"avoid\" (tránh)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: You are _____ for this.",
+      "options": [
+        "responsible",
+        "capable",
+        "duty",
+        "suggest"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"You are responsible for this.\" — từ đúng là \"responsible\" (có trách nhiệm)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: Cooking is a useful _____.",
+      "options": [
+        "perhaps",
+        "recommend",
+        "obligation",
+        "skill"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Cooking is a useful skill.\" — từ đúng là \"skill\" (kỹ năng)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: _____ it will rain.",
+      "options": [
+        "perhaps",
+        "warn",
+        "duty",
+        "unable"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"Perhaps it will rain.\" — từ đúng là \"perhaps\" (có lẽ)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: She can _____ help.",
+      "options": [
+        "capable",
+        "obligation",
+        "essential",
+        "certainly"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"She can certainly help.\" — từ đúng là \"certainly\" (chắc chắn)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: I was _____ to attend.",
+      "options": [
+        "unable",
+        "recommend",
+        "ability",
+        "perhaps"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"I was unable to attend.\" — từ đúng là \"unable\" (không thể)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: You ___ wear a seatbelt in a car.",
+      "options": [
+        "can",
+        "might",
+        "could",
+        "must"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Must' expresses a strong obligation."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: I ___ swim when I was five.",
+      "options": [
+        "must",
+        "should",
+        "can",
+        "could"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Could' expresses past ability."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: You ___ see a doctor; you look ill.",
+      "options": [
+        "should",
+        "can",
+        "could",
+        "must not"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Should' gives advice."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: Students ___ not use phones in class.",
+      "options": [
+        "can",
+        "must",
+        "should",
+        "could"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Must not' expresses prohibition."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: ___ I open the window? It's hot.",
+      "options": [
+        "Should",
+        "Have to",
+        "Can",
+        "Must"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Can' asks for permission."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: She ___ to work on Sundays.",
+      "options": [
+        "mustn't",
+        "can't",
+        "doesn't have",
+        "couldn't"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Don't have to' means no obligation."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: He is strong; he ___ lift that box.",
+      "options": [
+        "should",
+        "could not",
+        "can",
+        "must"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Can' shows present ability."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: You ___ smoke here; it's forbidden.",
+      "options": [
+        "could",
+        "don't have to",
+        "mustn't",
+        "should"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Mustn't' is prohibition."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: We ___ finish the report by Friday.",
+      "options": [
+        "could",
+        "can",
+        "might",
+        "have to"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Have to' expresses obligation."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: You ___ try this cake; it's delicious.",
+      "options": [
+        "could not",
+        "don't have to",
+        "must not",
+        "should"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Should' is a recommendation."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"có thể (quá khứ)\"?",
+      "options": [
+        "could",
+        "forbid",
+        "warn",
+        "obligation"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"có thể (quá khứ)\" trong tiếng Anh là \"could\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"xoay xở\"?",
+      "options": [
+        "compulsory",
+        "manage",
+        "polite",
+        "certainly"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"xoay xở\" trong tiếng Anh là \"manage\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"yêu cầu\"?",
+      "options": [
+        "could",
+        "recommend",
+        "require",
+        "polite"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"yêu cầu\" trong tiếng Anh là \"require\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"cấm\"?",
+      "options": [
+        "prohibit",
+        "perhaps",
+        "forbid",
+        "responsible"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"cấm\" trong tiếng Anh là \"prohibit\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"đề xuất\"?",
+      "options": [
+        "unable",
+        "capable",
+        "skill",
+        "recommend"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"đề xuất\" trong tiếng Anh là \"recommend\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"gợi ý\"?",
+      "options": [
+        "suggest",
+        "recommend",
+        "forbid",
+        "avoid"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"gợi ý\" trong tiếng Anh là \"suggest\"."
+    }
+  ]
+}
