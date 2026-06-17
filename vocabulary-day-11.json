@@ -1,0 +1,30 @@
+{
+  "dayId": "day-11",
+  "items": [
+    { "word": "beautiful", "meaning": "đẹp", "example": "The weather was beautiful on our holiday." },
+    { "word": "terrible", "meaning": "kinh khủng, tệ hại", "example": "The traffic was terrible this morning." },
+    { "word": "delicious", "meaning": "ngon", "example": "The food at the restaurant was delicious." },
+    { "word": "boring", "meaning": "buồn chán", "example": "The lecture was so boring that I fell asleep." },
+    { "word": "exciting", "meaning": "hứng thú, hồi hộp", "example": "The football match was very exciting." },
+    { "word": "nervous", "meaning": "hồi hộp, lo lắng", "example": "She was nervous before the exam." },
+    { "word": "proud", "meaning": "tự hào", "example": "Her parents were proud of her results." },
+    { "word": "surprised", "meaning": "ngạc nhiên", "example": "We were surprised by the news." },
+    { "word": "upset", "meaning": "buồn bực, không hài lòng", "example": "He was upset when he heard the bad news." },
+    { "word": "exhausted", "meaning": "kiệt sức", "example": "I was exhausted after the long trip." },
+    { "word": "crowded", "meaning": "đông đúc", "example": "The market was very crowded on Sunday." },
+    { "word": "empty", "meaning": "trống rỗng", "example": "The restaurant was empty when we arrived." },
+    { "word": "noisy", "meaning": "ồn ào", "example": "The street was too noisy to sleep." },
+    { "word": "quiet", "meaning": "yên tĩnh", "example": "The library was quiet and peaceful." },
+    { "word": "ready", "meaning": "sẵn sàng", "example": "We weren't ready when they arrived." },
+    { "word": "late", "meaning": "muộn, trễ", "example": "She was late for the meeting this morning." },
+    { "word": "early", "meaning": "sớm", "example": "He was early and had to wait for everyone." },
+    { "word": "alone", "meaning": "một mình", "example": "She was alone at home all evening." },
+    { "word": "together", "meaning": "cùng nhau", "example": "We were all together for the celebration." },
+    { "word": "service", "meaning": "dịch vụ", "example": "The food was great but the service was slow." },
+    { "word": "weather", "meaning": "thời tiết", "example": "The weather was cold and rainy last weekend." },
+    { "word": "journey", "meaning": "hành trình", "example": "The journey was long but comfortable." },
+    { "word": "result", "meaning": "kết quả", "example": "Her parents were proud of her exam results." },
+    { "word": "comfortable", "meaning": "thoải mái", "example": "The hotel room was very comfortable." },
+    { "word": "available", "meaning": "có sẵn, rảnh", "example": "He wasn't available yesterday afternoon." }
+  ]
+}

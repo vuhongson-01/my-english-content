@@ -1,0 +1,30 @@
+{
+  "dayId": "day-08",
+  "items": [
+    { "word": "work", "meaning": "làm việc", "example": "She worked all day yesterday without a break." },
+    { "word": "cook", "meaning": "nấu ăn", "example": "My mother cooked a big meal last Sunday." },
+    { "word": "visit", "meaning": "thăm, ghé thăm", "example": "We visited our grandparents last weekend." },
+    { "word": "study", "meaning": "học", "example": "He studied English for three hours last night." },
+    { "word": "stop", "meaning": "dừng lại", "example": "The bus stopped near my house yesterday." },
+    { "word": "travel", "meaning": "du lịch, đi lại", "example": "They traveled to Da Nang two years ago." },
+    { "word": "walk", "meaning": "đi bộ", "example": "She walked to school this morning." },
+    { "word": "talk", "meaning": "nói chuyện", "example": "We talked about our trip for hours." },
+    { "word": "listen", "meaning": "lắng nghe", "example": "He listened to music on the bus yesterday." },
+    { "word": "watch", "meaning": "xem", "example": "They watched a movie last Friday evening." },
+    { "word": "play", "meaning": "chơi", "example": "The children played football in the park yesterday." },
+    { "word": "clean", "meaning": "dọn dẹp", "example": "She cleaned her room last Saturday." },
+    { "word": "wash", "meaning": "rửa, giặt", "example": "He washed the dishes after dinner last night." },
+    { "word": "finish", "meaning": "hoàn thành, kết thúc", "example": "I finished my homework at 9 p.m." },
+    { "word": "start", "meaning": "bắt đầu", "example": "The party started at 7 o'clock." },
+    { "word": "arrive", "meaning": "đến nơi", "example": "We arrived at the station two hours late." },
+    { "word": "wait", "meaning": "đợi, chờ", "example": "She waited for the bus for 20 minutes." },
+    { "word": "call", "meaning": "gọi điện", "example": "He called his friend after work yesterday." },
+    { "word": "ask", "meaning": "hỏi", "example": "The student asked the teacher a question." },
+    { "word": "answer", "meaning": "trả lời", "example": "She answered all the questions correctly." },
+    { "word": "open", "meaning": "mở", "example": "He opened the window to let in some air." },
+    { "word": "close", "meaning": "đóng", "example": "She closed her book and went to bed." },
+    { "word": "return", "meaning": "trở về, trả lại", "example": "They returned home late last night." },
+    { "word": "remember", "meaning": "nhớ", "example": "I remembered her birthday and called her." },
+    { "word": "happen", "meaning": "xảy ra", "example": "Something interesting happened at school yesterday." }
+  ]
+}

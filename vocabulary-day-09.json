@@ -1,0 +1,30 @@
+{
+  "dayId": "day-09",
+  "items": [
+    { "word": "go / went", "meaning": "đi (quá khứ: went)", "example": "She went to the cinema last Saturday." },
+    { "word": "come / came", "meaning": "đến (quá khứ: came)", "example": "He came home very late last night." },
+    { "word": "eat / ate", "meaning": "ăn (quá khứ: ate)", "example": "We ate pho for breakfast this morning." },
+    { "word": "drink / drank", "meaning": "uống (quá khứ: drank)", "example": "She drank two cups of coffee yesterday." },
+    { "word": "see / saw", "meaning": "nhìn thấy (quá khứ: saw)", "example": "I saw a great film last night." },
+    { "word": "buy / bought", "meaning": "mua (quá khứ: bought)", "example": "He bought a new phone last week." },
+    { "word": "take / took", "meaning": "lấy, đi (quá khứ: took)", "example": "She took the bus to work this morning." },
+    { "word": "give / gave", "meaning": "cho, tặng (quá khứ: gave)", "example": "He gave her a bouquet of flowers." },
+    { "word": "get / got", "meaning": "nhận được (quá khứ: got)", "example": "I got a message from my friend yesterday." },
+    { "word": "have / had", "meaning": "có (quá khứ: had)", "example": "We had a wonderful time at the beach." },
+    { "word": "say / said", "meaning": "nói (quá khứ: said)", "example": "She said she was very tired." },
+    { "word": "tell / told", "meaning": "kể, nói (quá khứ: told)", "example": "He told me a funny joke." },
+    { "word": "think / thought", "meaning": "nghĩ (quá khứ: thought)", "example": "I thought the movie was boring." },
+    { "word": "know / knew", "meaning": "biết (quá khứ: knew)", "example": "She knew the answer immediately." },
+    { "word": "meet / met", "meaning": "gặp (quá khứ: met)", "example": "They met at a cafe last year." },
+    { "word": "find / found", "meaning": "tìm thấy (quá khứ: found)", "example": "He found his lost keys under the sofa." },
+    { "word": "make / made", "meaning": "làm, tạo (quá khứ: made)", "example": "She made a delicious cake for the party." },
+    { "word": "write / wrote", "meaning": "viết (quá khứ: wrote)", "example": "He wrote a letter to his grandmother." },
+    { "word": "read / read", "meaning": "đọc (quá khứ: read /rɛd/)", "example": "I read an interesting book last week." },
+    { "word": "run / ran", "meaning": "chạy (quá khứ: ran)", "example": "She ran five kilometres in the park yesterday." },
+    { "word": "speak / spoke", "meaning": "nói (quá khứ: spoke)", "example": "He spoke to the manager about the issue." },
+    { "word": "leave / left", "meaning": "rời đi (quá khứ: left)", "example": "She left home early this morning." },
+    { "word": "sleep / slept", "meaning": "ngủ (quá khứ: slept)", "example": "I slept for ten hours last night." },
+    { "word": "feel / felt", "meaning": "cảm thấy (quá khứ: felt)", "example": "He felt very happy after the exam." },
+    { "word": "begin / began", "meaning": "bắt đầu (quá khứ: began)", "example": "The concert began at 8 p.m." }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "dayId": "day-13",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Minh đi du lịch đến đâu?",
+      "options": ["Singapore", "Thailand", "Malaysia", "Japan"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'I went to Thailand with three friends from university.'"
+    },
+    {
+      "id": "q2",
+      "question": "Chuyến đi diễn ra bao lâu trước đây?",
+      "options": ["Một năm trước", "Hai năm trước", "Ba năm trước", "Năm ngoái"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'It was two years ago when I went to Thailand.'"
+    },
+    {
+      "id": "q3",
+      "question": "Họ đi đến Bangkok bằng phương tiện gì?",
+      "options": ["Tàu hỏa", "Xe buýt", "Máy bay", "Tàu thuyền"],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'we took an early morning flight from Hanoi to Bangkok.'"
+    },
+    {
+      "id": "q4",
+      "question": "Chuyến bay từ Hà Nội đến Bangkok mất bao lâu?",
+      "options": ["Một giờ", "Hai giờ", "Ba giờ", "Bốn giờ"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'The journey was about two hours.'"
+    },
+    {
+      "id": "q5",
+      "question": "Họ làm gì đầu tiên sau khi nhận phòng?",
+      "options": ["Ăn tối", "Đi thăm đền", "Đến chợ Chatuchak", "Xem chương trình múa"],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'After checking in, we immediately went to the famous Chatuchak market.'"
+    },
+    {
+      "id": "q6",
+      "question": "Từ 'enormous' trong đoạn văn có nghĩa là gì?",
+      "options": ["ồn ào", "đông đúc", "khổng lồ, rất lớn", "xa xôi"],
+      "answerIndex": 2,
+      "explanation": "'Enormous' có nghĩa là khổng lồ, rất lớn."
+    },
+    {
+      "id": "q7",
+      "question": "Minh mua gì ở chợ?",
+      "options": ["Thức ăn và đồ uống", "Đồ lưu niệm và quần áo truyền thống", "Sách và đồ điện tử", "Đồ chơi và tranh ảnh"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'I bought some souvenirs and traditional Thai clothing for my family.'"
+    },
+    {
+      "id": "q8",
+      "question": "Họ ăn gì ở quầy đồ ăn đường phố?",
+      "options": ["Sushi và ramen", "Pad thai và mango sticky rice", "Burger và khoai tây chiên", "Phở và bánh mì"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'especially the pad thai and mango sticky rice.'"
+    },
+    {
+      "id": "q9",
+      "question": "Từ 'breathtaking' có nghĩa là gì?",
+      "options": ["đáng sợ", "ngoạn mục, tuyệt đẹp", "buồn chán", "bình thường"],
+      "answerIndex": 1,
+      "explanation": "'Breathtaking' = ngoạn mục, đẹp đến mức nín thở."
+    },
+    {
+      "id": "q10",
+      "question": "Tại sao họ không phiền khi trời mưa?",
+      "options": ["Vì họ ở trong nhà", "Vì họ có ô dù", "Vì mưa nhỏ", "Vì họ thích mưa"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'we didn't mind because we had umbrellas.'"
+    },
+    {
+      "id": "q11",
+      "question": "Từ 'unforgettable' có nghĩa là gì?",
+      "options": ["thú vị", "không thể quên", "bình thường", "tẻ nhạt"],
+      "answerIndex": 1,
+      "explanation": "'Unforgettable' = không thể quên."
+    },
+    {
+      "id": "q12",
+      "question": "Vào buổi tối cuối cùng, họ làm gì?",
+      "options": ["Đi mua sắm", "Đi thăm đền", "Xem chương trình múa truyền thống", "Ăn tối tại nhà hàng"],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'we watched a traditional Thai dance show.'"
+    },
+    {
+      "id": "q13",
+      "question": "Câu 'We took an early morning flight' dùng thì gì?",
+      "options": ["Present Simple", "Present Continuous", "Past Simple", "Past Continuous"],
+      "answerIndex": 2,
+      "explanation": "'took' là quá khứ của 'take' → Past Simple."
+    },
+    {
+      "id": "q14",
+      "question": "Câu nào là câu phủ định trong đoạn văn?",
+      "options": [
+        "We went to Chatuchak market.",
+        "We didn't speak Thai.",
+        "We watched a dance show.",
+        "The food was delicious."
+      ],
+      "answerIndex": 1,
+      "explanation": "'We didn't speak Thai' = câu phủ định quá khứ đơn."
+    },
+    {
+      "id": "q15",
+      "question": "Từ nối nào được dùng đầu tiên trong đoạn văn?",
+      "options": ["After that", "Then", "First", "Next"],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn bắt đầu kể với 'First, we took an early morning flight.'"
+    },
+    {
+      "id": "q16",
+      "question": "Đoạn văn dùng thì nào chủ yếu?",
+      "options": ["Present Simple", "Past Simple", "Present Continuous", "Future Simple"],
+      "answerIndex": 1,
+      "explanation": "Câu chuyện kể về quá khứ → Past Simple (went, took, felt, bought...)."
+    },
+    {
+      "id": "q17",
+      "question": "Từ 'souvenir' có nghĩa là gì?",
+      "options": ["quần áo", "đồ lưu niệm", "thức ăn", "hành lý"],
+      "answerIndex": 1,
+      "explanation": "'Souvenir' = đồ lưu niệm, kỷ vật mua ở nơi du lịch."
+    },
+    {
+      "id": "q18",
+      "question": "Minh đi cùng bao nhiêu người?",
+      "options": ["Một người", "Hai người", "Ba người", "Bốn người"],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'with three friends from university' → 3 bạn = nhóm 4 người kể cả Minh."
+    },
+    {
+      "id": "q19",
+      "question": "Câu nào mô tả đúng cảm xúc của Minh khi đến nơi?",
+      "options": [
+        "He felt bored because everything was the same.",
+        "He felt nervous about speaking English.",
+        "He felt excited because everything was new and different.",
+        "He felt tired after the long journey."
+      ],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'we felt very excited because everything was new and different.'"
+    },
+    {
+      "id": "q20",
+      "question": "Từ 'abroad' có nghĩa là gì?",
+      "options": ["trong nước", "ở nước ngoài", "trong thành phố", "ở vùng quê"],
+      "answerIndex": 1,
+      "explanation": "'Abroad' = ở nước ngoài."
+    },
+    {
+      "id": "q21",
+      "question": "Câu 'The buildings were breathtakingly beautiful' dùng thì gì với 'be'?",
+      "options": ["is", "are", "was", "were"],
+      "answerIndex": 3,
+      "explanation": "The buildings = They (số nhiều) → were. 'were' = dạng quá khứ."
+    },
+    {
+      "id": "q22",
+      "question": "Từ 'stall' trong 'a street food stall' có nghĩa là gì?",
+      "options": ["nhà hàng", "quầy hàng", "xe tải", "chợ"],
+      "answerIndex": 1,
+      "explanation": "'Stall' = gian hàng, quầy nhỏ bán hàng ở chợ hoặc đường phố."
+    },
+    {
+      "id": "q23",
+      "question": "Câu nào ĐÚNG theo thông tin đoạn văn?",
+      "options": [
+        "Minh went to Thailand alone.",
+        "They traveled by train to Bangkok.",
+        "They visited temples on the second day.",
+        "It was sunny every day of the trip."
+      ],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'The next day, we visited several temples.' → Ngày thứ hai."
+    },
+    {
+      "id": "q24",
+      "question": "Từ 'especially' trong câu 'especially the pad thai' nghĩa là gì?",
+      "options": ["nói chung", "đặc biệt là", "tương tự", "ngoại trừ"],
+      "answerIndex": 1,
+      "explanation": "'Especially' = đặc biệt là, nhấn mạnh một ví dụ cụ thể."
+    },
+    {
+      "id": "q25",
+      "question": "Từ nối nào cho thấy sự kiện xảy ra bất ngờ trong đoạn văn?",
+      "options": ["First", "Then", "Suddenly", "Finally"],
+      "answerIndex": 2,
+      "explanation": "'Suddenly, it started to rain' = đột nhiên trời mưa."
+    },
+    {
+      "id": "q26",
+      "question": "Từ 'traditional' nghĩa là gì?",
+      "options": ["hiện đại", "truyền thống", "ngoại nhập", "phổ biến"],
+      "answerIndex": 1,
+      "explanation": "'Traditional' = thuộc về truyền thống, văn hóa lâu đời."
+    },
+    {
+      "id": "q27",
+      "question": "Câu nào SAI về nội dung đoạn văn?",
+      "options": [
+        "Minh bought souvenirs at the market.",
+        "The food at the street stall was delicious.",
+        "Most people in Bangkok spoke Thai only.",
+        "They watched a dance show on the last evening."
+      ],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'most people spoke a little English.' → Nhiều người nói được tiếng Anh."
+    },
+    {
+      "id": "q28",
+      "question": "Từ 'mind' trong 'we didn't mind the rain' có nghĩa là gì?",
+      "options": ["nhớ", "quan tâm, phiền", "chú ý", "lo lắng"],
+      "answerIndex": 1,
+      "explanation": "'Mind' trong câu này = phiền/bận tâm. 'Didn't mind' = không thấy phiền."
+    },
+    {
+      "id": "q29",
+      "question": "Câu 'we didn't speak Thai' là câu phủ định ở thì nào?",
+      "options": ["Present Simple", "Present Continuous", "Past Simple", "Past Continuous"],
+      "answerIndex": 2,
+      "explanation": "'didn't + V nguyên thể' = phủ định Past Simple."
+    },
+    {
+      "id": "q30",
+      "question": "Từ 'experience' nghĩa là gì?",
+      "options": ["chuyến đi", "trải nghiệm", "kỷ niệm", "phiêu lưu"],
+      "answerIndex": 1,
+      "explanation": "'Experience' = trải nghiệm."
+    },
+    {
+      "id": "q31",
+      "question": "Đâu là thứ tự đúng các sự kiện trong đoạn văn?",
+      "options": [
+        "Thăm đền → Đi chợ → Ăn đường phố → Xem múa",
+        "Đi chợ → Thăm đền → Xem múa → Ăn đường phố",
+        "Đến Bangkok → Đi chợ → Thăm đền → Xem múa",
+        "Xem múa → Thăm đền → Đi chợ → Về nhà"
+      ],
+      "answerIndex": 2,
+      "explanation": "Đến Bangkok → Chatuchak market → Temples (next day) → Dance show (last evening)."
+    },
+    {
+      "id": "q32",
+      "question": "Câu 'The food was delicious' dùng 'was' vì:",
+      "options": ["The food là số nhiều", "The food là chủ ngữ ngôi thứ ba số ít và ở quá khứ", "Đây là thì hiện tại", "Dùng were cũng được"],
+      "answerIndex": 1,
+      "explanation": "'The food' = It, ngôi thứ ba số ít → was (quá khứ của is)."
+    },
+    {
+      "id": "q33",
+      "question": "Từ 'check in' nghĩa là gì?",
+      "options": ["trả phòng", "nhận phòng / làm thủ tục", "xếp hành lý", "đặt phòng"],
+      "answerIndex": 1,
+      "explanation": "'Check in' = nhận phòng khách sạn hoặc làm thủ tục ở sân bay."
+    },
+    {
+      "id": "q34",
+      "question": "Chợ Chatuchak được mô tả như thế nào?",
+      "options": ["nhỏ và yên tĩnh", "khổng lồ và đông đúc", "hiện đại và sang trọng", "cổ kính và vắng vẻ"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'It was enormous and incredibly crowded.'"
+    },
+    {
+      "id": "q35",
+      "question": "Từ 'flight' nghĩa là gì?",
+      "options": ["hành lý", "chuyến bay", "vé tàu", "hộ chiếu"],
+      "answerIndex": 1,
+      "explanation": "'Flight' = chuyến bay."
+    },
+    {
+      "id": "q36",
+      "question": "Câu 'we felt very excited' dùng thì gì?",
+      "options": ["Present Simple", "Present Continuous", "Past Simple", "Future"],
+      "answerIndex": 2,
+      "explanation": "'felt' là quá khứ của 'feel' → Past Simple."
+    },
+    {
+      "id": "q37",
+      "question": "Từ 'different' nghĩa là gì?",
+      "options": ["giống nhau", "khác biệt", "thú vị", "quen thuộc"],
+      "answerIndex": 1,
+      "explanation": "'Different' = khác biệt, không giống."
+    },
+    {
+      "id": "q38",
+      "question": "Đâu là câu hỏi hợp lý dựa trên đoạn văn?",
+      "options": [
+        "Did Minh go to Thailand alone?",
+        "Does Minh like Vietnamese food?",
+        "Is Minh going to Thailand next year?",
+        "Will Minh travel again?"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hỏi về sự kiện trong quá khứ của đoạn văn: Did + S + V nguyên thể?"
+    },
+    {
+      "id": "q39",
+      "question": "Từ 'incredible' (incredibly) trong đoạn văn nghĩa là gì?",
+      "options": ["bình thường", "tệ hại", "tuyệt vời", "nguy hiểm"],
+      "answerIndex": 2,
+      "explanation": "'Incredible' = không thể tin được, tuyệt vời."
+    },
+    {
+      "id": "q40",
+      "question": "Câu dịch đúng: 'Đó là một trải nghiệm không thể quên.'",
+      "options": [
+        "It is an unforgettable experience.",
+        "It was an unforgettable experience.",
+        "It were an unforgettable experience.",
+        "It has been an unforgettable experience."
+      ],
+      "answerIndex": 1,
+      "explanation": "Sự kiện trong quá khứ → It was (quá khứ của It is)."
+    }
+  ]
+}

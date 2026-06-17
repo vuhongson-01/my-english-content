@@ -1,0 +1,30 @@
+{
+  "dayId": "day-14",
+  "items": [
+    { "word": "event", "meaning": "sự kiện", "example": "What was the most memorable event of last year?" },
+    { "word": "memory", "meaning": "ký ức, kỷ niệm", "example": "That trip left me with wonderful memories." },
+    { "word": "adventure", "meaning": "cuộc phiêu lưu", "example": "Our camping trip was a great adventure." },
+    { "word": "celebrate", "meaning": "kỷ niệm, ăn mừng", "example": "We celebrated my grandmother's birthday last month." },
+    { "word": "celebrate", "meaning": "ăn mừng, kỷ niệm", "example": "They celebrated the New Year at a big party." },
+    { "word": "describe", "meaning": "mô tả", "example": "Can you describe what happened that day?" },
+    { "word": "accident", "meaning": "tai nạn", "example": "There was an accident on the road yesterday." },
+    { "word": "disappointed", "meaning": "thất vọng", "example": "He was disappointed when the film was cancelled." },
+    { "word": "embarrassed", "meaning": "xấu hổ, ngại ngùng", "example": "She was embarrassed when she forgot his name." },
+    { "word": "frightened", "meaning": "sợ hãi", "example": "The children were frightened by the loud thunder." },
+    { "word": "relieved", "meaning": "nhẹ nhõm", "example": "I was relieved when I passed the exam." },
+    { "word": "incredible", "meaning": "khó tin, tuyệt vời", "example": "The concert was incredible – the best I ever attended." },
+    { "word": "realize", "meaning": "nhận ra", "example": "She suddenly realized she left her bag on the bus." },
+    { "word": "notice", "meaning": "nhận thấy, chú ý", "example": "He noticed something strange on the street." },
+    { "word": "rush", "meaning": "vội vã", "example": "She rushed to the station but missed the train." },
+    { "word": "crowd", "meaning": "đám đông", "example": "There was a large crowd at the festival." },
+    { "word": "borrow", "meaning": "mượn", "example": "She borrowed some money from her friend." },
+    { "word": "lend", "meaning": "cho mượn", "example": "He lent me his umbrella because it was raining." },
+    { "word": "lose", "meaning": "mất, thua", "example": "I lost my keys somewhere in the house." },
+    { "word": "drop", "meaning": "làm rơi", "example": "She dropped her phone on the floor." },
+    { "word": "pick up", "meaning": "nhặt lên, đón", "example": "He picked up the letter and read it immediately." },
+    { "word": "break", "meaning": "vỡ, nghỉ", "example": "He accidentally broke a glass during dinner." },
+    { "word": "recover", "meaning": "hồi phục", "example": "She recovered quickly after the illness." },
+    { "word": "manage", "meaning": "xoay sở, quản lý", "example": "We managed to find a taxi in the rain." },
+    { "word": "regret", "meaning": "hối tiếc", "example": "He regretted not saying goodbye to his friend." }
+  ]
+}

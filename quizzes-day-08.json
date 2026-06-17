@@ -1,0 +1,310 @@
+{
+  "dayId": "day-08",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "She _____ all day yesterday without a break.",
+      "options": ["work", "works", "worked", "is working"],
+      "answerIndex": 2,
+      "explanation": "'yesterday' là tín hiệu quá khứ đơn → worked."
+    },
+    {
+      "id": "q2",
+      "question": "They _____ to Da Nang two years ago.",
+      "options": ["travel", "travels", "traveled", "are traveling"],
+      "answerIndex": 2,
+      "explanation": "'two years ago' là tín hiệu quá khứ đơn → traveled."
+    },
+    {
+      "id": "q3",
+      "question": "Dạng quá khứ đúng của 'study' là gì?",
+      "options": ["studyed", "studid", "studied", "studed"],
+      "answerIndex": 2,
+      "explanation": "study: phụ âm + y → đổi y thành i + ed = studied."
+    },
+    {
+      "id": "q4",
+      "question": "Dạng quá khứ đúng của 'stop' là gì?",
+      "options": ["stoped", "stopted", "stopped", "stops"],
+      "answerIndex": 2,
+      "explanation": "stop: nguyên âm + phụ âm 1 âm tiết → gấp đôi p + ed = stopped."
+    },
+    {
+      "id": "q5",
+      "question": "Dạng quá khứ đúng của 'like' là gì?",
+      "options": ["likeed", "likied", "liked", "liking"],
+      "answerIndex": 2,
+      "explanation": "like: tận cùng e câm → thêm d = liked."
+    },
+    {
+      "id": "q6",
+      "question": "He _____ English for three hours last night.",
+      "options": ["study", "studies", "studied", "is studying"],
+      "answerIndex": 2,
+      "explanation": "'last night' = quá khứ. study → studied."
+    },
+    {
+      "id": "q7",
+      "question": "We _____ our grandparents last weekend.",
+      "options": ["visit", "visits", "visited", "are visiting"],
+      "answerIndex": 2,
+      "explanation": "'last weekend' = quá khứ → visited."
+    },
+    {
+      "id": "q8",
+      "question": "The bus _____ near my house yesterday.",
+      "options": ["stop", "stops", "stopped", "is stopping"],
+      "answerIndex": 2,
+      "explanation": "'yesterday' = quá khứ. stop → stopped (gấp đôi p)."
+    },
+    {
+      "id": "q9",
+      "question": "She _____ her room last Saturday.",
+      "options": ["clean", "cleans", "cleaned", "is cleaning"],
+      "answerIndex": 2,
+      "explanation": "'last Saturday' = quá khứ → cleaned."
+    },
+    {
+      "id": "q10",
+      "question": "I _____ my homework at 9 p.m.",
+      "options": ["finish", "finishes", "finished", "is finishing"],
+      "answerIndex": 2,
+      "explanation": "Hành động đã hoàn thành → finished."
+    },
+    {
+      "id": "q11",
+      "question": "Từ tín hiệu nào KHÔNG phải của quá khứ đơn?",
+      "options": ["yesterday", "last week", "right now", "two years ago"],
+      "answerIndex": 2,
+      "explanation": "'right now' là tín hiệu của thì hiện tại tiếp diễn, không phải quá khứ."
+    },
+    {
+      "id": "q12",
+      "question": "The party _____ at 7 o'clock.",
+      "options": ["start", "starts", "started", "is starting"],
+      "answerIndex": 2,
+      "explanation": "Sự kiện đã xảy ra trong quá khứ → started."
+    },
+    {
+      "id": "q13",
+      "question": "We _____ at the station two hours late.",
+      "options": ["arrive", "arrives", "arrived", "are arriving"],
+      "answerIndex": 2,
+      "explanation": "Hành động đã hoàn thành → arrived."
+    },
+    {
+      "id": "q14",
+      "question": "She _____ for the bus for 20 minutes.",
+      "options": ["wait", "waits", "waited", "is waiting"],
+      "answerIndex": 2,
+      "explanation": "Hành động đã hoàn thành trong quá khứ → waited."
+    },
+    {
+      "id": "q15",
+      "question": "He _____ his friend after work yesterday.",
+      "options": ["call", "calls", "called", "is calling"],
+      "answerIndex": 2,
+      "explanation": "'yesterday' = quá khứ → called."
+    },
+    {
+      "id": "q16",
+      "question": "Dạng quá khứ đúng của 'travel' là gì?",
+      "options": ["traveld", "travelded", "traveled", "travelling"],
+      "answerIndex": 2,
+      "explanation": "travel + ed = traveled (tận cùng không phải nguyên âm đơn + phụ âm)."
+    },
+    {
+      "id": "q17",
+      "question": "Từ 'happen' quá khứ là gì? 'Something interesting _____ at school yesterday.'",
+      "options": ["happen", "happens", "happened", "is happening"],
+      "answerIndex": 2,
+      "explanation": "'yesterday' = quá khứ → happened."
+    },
+    {
+      "id": "q18",
+      "question": "They _____ home late last night.",
+      "options": ["return", "returns", "returned", "are returning"],
+      "answerIndex": 2,
+      "explanation": "'last night' = quá khứ → returned."
+    },
+    {
+      "id": "q19",
+      "question": "I _____ her birthday and called her.",
+      "options": ["remember", "remembers", "remembered", "is remembering"],
+      "answerIndex": 2,
+      "explanation": "Hành động đã hoàn thành → remembered."
+    },
+    {
+      "id": "q20",
+      "question": "She _____ all the questions correctly.",
+      "options": ["answer", "answers", "answered", "is answering"],
+      "answerIndex": 2,
+      "explanation": "Hành động đã hoàn thành → answered."
+    },
+    {
+      "id": "q21",
+      "question": "Câu nào dùng ĐÚNG thì quá khứ đơn?",
+      "options": [
+        "She work hard last year.",
+        "She worked hard last year.",
+        "She is worked hard last year.",
+        "She workes hard last year."
+      ],
+      "answerIndex": 1,
+      "explanation": "Quá khứ đơn: S + V-ed. 'last year' xác nhận quá khứ."
+    },
+    {
+      "id": "q22",
+      "question": "Câu nào SAI?",
+      "options": [
+        "He studied all night.",
+        "We traveled to Hue last month.",
+        "She stoped the car quickly.",
+        "They arrived on time."
+      ],
+      "answerIndex": 2,
+      "explanation": "stop → stopped (gấp đôi p + ed). 'stoped' là sai."
+    },
+    {
+      "id": "q23",
+      "question": "Dạng quá khứ đúng của 'wash' là gì?",
+      "options": ["washs", "washed", "washd", "washing"],
+      "answerIndex": 1,
+      "explanation": "wash + ed = washed (tận cùng -sh thêm -ed bình thường)."
+    },
+    {
+      "id": "q24",
+      "question": "The children _____ football in the park yesterday.",
+      "options": ["play", "plays", "played", "are playing"],
+      "answerIndex": 2,
+      "explanation": "'yesterday' = quá khứ → played."
+    },
+    {
+      "id": "q25",
+      "question": "He _____ the dishes after dinner last night.",
+      "options": ["wash", "washes", "washed", "is washing"],
+      "answerIndex": 2,
+      "explanation": "'last night' = quá khứ → washed."
+    },
+    {
+      "id": "q26",
+      "question": "Từ 'visit' có nghĩa là gì?",
+      "options": ["gọi điện", "thăm, ghé thăm", "gặp gỡ", "chào hỏi"],
+      "answerIndex": 1,
+      "explanation": "'Visit' có nghĩa là thăm, đến thăm ai đó hoặc nơi nào đó."
+    },
+    {
+      "id": "q27",
+      "question": "She _____ her book and went to bed.",
+      "options": ["close", "closes", "closed", "is closing"],
+      "answerIndex": 2,
+      "explanation": "Hành động đã hoàn thành → closed (close + d)."
+    },
+    {
+      "id": "q28",
+      "question": "He _____ the window to let in some air.",
+      "options": ["open", "opens", "opened", "is opening"],
+      "answerIndex": 2,
+      "explanation": "Hành động đã hoàn thành → opened."
+    },
+    {
+      "id": "q29",
+      "question": "Câu nào đúng về thì quá khứ đơn?",
+      "options": [
+        "I walked to school yesterday.",
+        "I walk to school yesterday.",
+        "I am walked to school yesterday.",
+        "I walking to school yesterday."
+      ],
+      "answerIndex": 0,
+      "explanation": "Quá khứ đơn: S + V-ed. 'yesterday' = quá khứ. walk → walked."
+    },
+    {
+      "id": "q30",
+      "question": "Từ 'happen' nghĩa là gì?",
+      "options": ["kể lại", "xảy ra", "bắt đầu", "kết thúc"],
+      "answerIndex": 1,
+      "explanation": "'Happen' có nghĩa là xảy ra, diễn ra."
+    },
+    {
+      "id": "q31",
+      "question": "Dạng quá khứ đúng của 'open' là gì?",
+      "options": ["openned", "opend", "opened", "opening"],
+      "answerIndex": 2,
+      "explanation": "open + ed = opened (kết thúc bằng phụ âm n nhưng có 2 âm tiết → không gấp đôi)."
+    },
+    {
+      "id": "q32",
+      "question": "We _____ about our trip for hours.",
+      "options": ["talk", "talks", "talked", "are talking"],
+      "answerIndex": 2,
+      "explanation": "Hành động đã hoàn thành → talked."
+    },
+    {
+      "id": "q33",
+      "question": "Từ 'return' nghĩa là gì?",
+      "options": ["rời đi", "trở về, trả lại", "tiếp tục", "bắt đầu"],
+      "answerIndex": 1,
+      "explanation": "'Return' có nghĩa là trở về hoặc trả lại."
+    },
+    {
+      "id": "q34",
+      "question": "He _____ to music on the bus yesterday.",
+      "options": ["listen", "listens", "listened", "is listening"],
+      "answerIndex": 2,
+      "explanation": "'yesterday' = quá khứ → listened."
+    },
+    {
+      "id": "q35",
+      "question": "The student _____ the teacher a question.",
+      "options": ["ask", "asks", "asked", "is asking"],
+      "answerIndex": 2,
+      "explanation": "Hành động đã hoàn thành → asked."
+    },
+    {
+      "id": "q36",
+      "question": "Dạng quá khứ đúng của 'plan' là gì?",
+      "options": ["planed", "plannd", "planned", "planning"],
+      "answerIndex": 2,
+      "explanation": "plan: nguyên âm + phụ âm 1 âm tiết → gấp đôi n + ed = planned."
+    },
+    {
+      "id": "q37",
+      "question": "They _____ a movie last Friday evening.",
+      "options": ["watch", "watches", "watched", "are watching"],
+      "answerIndex": 2,
+      "explanation": "'last Friday evening' = quá khứ → watched."
+    },
+    {
+      "id": "q38",
+      "question": "Câu nào SAI ngữ pháp?",
+      "options": [
+        "She visited her friend last Sunday.",
+        "He called his mother yesterday.",
+        "They studyed all night.",
+        "We arrived at 6 p.m."
+      ],
+      "answerIndex": 2,
+      "explanation": "study: phụ âm + y → đổi y→i + ed = studied, không phải studyed."
+    },
+    {
+      "id": "q39",
+      "question": "Từ 'remember' nghĩa là gì?",
+      "options": ["quên", "nhớ", "nhắc nhở", "ghi chép"],
+      "answerIndex": 1,
+      "explanation": "'Remember' có nghĩa là nhớ, ghi nhớ."
+    },
+    {
+      "id": "q40",
+      "question": "Chọn câu dịch đúng: 'Tôi đã hoàn thành bài tập lúc 9 giờ tối.'",
+      "options": [
+        "I finish my homework at 9 p.m.",
+        "I finished my homework at 9 p.m.",
+        "I am finishing my homework at 9 p.m.",
+        "I finishing my homework at 9 p.m."
+      ],
+      "answerIndex": 1,
+      "explanation": "Hành động đã hoàn thành trong quá khứ → I finished."
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "dayId": "day-11",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "The weather _____ beautiful on our holiday.",
+      "options": ["is", "are", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "The weather = It, ngôi thứ ba số ít → was."
+    },
+    {
+      "id": "q2",
+      "question": "We _____ surprised by the news.",
+      "options": ["is", "am", "was", "were"],
+      "answerIndex": 3,
+      "explanation": "We → were. Chủ ngữ số nhiều dùng were."
+    },
+    {
+      "id": "q3",
+      "question": "She _____ nervous before the exam.",
+      "options": ["is", "am", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "She → was. Chủ ngữ ngôi thứ ba số ít dùng was."
+    },
+    {
+      "id": "q4",
+      "question": "I _____ exhausted after the long trip.",
+      "options": ["is", "are", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "I → was. Chủ ngữ I dùng was."
+    },
+    {
+      "id": "q5",
+      "question": "The food _____ delicious but the service _____ slow.",
+      "options": ["were / was", "was / was", "was / were", "were / were"],
+      "answerIndex": 1,
+      "explanation": "The food (It) → was; the service (It) → was."
+    },
+    {
+      "id": "q6",
+      "question": "We _____ ready when they arrived. (phủ định)",
+      "options": ["wasn't", "weren't", "didn't", "don't"],
+      "answerIndex": 1,
+      "explanation": "We + weren't. Phủ định của were là weren't."
+    },
+    {
+      "id": "q7",
+      "question": "He _____ upset when he heard the bad news.",
+      "options": ["is", "are", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "He → was."
+    },
+    {
+      "id": "q8",
+      "question": "_____ the movie good? → Yes, it _____.",
+      "options": ["Was / was", "Were / were", "Was / were", "Were / was"],
+      "answerIndex": 0,
+      "explanation": "Câu hỏi: Was + It (the movie)? → Yes, it was."
+    },
+    {
+      "id": "q9",
+      "question": "_____ you at the party? → No, I _____.",
+      "options": ["Was / wasn't", "Were / weren't", "Was / weren't", "Were / wasn't"],
+      "answerIndex": 3,
+      "explanation": "Were + you? → No, I wasn't. (I dùng was/wasn't)"
+    },
+    {
+      "id": "q10",
+      "question": "Where _____ you yesterday?",
+      "options": ["was", "were", "did", "do"],
+      "answerIndex": 1,
+      "explanation": "Where + were + you? Hỏi địa điểm trong quá khứ."
+    },
+    {
+      "id": "q11",
+      "question": "The market _____ very crowded on Sunday.",
+      "options": ["is", "are", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "The market = It, ngôi thứ ba số ít → was."
+    },
+    {
+      "id": "q12",
+      "question": "They _____ all together for the celebration.",
+      "options": ["is", "am", "was", "were"],
+      "answerIndex": 3,
+      "explanation": "They → were."
+    },
+    {
+      "id": "q13",
+      "question": "Từ 'exhausted' nghĩa là gì?",
+      "options": ["buồn bực", "kiệt sức", "ngạc nhiên", "tự hào"],
+      "answerIndex": 1,
+      "explanation": "'Exhausted' có nghĩa là kiệt sức, mệt lả."
+    },
+    {
+      "id": "q14",
+      "question": "Her parents _____ proud of her results.",
+      "options": ["is", "am", "was", "were"],
+      "answerIndex": 3,
+      "explanation": "Her parents = They → were."
+    },
+    {
+      "id": "q15",
+      "question": "He _____ available yesterday afternoon. (phủ định)",
+      "options": ["wasn't", "weren't", "didn't", "isn't"],
+      "answerIndex": 0,
+      "explanation": "He + wasn't. Phủ định của He was = He wasn't."
+    },
+    {
+      "id": "q16",
+      "question": "The restaurant _____ empty when we arrived.",
+      "options": ["is", "are", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "The restaurant = It, ngôi thứ ba số ít → was."
+    },
+    {
+      "id": "q17",
+      "question": "Từ 'crowded' nghĩa là gì?",
+      "options": ["trống rỗng", "ồn ào", "đông đúc", "sạch sẽ"],
+      "answerIndex": 2,
+      "explanation": "'Crowded' có nghĩa là đông đúc, đông người."
+    },
+    {
+      "id": "q18",
+      "question": "Câu nào SAI?",
+      "options": [
+        "She was nervous before the exam.",
+        "We were surprised by the result.",
+        "He were late for the meeting.",
+        "I was alone at home."
+      ],
+      "answerIndex": 2,
+      "explanation": "He → was, không phải were. 'He were' là sai."
+    },
+    {
+      "id": "q19",
+      "question": "How _____ your weekend?",
+      "options": ["is", "are", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "How was your weekend? = Cuối tuần của bạn thế nào? (your weekend = It)"
+    },
+    {
+      "id": "q20",
+      "question": "It _____ wonderful! (trả lời 'How was your weekend?')",
+      "options": ["is", "are", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "It → was. Mô tả trạng thái trong quá khứ."
+    },
+    {
+      "id": "q21",
+      "question": "The hotel room _____ very comfortable.",
+      "options": ["is", "am", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "The hotel room = It → was."
+    },
+    {
+      "id": "q22",
+      "question": "Từ 'upset' nghĩa là gì?",
+      "options": ["vui mừng", "ngạc nhiên", "buồn bực, không hài lòng", "tự hào"],
+      "answerIndex": 2,
+      "explanation": "'Upset' có nghĩa là buồn bực, không hài lòng, khó chịu."
+    },
+    {
+      "id": "q23",
+      "question": "She _____ alone at home all evening.",
+      "options": ["is", "are", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "She → was."
+    },
+    {
+      "id": "q24",
+      "question": "The library _____ quiet and peaceful.",
+      "options": ["is", "am", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "The library = It → was."
+    },
+    {
+      "id": "q25",
+      "question": "_____ the students ready for the exam?",
+      "options": ["Was", "Were", "Did", "Do"],
+      "answerIndex": 1,
+      "explanation": "The students = They → Were the students...?"
+    },
+    {
+      "id": "q26",
+      "question": "He _____ early and had to wait for everyone.",
+      "options": ["is", "am", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "He → was."
+    },
+    {
+      "id": "q27",
+      "question": "Từ 'terrible' nghĩa là gì?",
+      "options": ["tuyệt vời", "kinh khủng, tệ hại", "buồn chán", "bình thường"],
+      "answerIndex": 1,
+      "explanation": "'Terrible' có nghĩa là kinh khủng, tệ hại."
+    },
+    {
+      "id": "q28",
+      "question": "The traffic _____ terrible this morning.",
+      "options": ["is", "am", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "The traffic = It → was."
+    },
+    {
+      "id": "q29",
+      "question": "Câu hỏi ĐÚNG: 'Bạn có ở nhà tối qua không?'",
+      "options": [
+        "Was you at home last night?",
+        "Were you at home last night?",
+        "Did you was at home last night?",
+        "Were you being at home last night?"
+      ],
+      "answerIndex": 1,
+      "explanation": "Were + you + adj/adverb? Câu hỏi với be quá khứ."
+    },
+    {
+      "id": "q30",
+      "question": "The journey _____ long but comfortable.",
+      "options": ["is", "are", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "The journey = It → was."
+    },
+    {
+      "id": "q31",
+      "question": "Từ 'proud' nghĩa là gì?",
+      "options": ["xấu hổ", "tự hào", "ngạc nhiên", "lo lắng"],
+      "answerIndex": 1,
+      "explanation": "'Proud' có nghĩa là tự hào."
+    },
+    {
+      "id": "q32",
+      "question": "The street _____ too noisy to sleep.",
+      "options": ["is", "am", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "The street = It → was."
+    },
+    {
+      "id": "q33",
+      "question": "Từ 'comfortable' nghĩa là gì?",
+      "options": ["đắt tiền", "thoải mái", "đẹp", "hiện đại"],
+      "answerIndex": 1,
+      "explanation": "'Comfortable' có nghĩa là thoải mái, tiện nghi."
+    },
+    {
+      "id": "q34",
+      "question": "Câu nào ĐÚNG về cách dùng was/were?",
+      "options": [
+        "You was late for school.",
+        "We was surprised.",
+        "He were at home all day.",
+        "I was tired after work."
+      ],
+      "answerIndex": 3,
+      "explanation": "I → was. 'You was', 'We was', 'He were' đều sai."
+    },
+    {
+      "id": "q35",
+      "question": "_____ she late for the meeting this morning?",
+      "options": ["Was", "Were", "Did", "Do"],
+      "answerIndex": 0,
+      "explanation": "She → Was she...? Câu hỏi với be quá khứ."
+    },
+    {
+      "id": "q36",
+      "question": "They _____ disappointed with the result. (phủ định)",
+      "options": ["wasn't", "weren't", "didn't", "don't"],
+      "answerIndex": 1,
+      "explanation": "They + weren't. Phủ định của They were = They weren't."
+    },
+    {
+      "id": "q37",
+      "question": "Từ 'exciting' nghĩa là gì?",
+      "options": ["buồn chán", "hứng thú, hồi hộp", "lo lắng", "tẻ nhạt"],
+      "answerIndex": 1,
+      "explanation": "'Exciting' có nghĩa là hứng thú, hồi hộp (sự kiện/trải nghiệm)."
+    },
+    {
+      "id": "q38",
+      "question": "The football match _____ very exciting.",
+      "options": ["is", "am", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "The football match = It → was."
+    },
+    {
+      "id": "q39",
+      "question": "Từ 'available' nghĩa là gì?",
+      "options": ["bận rộn", "có sẵn, rảnh", "vắng mặt", "cần thiết"],
+      "answerIndex": 1,
+      "explanation": "'Available' có nghĩa là có sẵn hoặc rảnh (không bận)."
+    },
+    {
+      "id": "q40",
+      "question": "Chọn câu dịch đúng: 'Buổi diễn thật nhàm chán đến nỗi tôi ngủ gật.'",
+      "options": [
+        "The lecture is so boring that I fell asleep.",
+        "The lecture was so boring that I fell asleep.",
+        "The lecture were so boring that I fell asleep.",
+        "The lecture was so boring that I fall asleep."
+      ],
+      "answerIndex": 1,
+      "explanation": "The lecture = It → was. fell asleep = ngủ gật (quá khứ của fall)."
+    }
+  ]
+}

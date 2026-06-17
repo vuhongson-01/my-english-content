@@ -1,0 +1,30 @@
+{
+  "dayId": "day-13",
+  "items": [
+    { "word": "abroad", "meaning": "ở nước ngoài", "example": "Have you ever traveled abroad?" },
+    { "word": "flight", "meaning": "chuyến bay", "example": "We took an early morning flight to Bangkok." },
+    { "word": "arrive", "meaning": "đến nơi", "example": "When we arrived, we felt very excited." },
+    { "word": "check in", "meaning": "nhận phòng / làm thủ tục", "example": "We checked in to the hotel at noon." },
+    { "word": "market", "meaning": "chợ", "example": "The market was enormous and very crowded." },
+    { "word": "souvenir", "meaning": "đồ lưu niệm", "example": "I bought some souvenirs for my family." },
+    { "word": "traditional", "meaning": "truyền thống", "example": "She wore traditional Thai clothing." },
+    { "word": "street food", "meaning": "đồ ăn đường phố", "example": "The street food was delicious and cheap." },
+    { "word": "stall", "meaning": "gian hàng, quầy bán", "example": "We ate at a street food stall near the market." },
+    { "word": "temple", "meaning": "ngôi đền, chùa", "example": "We visited several temples the next day." },
+    { "word": "breathtaking", "meaning": "ngoạn mục, tuyệt đẹp đến nín thở", "example": "The view from the temple was breathtaking." },
+    { "word": "enormous", "meaning": "khổng lồ, rất lớn", "example": "The market was enormous and incredibly crowded." },
+    { "word": "unforgettable", "meaning": "không thể quên", "example": "The dance show was truly unforgettable." },
+    { "word": "traditional dance", "meaning": "điệu múa truyền thống", "example": "We watched a traditional Thai dance show." },
+    { "word": "umbrella", "meaning": "ô, dù", "example": "Fortunately, we had umbrellas when it rained." },
+    { "word": "incredible", "meaning": "믿을 수 없을 정도로, tuyệt vời", "example": "The food was incredibly delicious." },
+    { "word": "mind", "meaning": "phiền, quan tâm (trong câu phủ định)", "example": "We didn't mind the rain because we had umbrellas." },
+    { "word": "university", "meaning": "trường đại học", "example": "I went to Thailand with friends from university." },
+    { "word": "especially", "meaning": "đặc biệt là", "example": "I loved the food, especially the pad thai." },
+    { "word": "clothing", "meaning": "quần áo", "example": "She bought traditional clothing as a souvenir." },
+    { "word": "sticky rice", "meaning": "xôi", "example": "Mango sticky rice is a famous Thai dessert." },
+    { "word": "on the last evening", "meaning": "vào buổi tối cuối cùng", "example": "On the last evening, we watched a show." },
+    { "word": "different", "meaning": "khác biệt", "example": "Everything was new and different in Bangkok." },
+    { "word": "building", "meaning": "tòa nhà, công trình", "example": "The buildings of the temples were beautiful." },
+    { "word": "experience", "meaning": "trải nghiệm", "example": "The whole trip was an amazing experience." }
+  ]
+}

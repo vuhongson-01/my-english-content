@@ -1,0 +1,330 @@
+{
+  "dayId": "day-10",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "I _____ go to school yesterday. (phủ định)",
+      "options": ["don't", "doesn't", "didn't", "wasn't"],
+      "answerIndex": 2,
+      "explanation": "Phủ định quá khứ đơn: S + didn't + V nguyên thể."
+    },
+    {
+      "id": "q2",
+      "question": "_____ you enjoy the concert last night?",
+      "options": ["Do", "Does", "Did", "Were"],
+      "answerIndex": 2,
+      "explanation": "Câu hỏi quá khứ đơn: Did + S + V nguyên thể?"
+    },
+    {
+      "id": "q3",
+      "question": "Did she call you? → Trả lời khẳng định:",
+      "options": ["Yes, she did.", "Yes, she does.", "Yes, she was.", "Yes, she called."],
+      "answerIndex": 0,
+      "explanation": "Trả lời ngắn quá khứ: Yes, + S + did."
+    },
+    {
+      "id": "q4",
+      "question": "Did he pass his driving test? → Trả lời phủ định:",
+      "options": ["No, he doesn't.", "No, he didn't.", "No, he wasn't.", "No, he not did."],
+      "answerIndex": 1,
+      "explanation": "Trả lời ngắn phủ định quá khứ: No, + S + didn't."
+    },
+    {
+      "id": "q5",
+      "question": "She _____ eat breakfast this morning. (phủ định)",
+      "options": ["doesn't", "didn't", "isn't", "wasn't"],
+      "answerIndex": 1,
+      "explanation": "Phủ định quá khứ: didn't + V nguyên thể. eat không chia."
+    },
+    {
+      "id": "q6",
+      "question": "Câu nào SAI cấu trúc phủ định quá khứ?",
+      "options": [
+        "I didn't go to school.",
+        "She didn't eat lunch.",
+        "He didn't went to work.",
+        "They didn't watch TV."
+      ],
+      "answerIndex": 2,
+      "explanation": "Sau didn't phải dùng V nguyên thể: didn't go (không phải went)."
+    },
+    {
+      "id": "q7",
+      "question": "_____ did you go last weekend?",
+      "options": ["What", "Who", "Where", "When"],
+      "answerIndex": 2,
+      "explanation": "'Where' hỏi về nơi chốn. 'Where did you go?' = Bạn đã đi đâu?"
+    },
+    {
+      "id": "q8",
+      "question": "_____ did he say?",
+      "options": ["Where", "What", "When", "Why"],
+      "answerIndex": 1,
+      "explanation": "'What' hỏi về nội dung, vật, việc."
+    },
+    {
+      "id": "q9",
+      "question": "_____ did they arrive?",
+      "options": ["What", "Where", "When", "Who"],
+      "answerIndex": 2,
+      "explanation": "'When' hỏi về thời gian."
+    },
+    {
+      "id": "q10",
+      "question": "Why _____ she come to the party?",
+      "options": ["did", "didn't", "doesn't", "don't"],
+      "answerIndex": 1,
+      "explanation": "Why didn't she come? = Tại sao cô ấy không đến? (phủ định)"
+    },
+    {
+      "id": "q11",
+      "question": "Câu hỏi nào ĐÚNG cấu trúc quá khứ?",
+      "options": [
+        "Did she went to the market?",
+        "Did she goes to the market?",
+        "Did she go to the market?",
+        "Does she went to the market?"
+      ],
+      "answerIndex": 2,
+      "explanation": "Did + S + V nguyên thể (go, không phải went hoặc goes)."
+    },
+    {
+      "id": "q12",
+      "question": "They _____ watch the football match last night. (phủ định)",
+      "options": ["don't", "doesn't", "didn't", "weren't"],
+      "answerIndex": 2,
+      "explanation": "Phủ định quá khứ: didn't + watch. 'last night' = quá khứ."
+    },
+    {
+      "id": "q13",
+      "question": "How much _____ you spend on the trip?",
+      "options": ["do", "does", "did", "were"],
+      "answerIndex": 2,
+      "explanation": "Câu hỏi quá khứ: How much + did + S + V?"
+    },
+    {
+      "id": "q14",
+      "question": "Từ 'enjoy' nghĩa là gì?",
+      "options": ["chịu đựng", "thích, tận hưởng", "bỏ lỡ", "lo lắng"],
+      "answerIndex": 1,
+      "explanation": "'Enjoy' có nghĩa là thích, tận hưởng điều gì đó."
+    },
+    {
+      "id": "q15",
+      "question": "He _____ reply to my message. (phủ định)",
+      "options": ["don't", "doesn't", "didn't", "wasn't"],
+      "answerIndex": 2,
+      "explanation": "Phủ định quá khứ: He didn't reply. reply là V nguyên thể."
+    },
+    {
+      "id": "q16",
+      "question": "Why _____ they complain about the food?",
+      "options": ["do", "does", "did", "were"],
+      "answerIndex": 2,
+      "explanation": "Câu hỏi quá khứ: Why + did + S + V nguyên thể?"
+    },
+    {
+      "id": "q17",
+      "question": "Từ 'miss' trong 'Did you miss the bus?' nghĩa là gì?",
+      "options": ["nhớ nhà", "bỏ lỡ", "gặp", "chờ"],
+      "answerIndex": 1,
+      "explanation": "'Miss the bus' = bỏ lỡ chuyến xe buýt."
+    },
+    {
+      "id": "q18",
+      "question": "_____ your team win the match?",
+      "options": ["Do", "Does", "Did", "Was"],
+      "answerIndex": 2,
+      "explanation": "Câu hỏi quá khứ: Did + S + V nguyên thể?"
+    },
+    {
+      "id": "q19",
+      "question": "Câu hỏi đúng: 'Cô ấy đã mời bạn đến tiệc chưa?'",
+      "options": [
+        "Did she invited you to the party?",
+        "Did she invite you to the party?",
+        "Does she invite you to the party?",
+        "Was she invite you to the party?"
+      ],
+      "answerIndex": 1,
+      "explanation": "Did + she + V nguyên thể (invite, không phải invited)."
+    },
+    {
+      "id": "q20",
+      "question": "Từ 'decide' nghĩa là gì?",
+      "options": ["chờ đợi", "quyết định", "lên kế hoạch", "đề nghị"],
+      "answerIndex": 1,
+      "explanation": "'Decide' có nghĩa là quyết định."
+    },
+    {
+      "id": "q21",
+      "question": "When _____ you decide to study English?",
+      "options": ["do", "does", "did", "were"],
+      "answerIndex": 2,
+      "explanation": "Câu hỏi quá khứ Wh-: When + did + S + V nguyên thể?"
+    },
+    {
+      "id": "q22",
+      "question": "They _____ agree with the decision. (phủ định)",
+      "options": ["don't", "doesn't", "didn't", "aren't"],
+      "answerIndex": 2,
+      "explanation": "Phủ định quá khứ: didn't + agree (V nguyên thể)."
+    },
+    {
+      "id": "q23",
+      "question": "Từ 'suggest' nghĩa là gì?",
+      "options": ["từ chối", "đề nghị, gợi ý", "yêu cầu", "ra lệnh"],
+      "answerIndex": 1,
+      "explanation": "'Suggest' có nghĩa là đề nghị, gợi ý."
+    },
+    {
+      "id": "q24",
+      "question": "What _____ he suggest for the weekend?",
+      "options": ["do", "does", "did", "was"],
+      "answerIndex": 2,
+      "explanation": "Câu hỏi quá khứ: What + did + S + V nguyên thể?"
+    },
+    {
+      "id": "q25",
+      "question": "Who _____ for the dinner?",
+      "options": ["pays", "pay", "paid", "payed"],
+      "answerIndex": 2,
+      "explanation": "pay → paid (bất quy tắc). Câu hỏi Who thường dùng V ở quá khứ trực tiếp."
+    },
+    {
+      "id": "q26",
+      "question": "Câu phủ định ĐÚNG: 'Cô ấy đã không thi trượt.'",
+      "options": [
+        "She doesn't fail the exam.",
+        "She didn't fail the exam.",
+        "She didn't failed the exam.",
+        "She wasn't fail the exam."
+      ],
+      "answerIndex": 1,
+      "explanation": "Phủ định quá khứ: She didn't + V nguyên thể (fail)."
+    },
+    {
+      "id": "q27",
+      "question": "Từ 'promise' nghĩa là gì?",
+      "options": ["quên", "hứa", "nói dối", "đồng ý"],
+      "answerIndex": 1,
+      "explanation": "'Promise' có nghĩa là hứa."
+    },
+    {
+      "id": "q28",
+      "question": "Did the gift surprise her? → Yes, _____.",
+      "options": ["she did", "it did", "she was", "she does"],
+      "answerIndex": 1,
+      "explanation": "Chủ ngữ câu hỏi là 'the gift' (it) → Yes, it did."
+    },
+    {
+      "id": "q29",
+      "question": "Câu nào đúng ngữ pháp?",
+      "options": [
+        "Where did you went yesterday?",
+        "Where did you go yesterday?",
+        "Where you did go yesterday?",
+        "Where did you going yesterday?"
+      ],
+      "answerIndex": 1,
+      "explanation": "Did + S + V nguyên thể (go): Where did you go yesterday?"
+    },
+    {
+      "id": "q30",
+      "question": "Từ 'introduce' nghĩa là gì?",
+      "options": ["kể lại", "giới thiệu", "trình bày", "mô tả"],
+      "answerIndex": 1,
+      "explanation": "'Introduce' có nghĩa là giới thiệu (người hoặc chủ đề)."
+    },
+    {
+      "id": "q31",
+      "question": "Câu hỏi nào SAI?",
+      "options": [
+        "Did you enjoy the party?",
+        "Where did she go?",
+        "Did he came to the meeting?",
+        "Why didn't they reply?"
+      ],
+      "answerIndex": 2,
+      "explanation": "Sau 'did' dùng V nguyên thể: Did he come (không phải came)."
+    },
+    {
+      "id": "q32",
+      "question": "Câu hỏi ĐÚNG: 'Họ đã thua trận không?'",
+      "options": [
+        "Did they lose the match?",
+        "Did they lost the match?",
+        "Do they lose the match?",
+        "Were they lose the match?"
+      ],
+      "answerIndex": 0,
+      "explanation": "Did + they + V nguyên thể (lose): Did they lose the match?"
+    },
+    {
+      "id": "q33",
+      "question": "Từ 'choose' nghĩa là gì?",
+      "options": ["mua", "chọn lựa", "đổi", "trả lại"],
+      "answerIndex": 1,
+      "explanation": "'Choose' có nghĩa là chọn lựa."
+    },
+    {
+      "id": "q34",
+      "question": "Why _____ she choose that restaurant?",
+      "options": ["do", "does", "did", "was"],
+      "answerIndex": 2,
+      "explanation": "Câu hỏi quá khứ: Why + did + S + V nguyên thể?"
+    },
+    {
+      "id": "q35",
+      "question": "Did you understand the lesson yesterday? → No, _____.",
+      "options": ["I didn't understand.", "I didn't.", "I don't.", "I wasn't."],
+      "answerIndex": 1,
+      "explanation": "Trả lời ngắn phủ định: No, I didn't."
+    },
+    {
+      "id": "q36",
+      "question": "Câu nào dịch đúng: 'Anh ấy đã không đồng ý với quyết định đó.'",
+      "options": [
+        "He doesn't agree with the decision.",
+        "He didn't agreed with the decision.",
+        "He didn't agree with the decision.",
+        "He wasn't agree with the decision."
+      ],
+      "answerIndex": 2,
+      "explanation": "didn't + V nguyên thể (agree). He didn't agree."
+    },
+    {
+      "id": "q37",
+      "question": "Từ 'complain' nghĩa là gì?",
+      "options": ["khen ngợi", "phàn nàn", "hỏi thăm", "cảm ơn"],
+      "answerIndex": 1,
+      "explanation": "'Complain' có nghĩa là phàn nàn, than phiền."
+    },
+    {
+      "id": "q38",
+      "question": "Did she invite you to her birthday party? → Trả lời đúng:",
+      "options": ["Yes, she invited.", "Yes, she does.", "Yes, she did.", "Yes, I did."],
+      "answerIndex": 2,
+      "explanation": "Trả lời ngắn: Yes, + S (she) + did."
+    },
+    {
+      "id": "q39",
+      "question": "Câu nào ĐÚNG hoàn toàn?",
+      "options": [
+        "Did you forgot your keys?",
+        "Did you forget your keys?",
+        "Do you forget your keys yesterday?",
+        "Did you forgetting your keys?"
+      ],
+      "answerIndex": 1,
+      "explanation": "Did + S + V nguyên thể (forget, không phải forgot hay forgetting)."
+    },
+    {
+      "id": "q40",
+      "question": "How much _____ she spend on the new bag?",
+      "options": ["do", "does", "did", "was"],
+      "answerIndex": 2,
+      "explanation": "Câu hỏi quá khứ: How much + did + S + V nguyên thể?"
+    }
+  ]
+}

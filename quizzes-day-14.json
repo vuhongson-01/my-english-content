@@ -1,0 +1,350 @@
+{
+  "dayId": "day-14",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Chọn dạng quá khứ ĐÚNG: 'She _____ to the market yesterday.'",
+      "options": ["go", "goes", "went", "gone"],
+      "answerIndex": 2,
+      "explanation": "go → went (bất quy tắc). 'yesterday' = quá khứ."
+    },
+    {
+      "id": "q2",
+      "question": "Chọn dạng quá khứ ĐÚNG: 'He _____ a lot last night.' (study)",
+      "options": ["studyed", "studid", "studied", "studys"],
+      "answerIndex": 2,
+      "explanation": "study: phụ âm + y → đổi y thành i + ed = studied."
+    },
+    {
+      "id": "q3",
+      "question": "Câu phủ định ĐÚNG: 'They _____ to the party.'",
+      "options": ["don't come", "didn't came", "didn't come", "wasn't come"],
+      "answerIndex": 2,
+      "explanation": "Phủ định quá khứ: didn't + V nguyên thể (come)."
+    },
+    {
+      "id": "q4",
+      "question": "Câu hỏi ĐÚNG: '_____ you enjoy the trip?'",
+      "options": ["Do", "Does", "Did", "Were"],
+      "answerIndex": 2,
+      "explanation": "Câu hỏi quá khứ đơn: Did + S + V nguyên thể?"
+    },
+    {
+      "id": "q5",
+      "question": "Điền đúng: 'The weather _____ terrible last weekend.'",
+      "options": ["is", "are", "was", "were"],
+      "answerIndex": 2,
+      "explanation": "The weather = It, ngôi thứ ba số ít → was."
+    },
+    {
+      "id": "q6",
+      "question": "Điền đúng: 'We _____ disappointed with the result.'",
+      "options": ["is", "am", "was", "were"],
+      "answerIndex": 3,
+      "explanation": "We → were."
+    },
+    {
+      "id": "q7",
+      "question": "Từ tín hiệu nào KHÔNG phải của quá khứ đơn?",
+      "options": ["three days ago", "last Friday", "at the moment", "in 2020"],
+      "answerIndex": 2,
+      "explanation": "'at the moment' = tín hiệu hiện tại tiếp diễn, không phải quá khứ."
+    },
+    {
+      "id": "q8",
+      "question": "Chọn đáp án ĐÚNG: 'stop' → quá khứ là gì?",
+      "options": ["stoped", "stopted", "stopped", "stopping"],
+      "answerIndex": 2,
+      "explanation": "stop: nguyên âm + phụ âm 1 âm tiết → gấp đôi p + ed = stopped."
+    },
+    {
+      "id": "q9",
+      "question": "Quá khứ của 'feel' là gì?",
+      "options": ["feeled", "fell", "felt", "feel"],
+      "answerIndex": 2,
+      "explanation": "feel → felt (bất quy tắc)."
+    },
+    {
+      "id": "q10",
+      "question": "Quá khứ của 'buy' là gì?",
+      "options": ["buyed", "boughted", "brought", "bought"],
+      "answerIndex": 3,
+      "explanation": "buy → bought (bất quy tắc)."
+    },
+    {
+      "id": "q11",
+      "question": "Câu hỏi quá khứ ĐÚNG: '_____ she at home last night?'",
+      "options": ["Did", "Does", "Was", "Were"],
+      "answerIndex": 2,
+      "explanation": "She + was → Câu hỏi: Was + she...?"
+    },
+    {
+      "id": "q12",
+      "question": "Câu hỏi quá khứ ĐÚNG: '_____ they happy with the result?'",
+      "options": ["Did", "Was", "Were", "Do"],
+      "answerIndex": 2,
+      "explanation": "They + were → Câu hỏi: Were + they...?"
+    },
+    {
+      "id": "q13",
+      "question": "Từ nối nào diễn đạt sự kiện xảy ra bất ngờ?",
+      "options": ["First", "Then", "Suddenly", "Finally"],
+      "answerIndex": 2,
+      "explanation": "'Suddenly' = đột nhiên, sự kiện xảy ra bất ngờ."
+    },
+    {
+      "id": "q14",
+      "question": "Từ nối nào kết thúc chuỗi sự kiện?",
+      "options": ["First", "Then", "After that", "Finally"],
+      "answerIndex": 3,
+      "explanation": "'Finally' = cuối cùng, kết thúc chuỗi sự kiện."
+    },
+    {
+      "id": "q15",
+      "question": "Câu nào SAI ngữ pháp?",
+      "options": [
+        "She didn't go to school yesterday.",
+        "He wasn't at the office.",
+        "They didn't went to the party.",
+        "We were surprised by the news."
+      ],
+      "answerIndex": 2,
+      "explanation": "Sau 'didn't' dùng V nguyên thể: didn't go (không phải went)."
+    },
+    {
+      "id": "q16",
+      "question": "Trả lời ngắn ĐÚNG: 'Did she call you?' → _____",
+      "options": ["Yes, she called.", "Yes, she did.", "Yes, she does.", "Yes, she was."],
+      "answerIndex": 1,
+      "explanation": "Trả lời ngắn quá khứ với Did: Yes, + S + did."
+    },
+    {
+      "id": "q17",
+      "question": "Trả lời ngắn ĐÚNG: 'Were they at the party?' → No, _____",
+      "options": ["they weren't.", "they didn't.", "they wasn't.", "they not were."],
+      "answerIndex": 0,
+      "explanation": "Trả lời với Were: No, they weren't."
+    },
+    {
+      "id": "q18",
+      "question": "Từ 'relieved' nghĩa là gì?",
+      "options": ["lo lắng", "thất vọng", "nhẹ nhõm", "ngạc nhiên"],
+      "answerIndex": 2,
+      "explanation": "'Relieved' = nhẹ nhõm, cảm giác bớt lo sau khi điều tốt xảy ra."
+    },
+    {
+      "id": "q19",
+      "question": "Chọn câu dùng đúng thì và cấu trúc:",
+      "options": [
+        "First, we go to the market. Then, we bought food.",
+        "First, we went to the market. Then, we bought food.",
+        "First, we went to the market. Then, we buy food.",
+        "First, we going to the market. Then, we bought food."
+      ],
+      "answerIndex": 1,
+      "explanation": "Tất cả động từ trong câu chuyện quá khứ phải ở Past Simple: went, bought."
+    },
+    {
+      "id": "q20",
+      "question": "Từ 'manage' trong 'We managed to find a taxi' nghĩa là gì?",
+      "options": ["cố gắng", "xoay sở được, làm được", "muốn", "cần"],
+      "answerIndex": 1,
+      "explanation": "'Manage to do' = xoay sở được, làm được điều gì đó khó."
+    },
+    {
+      "id": "q21",
+      "question": "Câu nào mô tả cảm xúc trong quá khứ ĐÚNG?",
+      "options": [
+        "She is frightened when she heard the thunder.",
+        "She was frightened when she heard the thunder.",
+        "She were frightened when she heard the thunder.",
+        "She frightened when she heard the thunder."
+      ],
+      "answerIndex": 1,
+      "explanation": "She → was frightened. Cảm xúc trong quá khứ dùng was/were."
+    },
+    {
+      "id": "q22",
+      "question": "Câu hỏi nào ĐÚNG cấu trúc quá khứ?",
+      "options": [
+        "What she did yesterday?",
+        "What did she do yesterday?",
+        "What did she did yesterday?",
+        "What does she do yesterday?"
+      ],
+      "answerIndex": 1,
+      "explanation": "What + did + she + V nguyên thể (do): What did she do?"
+    },
+    {
+      "id": "q23",
+      "question": "Từ 'regret' nghĩa là gì?",
+      "options": ["vui mừng", "hối tiếc", "nhớ lại", "quên đi"],
+      "answerIndex": 1,
+      "explanation": "'Regret' = hối tiếc, ước gì đã làm/không làm điều gì đó."
+    },
+    {
+      "id": "q24",
+      "question": "Quá khứ của 'lose' là gì?",
+      "options": ["losed", "losted", "lost", "lose"],
+      "answerIndex": 2,
+      "explanation": "lose → lost (bất quy tắc)."
+    },
+    {
+      "id": "q25",
+      "question": "Quá khứ của 'break' là gì?",
+      "options": ["breaked", "broken", "broke", "braked"],
+      "answerIndex": 2,
+      "explanation": "break → broke (bất quy tắc). 'broken' là Past Participle."
+    },
+    {
+      "id": "q26",
+      "question": "Từ 'embarrassed' nghĩa là gì?",
+      "options": ["tức giận", "xấu hổ, ngại ngùng", "ngạc nhiên", "thất vọng"],
+      "answerIndex": 1,
+      "explanation": "'Embarrassed' = xấu hổ, ngại ngùng."
+    },
+    {
+      "id": "q27",
+      "question": "Câu nào dịch đúng: 'Đột nhiên cô ấy nhận ra mình đã quên ví.'",
+      "options": [
+        "Suddenly she realizes she forgot her wallet.",
+        "Suddenly she realized she forgot her wallet.",
+        "Suddenly she realize she forgot her wallet.",
+        "Suddenly she realized she forget her wallet."
+      ],
+      "answerIndex": 1,
+      "explanation": "Sự kiện quá khứ: realized (quá khứ của realize), forgot (quá khứ của forget)."
+    },
+    {
+      "id": "q28",
+      "question": "Từ 'rush' nghĩa là gì?",
+      "options": ["đi bộ", "vội vã", "đứng chờ", "dừng lại"],
+      "answerIndex": 1,
+      "explanation": "'Rush' = vội vã, gấp rút."
+    },
+    {
+      "id": "q29",
+      "question": "Câu nào đúng hoàn toàn?",
+      "options": [
+        "Where you went last weekend?",
+        "Where did you went last weekend?",
+        "Where did you go last weekend?",
+        "Where were you go last weekend?"
+      ],
+      "answerIndex": 2,
+      "explanation": "Where + did + you + V nguyên thể (go): Where did you go?"
+    },
+    {
+      "id": "q30",
+      "question": "Câu nào ĐÚNG khi dùng was/were?",
+      "options": [
+        "I were tired after the trip.",
+        "They was happy to see us.",
+        "He were late for school.",
+        "She was nervous before the interview."
+      ],
+      "answerIndex": 3,
+      "explanation": "She → was. 'I were', 'They was', 'He were' đều sai."
+    },
+    {
+      "id": "q31",
+      "question": "Quá khứ của 'speak' là gì?",
+      "options": ["speaked", "spoked", "spoke", "speaking"],
+      "answerIndex": 2,
+      "explanation": "speak → spoke (bất quy tắc)."
+    },
+    {
+      "id": "q32",
+      "question": "Câu nào dùng từ nối SAI vị trí?",
+      "options": [
+        "First, we went to the museum.",
+        "Then, we had lunch.",
+        "We went shopping. After that.",
+        "Finally, we returned home."
+      ],
+      "answerIndex": 2,
+      "explanation": "'After that' là từ nối đầu câu, không đứng cuối câu rời rạc như vậy."
+    },
+    {
+      "id": "q33",
+      "question": "Từ 'adventure' nghĩa là gì?",
+      "options": ["kỳ nghỉ", "cuộc phiêu lưu", "chuyến đi", "kỷ niệm"],
+      "answerIndex": 1,
+      "explanation": "'Adventure' = cuộc phiêu lưu, trải nghiệm đầy hứng thú."
+    },
+    {
+      "id": "q34",
+      "question": "Dạng quá khứ đúng của 'drop' là gì?",
+      "options": ["droped", "dropted", "dropped", "droping"],
+      "answerIndex": 2,
+      "explanation": "drop: nguyên âm + phụ âm 1 âm tiết → gấp đôi p + ed = dropped."
+    },
+    {
+      "id": "q35",
+      "question": "Câu nào đúng: 'Cô ấy mượn tiền từ bạn bè.'",
+      "options": [
+        "She lend some money from her friend.",
+        "She borrowed some money from her friend.",
+        "She borrow some money from her friend.",
+        "She lended some money from her friend."
+      ],
+      "answerIndex": 1,
+      "explanation": "borrow = mượn (từ người khác). borrow → borrowed (quy tắc, quá khứ)."
+    },
+    {
+      "id": "q36",
+      "question": "Từ 'lend' khác 'borrow' như thế nào?",
+      "options": [
+        "Không khác nhau",
+        "'Lend' = cho mượn, 'borrow' = mượn",
+        "'Borrow' = cho mượn, 'lend' = mượn",
+        "'Lend' dùng cho vật, 'borrow' dùng cho người"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Lend' = cho mượn (bạn là người cho). 'Borrow' = mượn (bạn là người nhận)."
+    },
+    {
+      "id": "q37",
+      "question": "Câu nào mô tả đúng sự kiện quá khứ bằng was/were?",
+      "options": [
+        "The crowd was enormous and very noisy.",
+        "The crowd were enormous and very noisy.",
+        "The crowd is enormous and very noisy.",
+        "The crowd are enormous and very noisy."
+      ],
+      "answerIndex": 0,
+      "explanation": "'The crowd' = It, ngôi thứ ba số ít → was."
+    },
+    {
+      "id": "q38",
+      "question": "Từ 'recover' nghĩa là gì?",
+      "options": ["bị bệnh", "hồi phục", "nghỉ ngơi", "điều trị"],
+      "answerIndex": 1,
+      "explanation": "'Recover' = hồi phục, bình phục sau bệnh tật hoặc khó khăn."
+    },
+    {
+      "id": "q39",
+      "question": "Đoạn văn nào kể chuyện ĐÚNG và mạch lạc nhất?",
+      "options": [
+        "First, we arrive at the hotel. Then, we went to the market. Finally, we eat dinner.",
+        "First, we arrived at the hotel. Then, we went to the market. Finally, we ate dinner.",
+        "First, we arrived at the hotel. Then, we go to the market. Finally, we ate dinner.",
+        "First, arrived at the hotel. Then, went to the market. Finally, ate dinner."
+      ],
+      "answerIndex": 1,
+      "explanation": "Tất cả động từ phải ở Past Simple: arrived, went, ate. Cần có chủ ngữ 'we'."
+    },
+    {
+      "id": "q40",
+      "question": "Câu tổng hợp ĐÚNG của tuần 2:",
+      "options": [
+        "Last summer, we go to the beach. The weather was great and we enjoyed every day.",
+        "Last summer, we went to the beach. The weather was great and we enjoyed every day.",
+        "Last summer, we went to the beach. The weather were great and we enjoyed every day.",
+        "Last summer, we went to the beach. The weather was great and we enjoy every day."
+      ],
+      "answerIndex": 1,
+      "explanation": "went (bất quy tắc), was (The weather = It), enjoyed (quy tắc) đều đúng."
+    }
+  ]
+}

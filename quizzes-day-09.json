@@ -1,0 +1,300 @@
+{
+  "dayId": "day-09",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "She _____ to the cinema last Saturday.",
+      "options": ["go", "goes", "went", "gone"],
+      "answerIndex": 2,
+      "explanation": "go → went (bất quy tắc). 'last Saturday' = quá khứ."
+    },
+    {
+      "id": "q2",
+      "question": "We _____ pho for breakfast this morning.",
+      "options": ["eat", "eats", "ate", "eaten"],
+      "answerIndex": 2,
+      "explanation": "eat → ate (bất quy tắc). 'this morning' = đã qua → quá khứ."
+    },
+    {
+      "id": "q3",
+      "question": "He _____ a new phone last week.",
+      "options": ["buy", "buys", "buyed", "bought"],
+      "answerIndex": 3,
+      "explanation": "buy → bought (bất quy tắc). 'last week' = quá khứ."
+    },
+    {
+      "id": "q4",
+      "question": "I _____ a great film last night.",
+      "options": ["see", "sees", "saw", "seen"],
+      "answerIndex": 2,
+      "explanation": "see → saw (bất quy tắc). 'last night' = quá khứ."
+    },
+    {
+      "id": "q5",
+      "question": "She _____ two cups of coffee yesterday.",
+      "options": ["drink", "drinks", "drank", "drunk"],
+      "answerIndex": 2,
+      "explanation": "drink → drank (bất quy tắc). 'yesterday' = quá khứ."
+    },
+    {
+      "id": "q6",
+      "question": "They _____ at a cafe last year.",
+      "options": ["meet", "meets", "met", "meeted"],
+      "answerIndex": 2,
+      "explanation": "meet → met (bất quy tắc). 'last year' = quá khứ."
+    },
+    {
+      "id": "q7",
+      "question": "He _____ me a funny joke.",
+      "options": ["tell", "tells", "told", "telled"],
+      "answerIndex": 2,
+      "explanation": "tell → told (bất quy tắc)."
+    },
+    {
+      "id": "q8",
+      "question": "I _____ the movie was boring.",
+      "options": ["think", "thinks", "thought", "thinked"],
+      "answerIndex": 2,
+      "explanation": "think → thought (bất quy tắc)."
+    },
+    {
+      "id": "q9",
+      "question": "She _____ the answer immediately.",
+      "options": ["know", "knows", "knew", "knowed"],
+      "answerIndex": 2,
+      "explanation": "know → knew (bất quy tắc)."
+    },
+    {
+      "id": "q10",
+      "question": "He _____ his lost keys under the sofa.",
+      "options": ["find", "finds", "found", "finded"],
+      "answerIndex": 2,
+      "explanation": "find → found (bất quy tắc)."
+    },
+    {
+      "id": "q11",
+      "question": "She _____ a delicious cake for the party.",
+      "options": ["make", "makes", "maked", "made"],
+      "answerIndex": 3,
+      "explanation": "make → made (bất quy tắc)."
+    },
+    {
+      "id": "q12",
+      "question": "He _____ a letter to his grandmother.",
+      "options": ["write", "writes", "wrote", "writed"],
+      "answerIndex": 2,
+      "explanation": "write → wrote (bất quy tắc)."
+    },
+    {
+      "id": "q13",
+      "question": "I _____ an interesting book last week.",
+      "options": ["read /riːd/", "reads", "read /rɛd/", "readed"],
+      "answerIndex": 2,
+      "explanation": "read → read (bất quy tắc, phát âm quá khứ là /rɛd/)."
+    },
+    {
+      "id": "q14",
+      "question": "She _____ five kilometres in the park yesterday.",
+      "options": ["run", "runs", "runned", "ran"],
+      "answerIndex": 3,
+      "explanation": "run → ran (bất quy tắc). 'yesterday' = quá khứ."
+    },
+    {
+      "id": "q15",
+      "question": "He _____ to the manager about the issue.",
+      "options": ["speak", "speaks", "spoke", "speaked"],
+      "answerIndex": 2,
+      "explanation": "speak → spoke (bất quy tắc)."
+    },
+    {
+      "id": "q16",
+      "question": "She _____ home early this morning.",
+      "options": ["leave", "leaves", "left", "leaved"],
+      "answerIndex": 2,
+      "explanation": "leave → left (bất quy tắc). 'this morning' = đã qua → quá khứ."
+    },
+    {
+      "id": "q17",
+      "question": "I _____ for ten hours last night.",
+      "options": ["sleep", "sleeps", "slept", "sleeped"],
+      "answerIndex": 2,
+      "explanation": "sleep → slept (bất quy tắc). 'last night' = quá khứ."
+    },
+    {
+      "id": "q18",
+      "question": "He _____ very happy after the exam.",
+      "options": ["feel", "feels", "felt", "feeled"],
+      "answerIndex": 2,
+      "explanation": "feel → felt (bất quy tắc)."
+    },
+    {
+      "id": "q19",
+      "question": "The concert _____ at 8 p.m.",
+      "options": ["begin", "begins", "began", "beginned"],
+      "answerIndex": 2,
+      "explanation": "begin → began (bất quy tắc)."
+    },
+    {
+      "id": "q20",
+      "question": "He _____ home very late last night.",
+      "options": ["come", "comes", "comed", "came"],
+      "answerIndex": 3,
+      "explanation": "come → came (bất quy tắc). 'last night' = quá khứ."
+    },
+    {
+      "id": "q21",
+      "question": "She _____ the bus to work this morning.",
+      "options": ["take", "takes", "took", "taked"],
+      "answerIndex": 2,
+      "explanation": "take → took (bất quy tắc). 'this morning' = đã qua → quá khứ."
+    },
+    {
+      "id": "q22",
+      "question": "He _____ her a bouquet of flowers.",
+      "options": ["give", "gives", "gave", "gived"],
+      "answerIndex": 2,
+      "explanation": "give → gave (bất quy tắc)."
+    },
+    {
+      "id": "q23",
+      "question": "I _____ a message from my friend yesterday.",
+      "options": ["get", "gets", "gotten", "got"],
+      "answerIndex": 3,
+      "explanation": "get → got (bất quy tắc). 'yesterday' = quá khứ."
+    },
+    {
+      "id": "q24",
+      "question": "We _____ a wonderful time at the beach.",
+      "options": ["have", "has", "had", "haved"],
+      "answerIndex": 2,
+      "explanation": "have → had (bất quy tắc)."
+    },
+    {
+      "id": "q25",
+      "question": "She _____ she was very tired.",
+      "options": ["say", "says", "said", "sayed"],
+      "answerIndex": 2,
+      "explanation": "say → said (bất quy tắc)."
+    },
+    {
+      "id": "q26",
+      "question": "Quá khứ của 'go' là gì?",
+      "options": ["goed", "gone", "went", "going"],
+      "answerIndex": 2,
+      "explanation": "go → went. 'gone' là quá khứ phân từ (Past Participle), không phải Past Simple."
+    },
+    {
+      "id": "q27",
+      "question": "Quá khứ của 'buy' là gì?",
+      "options": ["buyed", "boughted", "bought", "buyed"],
+      "answerIndex": 2,
+      "explanation": "buy → bought (bất quy tắc)."
+    },
+    {
+      "id": "q28",
+      "question": "Quá khứ của 'think' là gì?",
+      "options": ["thinked", "thunk", "thought", "think"],
+      "answerIndex": 2,
+      "explanation": "think → thought (bất quy tắc)."
+    },
+    {
+      "id": "q29",
+      "question": "Câu nào SAI ngữ pháp?",
+      "options": [
+        "She went to the market.",
+        "He buyed a new shirt.",
+        "We had lunch together.",
+        "They met at school."
+      ],
+      "answerIndex": 1,
+      "explanation": "buy → bought, không phải buyed. buy là động từ bất quy tắc."
+    },
+    {
+      "id": "q30",
+      "question": "Câu nào đúng ngữ pháp?",
+      "options": [
+        "She maked a cake yesterday.",
+        "She made a cake yesterday.",
+        "She maied a cake yesterday.",
+        "She makes a cake yesterday."
+      ],
+      "answerIndex": 1,
+      "explanation": "make → made. 'yesterday' = quá khứ. She made a cake yesterday."
+    },
+    {
+      "id": "q31",
+      "question": "Quá khứ của 'feel' là gì?",
+      "options": ["feeled", "fell", "felt", "feel"],
+      "answerIndex": 2,
+      "explanation": "feel → felt (bất quy tắc). 'fell' là quá khứ của 'fall'."
+    },
+    {
+      "id": "q32",
+      "question": "Quá khứ của 'leave' là gì?",
+      "options": ["leaved", "left", "leaveed", "live"],
+      "answerIndex": 1,
+      "explanation": "leave → left (bất quy tắc)."
+    },
+    {
+      "id": "q33",
+      "question": "Yesterday I _____ to the market and _____ some vegetables.",
+      "options": ["go / buy", "went / bought", "went / buyed", "go / bought"],
+      "answerIndex": 1,
+      "explanation": "Cả hai động từ đều ở quá khứ: go → went, buy → bought."
+    },
+    {
+      "id": "q34",
+      "question": "She _____ her old friend and they _____ coffee together.",
+      "options": ["met / had", "meet / have", "met / have", "meet / had"],
+      "answerIndex": 0,
+      "explanation": "meet → met, have → had. Cả hai ở quá khứ đơn."
+    },
+    {
+      "id": "q35",
+      "question": "Từ 'found' là quá khứ của động từ nào?",
+      "options": ["feel", "fall", "find", "found (không có nguyên thể)"],
+      "answerIndex": 2,
+      "explanation": "find → found (bất quy tắc). find = tìm thấy."
+    },
+    {
+      "id": "q36",
+      "question": "Từ 'spoke' là quá khứ của động từ nào?",
+      "options": ["spell", "split", "speak", "speed"],
+      "answerIndex": 2,
+      "explanation": "speak → spoke (bất quy tắc)."
+    },
+    {
+      "id": "q37",
+      "question": "Từ 'told' là quá khứ của động từ nào?",
+      "options": ["tall", "tell", "toll", "tail"],
+      "answerIndex": 1,
+      "explanation": "tell → told (bất quy tắc)."
+    },
+    {
+      "id": "q38",
+      "question": "He _____ me a funny story and I _____ it was great.",
+      "options": ["told / thought", "tell / think", "told / think", "tell / thought"],
+      "answerIndex": 0,
+      "explanation": "tell → told, think → thought. Cả hai ở quá khứ đơn."
+    },
+    {
+      "id": "q39",
+      "question": "Quá khứ của 'run' là gì?",
+      "options": ["runned", "ranned", "run", "ran"],
+      "answerIndex": 3,
+      "explanation": "run → ran (bất quy tắc)."
+    },
+    {
+      "id": "q40",
+      "question": "Chọn câu dịch đúng: 'Cô ấy đã rời nhà sớm sáng nay.'",
+      "options": [
+        "She leaves home early this morning.",
+        "She left home early this morning.",
+        "She leaved home early this morning.",
+        "She is leaving home early this morning."
+      ],
+      "answerIndex": 1,
+      "explanation": "leave → left (bất quy tắc). 'this morning' (đã qua) = quá khứ."
+    }
+  ]
+}

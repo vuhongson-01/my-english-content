@@ -1,0 +1,30 @@
+{
+  "dayId": "day-12",
+  "items": [
+    { "word": "first", "meaning": "đầu tiên", "example": "First, I woke up and took a shower." },
+    { "word": "then", "meaning": "sau đó (liền tiếp)", "example": "Then, I had breakfast with my family." },
+    { "word": "after that", "meaning": "sau đó", "example": "After that, we went to the supermarket." },
+    { "word": "next", "meaning": "tiếp theo", "example": "Next, we visited the old town." },
+    { "word": "later", "meaning": "sau này, muộn hơn", "example": "Later, we had dinner at a local restaurant." },
+    { "word": "finally", "meaning": "cuối cùng", "example": "Finally, we returned to the hotel." },
+    { "word": "eventually", "meaning": "cuối cùng (sau thời gian dài)", "example": "Eventually, he found the solution to the problem." },
+    { "word": "meanwhile", "meaning": "trong lúc đó", "example": "Meanwhile, she prepared the drinks for the guests." },
+    { "word": "suddenly", "meaning": "đột nhiên", "example": "Suddenly, the lights went off." },
+    { "word": "immediately", "meaning": "ngay lập tức", "example": "She immediately called for help." },
+    { "word": "at first", "meaning": "ban đầu", "example": "At first, he didn't understand the question." },
+    { "word": "in the end", "meaning": "cuối cùng, kết lại", "example": "In the end, everything worked out well." },
+    { "word": "before long", "meaning": "chẳng bao lâu sau", "example": "Before long, she felt much better." },
+    { "word": "a short while later", "meaning": "một lúc sau", "example": "A short while later, the bus arrived." },
+    { "word": "one day", "meaning": "một ngày nọ", "example": "One day, I decided to learn a new language." },
+    { "word": "all of a sudden", "meaning": "bỗng nhiên", "example": "All of a sudden, a dog ran into the road." },
+    { "word": "as soon as", "meaning": "ngay khi", "example": "As soon as she arrived, she called me." },
+    { "word": "by the time", "meaning": "vào lúc, đến khi", "example": "By the time we got there, the film had started." },
+    { "word": "at last", "meaning": "cuối cùng (sau khi chờ đợi)", "example": "At last, the rain stopped and we went outside." },
+    { "word": "from that moment", "meaning": "từ khoảnh khắc đó", "example": "From that moment, she decided to change her life." },
+    { "word": "to begin with", "meaning": "ban đầu, trước hết", "example": "To begin with, the weather was perfect." },
+    { "word": "shortly after", "meaning": "ngay sau đó", "example": "Shortly after, the guests arrived." },
+    { "word": "a few hours later", "meaning": "vài giờ sau", "example": "A few hours later, we reached the city." },
+    { "word": "the next day", "meaning": "ngày hôm sau", "example": "The next day, I felt much better." },
+    { "word": "unexpectedly", "meaning": "bất ngờ, không ngờ tới", "example": "Unexpectedly, she appeared at my door." }
+  ]
+}

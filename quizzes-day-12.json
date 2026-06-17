@@ -1,0 +1,320 @@
+{
+  "dayId": "day-12",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "_____, I woke up and took a shower. (hành động đầu tiên trong ngày)",
+      "options": ["Finally", "Meanwhile", "First", "Eventually"],
+      "answerIndex": 2,
+      "explanation": "'First' dùng để chỉ hành động đầu tiên trong chuỗi sự kiện."
+    },
+    {
+      "id": "q2",
+      "question": "_____, I had breakfast with my family. (tiếp theo sau First)",
+      "options": ["Finally", "Then", "Meanwhile", "Before long"],
+      "answerIndex": 1,
+      "explanation": "'Then' dùng sau 'First' để nối sự kiện liền tiếp."
+    },
+    {
+      "id": "q3",
+      "question": "_____, we returned to the hotel. (hành động kết thúc)",
+      "options": ["First", "Then", "Next", "Finally"],
+      "answerIndex": 3,
+      "explanation": "'Finally' dùng để chỉ hành động cuối cùng trong chuỗi."
+    },
+    {
+      "id": "q4",
+      "question": "_____, the lights went off. (xảy ra không báo trước)",
+      "options": ["Finally", "Meanwhile", "Suddenly", "Eventually"],
+      "answerIndex": 2,
+      "explanation": "'Suddenly' = đột nhiên, dùng khi sự kiện xảy ra bất ngờ."
+    },
+    {
+      "id": "q5",
+      "question": "She _____ called for help. (ngay lập tức)",
+      "options": ["eventually", "immediately", "meanwhile", "finally"],
+      "answerIndex": 1,
+      "explanation": "'Immediately' = ngay lập tức."
+    },
+    {
+      "id": "q6",
+      "question": "_____, she prepared the drinks for the guests. (trong khi người khác làm việc khác)",
+      "options": ["Suddenly", "Finally", "Meanwhile", "First"],
+      "answerIndex": 2,
+      "explanation": "'Meanwhile' = trong lúc đó, dùng khi hai việc xảy ra đồng thời."
+    },
+    {
+      "id": "q7",
+      "question": "_____, he found the solution to the problem. (sau một thời gian dài)",
+      "options": ["Suddenly", "First", "Eventually", "Next"],
+      "answerIndex": 2,
+      "explanation": "'Eventually' = cuối cùng, sau một quá trình dài."
+    },
+    {
+      "id": "q8",
+      "question": "Sắp xếp đúng thứ tự kể chuyện: (A) Finally we returned home. (B) First we visited the museum. (C) Then we had lunch.",
+      "options": ["A → B → C", "B → C → A", "C → A → B", "B → A → C"],
+      "answerIndex": 1,
+      "explanation": "Trình tự đúng: First (B) → Then (C) → Finally (A)."
+    },
+    {
+      "id": "q9",
+      "question": "_____, the weather was perfect. (trước hết, để bắt đầu)",
+      "options": ["To begin with", "In the end", "At last", "Before long"],
+      "answerIndex": 0,
+      "explanation": "'To begin with' = trước hết, ban đầu, thường dùng mở đầu câu chuyện."
+    },
+    {
+      "id": "q10",
+      "question": "_____, everything worked out well. (kết lại)",
+      "options": ["First", "Next", "In the end", "Suddenly"],
+      "answerIndex": 2,
+      "explanation": "'In the end' = cuối cùng, kết lại. Tương tự 'finally'."
+    },
+    {
+      "id": "q11",
+      "question": "Từ 'eventually' khác 'finally' ở chỗ nào?",
+      "options": [
+        "Không có sự khác biệt",
+        "'Eventually' nhấn mạnh sau một thời gian dài hoặc khó khăn",
+        "'Finally' dùng cho câu hỏi, 'eventually' cho câu kể",
+        "'Eventually' chỉ dùng ở cuối đoạn văn"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Eventually' nhấn mạnh sự kiện xảy ra sau một quá trình dài hoặc khó khăn."
+    },
+    {
+      "id": "q12",
+      "question": "_____ she arrived, she called me.",
+      "options": ["Before long", "As soon as", "In the end", "Meanwhile"],
+      "answerIndex": 1,
+      "explanation": "'As soon as' = ngay khi, dùng khi sự kiện xảy ra ngay sau sự kiện khác."
+    },
+    {
+      "id": "q13",
+      "question": "_____, a dog ran into the road. (rất bất ngờ)",
+      "options": ["At last", "All of a sudden", "Eventually", "Before long"],
+      "answerIndex": 1,
+      "explanation": "'All of a sudden' = bỗng nhiên, tương tự 'suddenly'."
+    },
+    {
+      "id": "q14",
+      "question": "The next day, _____ better.",
+      "options": ["I feel", "I am feeling", "I felt", "I was feeling"],
+      "answerIndex": 2,
+      "explanation": "'The next day' = ngày hôm sau (quá khứ) → I felt (Past Simple)."
+    },
+    {
+      "id": "q15",
+      "question": "Chọn từ nối đúng: 'We cooked lunch. _____, my cousins arrived.'",
+      "options": ["First", "Meanwhile", "After that", "Before long"],
+      "answerIndex": 2,
+      "explanation": "'After that' = sau đó, dùng để nối hai sự kiện xảy ra lần lượt."
+    },
+    {
+      "id": "q16",
+      "question": "Từ 'unexpectedly' nghĩa là gì?",
+      "options": ["bình thường", "bất ngờ, không ngờ tới", "đột nhiên", "cuối cùng"],
+      "answerIndex": 1,
+      "explanation": "'Unexpectedly' có nghĩa là bất ngờ, không ai ngờ tới."
+    },
+    {
+      "id": "q17",
+      "question": "_____ the rain stopped and we went outside. (sau khi chờ đợi lâu)",
+      "options": ["Meanwhile", "At last", "First", "Next"],
+      "answerIndex": 1,
+      "explanation": "'At last' = cuối cùng, sau khi chờ đợi hay cố gắng lâu."
+    },
+    {
+      "id": "q18",
+      "question": "Cụm mở đầu nào KHÔNG phù hợp để bắt đầu câu chuyện?",
+      "options": ["Last weekend, ...", "One day, ...", "A few years ago, ...", "Right now, ..."],
+      "answerIndex": 3,
+      "explanation": "'Right now' là tín hiệu hiện tại tiếp diễn, không dùng để mở đầu câu chuyện quá khứ."
+    },
+    {
+      "id": "q19",
+      "question": "Điền từ nối đúng: '_____, he didn't understand the question. But slowly, he began to get it.'",
+      "options": ["Finally", "At first", "After that", "Meanwhile"],
+      "answerIndex": 1,
+      "explanation": "'At first' = ban đầu, dùng khi mô tả tình huống thay đổi theo thời gian."
+    },
+    {
+      "id": "q20",
+      "question": "Từ 'shortly after' nghĩa là gì?",
+      "options": ["ngay trước đó", "ngay sau đó", "lâu sau đó", "trong lúc đó"],
+      "answerIndex": 1,
+      "explanation": "'Shortly after' = ngay sau đó, sau một khoảng thời gian ngắn."
+    },
+    {
+      "id": "q21",
+      "question": "Chọn câu dùng từ nối ĐÚNG trong kể chuyện:",
+      "options": [
+        "First, we arrived. Meanwhile, we had dinner. Finally, we left.",
+        "First, we arrived. Then, we had dinner. Finally, we left.",
+        "Finally, we arrived. Then, we had dinner. First, we left.",
+        "Then, we arrived. First, we had dinner. Finally, we left."
+      ],
+      "answerIndex": 1,
+      "explanation": "Trình tự đúng: First → Then → Finally."
+    },
+    {
+      "id": "q22",
+      "question": "Từ 'from that moment' dùng để diễn đạt điều gì?",
+      "options": ["Một thời điểm tương lai", "Một khoảnh khắc chuyển biến trong quá khứ", "Thói quen hằng ngày", "Sự kiện xảy ra bất ngờ"],
+      "answerIndex": 1,
+      "explanation": "'From that moment' = từ khoảnh khắc đó, chỉ điểm bắt đầu một sự thay đổi."
+    },
+    {
+      "id": "q23",
+      "question": "_____, the bus arrived. (sau khi chờ một lúc)",
+      "options": ["At last", "A short while later", "Meanwhile", "First"],
+      "answerIndex": 1,
+      "explanation": "'A short while later' = một lúc sau, sau một khoảng thời gian ngắn."
+    },
+    {
+      "id": "q24",
+      "question": "Điền từ thích hợp: 'We cooked the food. _____, the guests were setting the table.'",
+      "options": ["Suddenly", "Meanwhile", "Eventually", "Finally"],
+      "answerIndex": 1,
+      "explanation": "'Meanwhile' = trong lúc đó, hai việc xảy ra đồng thời."
+    },
+    {
+      "id": "q25",
+      "question": "Câu chuyện dưới đây dùng từ nối có đúng không? 'First, we visited the temple. Then, we had lunch. After that, we went shopping. Finally, we returned to the hotel.'",
+      "options": ["Đúng, trình tự hợp lý", "Sai, 'First' không dùng được ở đây", "Sai, 'After that' phải đặt cuối", "Sai, không thể dùng cả 'Then' và 'After that'"],
+      "answerIndex": 0,
+      "explanation": "Trình tự First → Then → After that → Finally là hoàn toàn đúng và tự nhiên."
+    },
+    {
+      "id": "q26",
+      "question": "Từ 'before long' nghĩa là gì?",
+      "options": ["từ trước đó lâu", "chẳng bao lâu sau", "trước khi bắt đầu", "trong suốt thời gian"],
+      "answerIndex": 1,
+      "explanation": "'Before long' = chẳng bao lâu sau."
+    },
+    {
+      "id": "q27",
+      "question": "Điền đúng: 'She decided to change her life. _____, she started going to the gym.'",
+      "options": ["Meanwhile", "At first", "From that moment", "Before long"],
+      "answerIndex": 2,
+      "explanation": "'From that moment' phù hợp khi có một khoảnh khắc quyết định rõ ràng."
+    },
+    {
+      "id": "q28",
+      "question": "Từ 'at last' khác với 'finally' ở chỗ nào?",
+      "options": [
+        "Không khác gì nhau",
+        "'At last' nhấn mạnh sự mong đợi hoặc khó khăn trước đó",
+        "'Finally' dùng ở đầu câu, 'at last' ở cuối câu",
+        "'At last' chỉ dùng ở câu phủ định"
+      ],
+      "answerIndex": 1,
+      "explanation": "'At last' nhấn mạnh cảm giác nhẹ nhõm sau thời gian chờ đợi dài. 'Finally' trung tính hơn."
+    },
+    {
+      "id": "q29",
+      "question": "_____ we got there, the film had started. (vào lúc chúng tôi đến)",
+      "options": ["As soon as", "By the time", "Eventually", "Before long"],
+      "answerIndex": 1,
+      "explanation": "'By the time' = vào lúc/đến khi, thường đi kèm thì hoàn thành."
+    },
+    {
+      "id": "q30",
+      "question": "Chọn câu kể chuyện ĐÚNG nhất:",
+      "options": [
+        "One day, I go to the market. First, I buy some fruit. Then, I return home.",
+        "One day, I went to the market. First, I bought some fruit. Then, I returned home.",
+        "One day, I was go to the market. First, I was buy fruit. Then, return.",
+        "One day, I going to the market. First, bought fruit. Then, return home."
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu chuyện quá khứ dùng Past Simple. went, bought, returned là đúng."
+    },
+    {
+      "id": "q31",
+      "question": "Từ nào KHÔNG phải từ nối thời gian?",
+      "options": ["then", "finally", "however", "after that"],
+      "answerIndex": 2,
+      "explanation": "'However' là từ nối tương phản (= tuy nhiên), không phải từ nối thời gian."
+    },
+    {
+      "id": "q32",
+      "question": "Điền từ nối đúng: 'She heard the news. _____, she burst into tears.' (ngay lập tức)",
+      "options": ["Eventually", "Meanwhile", "Immediately", "Finally"],
+      "answerIndex": 2,
+      "explanation": "'Immediately' = ngay lập tức, xảy ra không chậm trễ."
+    },
+    {
+      "id": "q33",
+      "question": "Từ 'a few hours later' có nghĩa là gì?",
+      "options": ["mấy ngày sau", "vài giờ sau", "vài phút sau", "vài tuần sau"],
+      "answerIndex": 1,
+      "explanation": "'A few hours later' = vài giờ sau đó."
+    },
+    {
+      "id": "q34",
+      "question": "Cụm 'all of a sudden' đồng nghĩa với từ nào?",
+      "options": ["finally", "eventually", "suddenly", "meanwhile"],
+      "answerIndex": 2,
+      "explanation": "'All of a sudden' = suddenly = đột nhiên, bỗng nhiên."
+    },
+    {
+      "id": "q35",
+      "question": "Chọn cách mở đầu câu chuyện ĐÚNG nhất:",
+      "options": [
+        "Right now, I want to tell you a story.",
+        "Tomorrow, she went to the market.",
+        "Last Saturday, we decided to visit the countryside.",
+        "Every day, they traveled to the mountains."
+      ],
+      "answerIndex": 2,
+      "explanation": "'Last Saturday' là tín hiệu quá khứ đúng để mở đầu câu chuyện. 'Decided' = Past Simple."
+    },
+    {
+      "id": "q36",
+      "question": "Từ 'as soon as' nghĩa là gì?",
+      "options": ["sau một lúc", "ngay khi", "trước khi", "khi đó"],
+      "answerIndex": 1,
+      "explanation": "'As soon as' = ngay khi, ngay lúc."
+    },
+    {
+      "id": "q37",
+      "question": "Điền từ nối hợp lý: 'I waited for two hours. _____, my friend arrived.' (sau khi chờ lâu)",
+      "options": ["Suddenly", "At last", "Before long", "Meanwhile"],
+      "answerIndex": 1,
+      "explanation": "'At last' = cuối cùng, nhấn mạnh sự chờ đợi lâu đã được đền đáp."
+    },
+    {
+      "id": "q38",
+      "question": "Câu nào dùng 'eventually' đúng?",
+      "options": [
+        "Eventually, I wake up at 6 every day.",
+        "Eventually, she found a job after many months of searching.",
+        "Eventually, the film starts at 8 p.m.",
+        "Eventually, I am going to the market tomorrow."
+      ],
+      "answerIndex": 1,
+      "explanation": "'Eventually' dùng cho quá khứ, sau quá trình dài → She found a job."
+    },
+    {
+      "id": "q39",
+      "question": "Từ 'the next day' nghĩa là gì?",
+      "options": ["ngày hôm trước", "ngày hôm sau", "ngày hiện tại", "vào ngày đó"],
+      "answerIndex": 1,
+      "explanation": "'The next day' = ngày hôm sau (tiếp theo ngày trong câu chuyện)."
+    },
+    {
+      "id": "q40",
+      "question": "Chọn đoạn kể chuyện có từ nối phù hợp nhất:",
+      "options": [
+        "Finally we woke up. Meanwhile we had breakfast. First we left for work.",
+        "First we woke up. Meanwhile we had breakfast. After that we left for work.",
+        "First we woke up. Then we had breakfast. After that we left for work.",
+        "Then we woke up. After that we had breakfast. First we left for work."
+      ],
+      "answerIndex": 2,
+      "explanation": "Trình tự hợp lý và từ nối đúng: First → Then → After that."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dayId": "day-10",
+  "items": [
+    { "word": "enjoy", "meaning": "thích, tận hưởng", "example": "Did you enjoy the concert last night?" },
+    { "word": "concert", "meaning": "buổi hòa nhạc", "example": "She didn't go to the concert because she was tired." },
+    { "word": "match", "meaning": "trận đấu", "example": "They didn't watch the football match last night." },
+    { "word": "library", "meaning": "thư viện", "example": "Where did you go after school? I went to the library." },
+    { "word": "explain", "meaning": "giải thích", "example": "Why didn't the teacher explain the homework?" },
+    { "word": "invite", "meaning": "mời", "example": "Did she invite you to her birthday party?" },
+    { "word": "party", "meaning": "bữa tiệc", "example": "Why didn't she come to the party?" },
+    { "word": "forget", "meaning": "quên", "example": "I didn't forget – I remembered everything." },
+    { "word": "miss", "meaning": "bỏ lỡ, nhớ", "example": "Did you miss the bus this morning?" },
+    { "word": "pass", "meaning": "vượt qua (kỳ thi), đi qua", "example": "Did he pass his driving test?" },
+    { "word": "fail", "meaning": "thất bại, thi rớt", "example": "She didn't fail the exam – she passed!" },
+    { "word": "decide", "meaning": "quyết định", "example": "When did you decide to study English?" },
+    { "word": "understand", "meaning": "hiểu", "example": "Did you understand the lesson yesterday?" },
+    { "word": "agree", "meaning": "đồng ý", "example": "They didn't agree with the decision." },
+    { "word": "spend", "meaning": "dành (thời gian), tiêu (tiền)", "example": "How much did you spend on the trip?" },
+    { "word": "win", "meaning": "chiến thắng", "example": "Did your team win the match?" },
+    { "word": "lose", "meaning": "thua, mất", "example": "They didn't lose – they drew 1-1." },
+    { "word": "choose", "meaning": "chọn lựa", "example": "Why did she choose that restaurant?" },
+    { "word": "reply", "meaning": "trả lời (tin nhắn, email)", "example": "He didn't reply to my message." },
+    { "word": "pay", "meaning": "trả tiền", "example": "Who paid for the dinner?" },
+    { "word": "promise", "meaning": "hứa", "example": "Did he promise to come?" },
+    { "word": "introduce", "meaning": "giới thiệu", "example": "Did she introduce her boyfriend to her parents?" },
+    { "word": "complain", "meaning": "phàn nàn", "example": "Why did they complain about the food?" },
+    { "word": "suggest", "meaning": "đề nghị, gợi ý", "example": "What did he suggest for the weekend?" },
+    { "word": "surprise", "meaning": "làm ngạc nhiên", "example": "Did the gift surprise her?" }
+  ]
+}
