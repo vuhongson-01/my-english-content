@@ -1,0 +1,485 @@
+{
+  "dayId": "day-88",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"question\"?",
+      "options": [
+        "quản lý",
+        "câu hỏi",
+        "đúng/sửa",
+        "đỗ/qua"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"question\" có nghĩa là \"câu hỏi\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"answer\"?",
+      "options": [
+        "đúng/sửa",
+        "câu hỏi",
+        "câu trả lời",
+        "sai"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"answer\" có nghĩa là \"câu trả lời\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"complete\"?",
+      "options": [
+        "đúng/sửa",
+        "hoàn thành",
+        "phần",
+        "luyện tập"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"complete\" có nghĩa là \"hoàn thành\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"achieve\"?",
+      "options": [
+        "đọc",
+        "lỗi",
+        "đạt được",
+        "thì"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"achieve\" có nghĩa là \"đạt được\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"improve\"?",
+      "options": [
+        "câu trả lời",
+        "cải thiện",
+        "điểm số",
+        "quản lý"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"improve\" có nghĩa là \"cải thiện\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"weakness\"?",
+      "options": [
+        "điểm yếu",
+        "câu hỏi",
+        "đọc",
+        "đỗ/qua"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"weakness\" có nghĩa là \"điểm yếu\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"strength\"?",
+      "options": [
+        "câu trả lời",
+        "điểm mạnh",
+        "kết quả",
+        "phần"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"strength\" có nghĩa là \"điểm mạnh\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"focus\"?",
+      "options": [
+        "quản lý",
+        "kết quả",
+        "tập trung",
+        "phần"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"focus\" có nghĩa là \"tập trung\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"manage\"?",
+      "options": [
+        "đúng/sửa",
+        "đạt được",
+        "cấu trúc",
+        "quản lý"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"manage\" có nghĩa là \"quản lý\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"pass\"?",
+      "options": [
+        "luyện tập",
+        "đỗ/qua",
+        "kỳ thi",
+        "ngữ pháp"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"pass\" có nghĩa là \"đỗ/qua\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"result\"?",
+      "options": [
+        "kết quả",
+        "lỗi",
+        "câu hỏi",
+        "luyện tập"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"result\" có nghĩa là \"kết quả\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"exam\"?",
+      "options": [
+        "kỳ thi",
+        "điểm yếu",
+        "sai",
+        "câu trả lời"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"exam\" có nghĩa là \"kỳ thi\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: Work on your _____.",
+      "options": [
+        "weakness",
+        "structure",
+        "section",
+        "manage"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"Work on your weakness.\" — từ đúng là \"weakness\" (điểm yếu)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: Reading is my _____.",
+      "options": [
+        "listening",
+        "review",
+        "mistake",
+        "strength"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Reading is my strength.\" — từ đúng là \"strength\" (điểm mạnh)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: _____ during the test.",
+      "options": [
+        "pass",
+        "focus",
+        "manage",
+        "achieve"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Focus during the test.\" — từ đúng là \"focus\" (tập trung)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: _____ your time well.",
+      "options": [
+        "manage",
+        "incorrect",
+        "practice",
+        "answer"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"Manage your time well.\" — từ đúng là \"manage\" (quản lý)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: I hope to _____ the exam.",
+      "options": [
+        "grammar",
+        "improve",
+        "achieve",
+        "pass"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"I hope to pass the exam.\" — từ đúng là \"pass\" (đỗ/qua)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: The _____ comes next week.",
+      "options": [
+        "complete",
+        "manage",
+        "result",
+        "question"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"The result comes next week.\" — từ đúng là \"result\" (kết quả)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: The B1 _____ has four parts.",
+      "options": [
+        "exam",
+        "listening",
+        "section",
+        "answer"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The B1 exam has four parts.\" — từ đúng là \"exam\" (kỳ thi)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: We will _____ all grammar.",
+      "options": [
+        "review",
+        "structure",
+        "pass",
+        "tense"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"We will review all grammar.\" — từ đúng là \"review\" (ôn tập)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: _____ makes perfect.",
+      "options": [
+        "review",
+        "result",
+        "answer",
+        "practice"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Practice makes perfect.\" — từ đúng là \"practice\" (luyện tập)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: The _____ part is short.",
+      "options": [
+        "weakness",
+        "exam",
+        "section",
+        "listening"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"The listening part is short.\" — từ đúng là \"listening\" (nghe)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: The _____ part has a long text.",
+      "options": [
+        "correct",
+        "pass",
+        "exam",
+        "reading"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"The reading part has a long text.\" — từ đúng là \"reading\" (đọc)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: _____ is one section.",
+      "options": [
+        "grammar",
+        "incorrect",
+        "score",
+        "weakness"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"Grammar is one section.\" — từ đúng là \"grammar\" (ngữ pháp)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: She said she ___ studied all night.",
+      "options": [
+        "had",
+        "has",
+        "was",
+        "have"
+      ],
+      "answerIndex": 0,
+      "explanation": "Reported speech: present perfect → past perfect."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: If it ___, we will cancel the trip.",
+      "options": [
+        "will rain",
+        "rained",
+        "would rain",
+        "rains"
+      ],
+      "answerIndex": 3,
+      "explanation": "First conditional uses present simple in the if-clause."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: The house ___ built last year.",
+      "options": [
+        "were",
+        "is",
+        "did",
+        "was"
+      ],
+      "answerIndex": 3,
+      "explanation": "Passive past simple: was + participle."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: I have ___ finished the test.",
+      "options": [
+        "since",
+        "ago",
+        "yet",
+        "just"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Just' with present perfect for recent action."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: This is the ___ exam of the year.",
+      "options": [
+        "most hard",
+        "hardest",
+        "harder",
+        "hard"
+      ],
+      "answerIndex": 1,
+      "explanation": "Superlative of a short adjective: -est."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: You ___ revise before the exam.",
+      "options": [
+        "should",
+        "don't have to",
+        "must not",
+        "could not"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Should' gives advice."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: While I ___, the bell rang.",
+      "options": [
+        "wrote",
+        "am writing",
+        "was writing",
+        "write"
+      ],
+      "answerIndex": 2,
+      "explanation": "Past continuous for an interrupted action."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: The man ___ marked the test is strict.",
+      "options": [
+        "who",
+        "whose",
+        "which",
+        "where"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Who' refers to a person."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: I think I ___ pass the exam.",
+      "options": [
+        "go to",
+        "will",
+        "would",
+        "am going"
+      ],
+      "answerIndex": 1,
+      "explanation": "Prediction based on opinion uses 'will'."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: English ___ spoken in many countries.",
+      "options": [
+        "was being",
+        "are",
+        "is",
+        "be"
+      ],
+      "answerIndex": 2,
+      "explanation": "Passive present simple singular: is + participle."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"câu hỏi\"?",
+      "options": [
+        "tense",
+        "complete",
+        "correct",
+        "question"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"câu hỏi\" trong tiếng Anh là \"question\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"câu trả lời\"?",
+      "options": [
+        "manage",
+        "score",
+        "tense",
+        "answer"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"câu trả lời\" trong tiếng Anh là \"answer\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"hoàn thành\"?",
+      "options": [
+        "mistake",
+        "review",
+        "focus",
+        "complete"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"hoàn thành\" trong tiếng Anh là \"complete\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"đạt được\"?",
+      "options": [
+        "achieve",
+        "complete",
+        "improve",
+        "tense"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"đạt được\" trong tiếng Anh là \"achieve\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"cải thiện\"?",
+      "options": [
+        "improve",
+        "strength",
+        "review",
+        "mistake"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"cải thiện\" trong tiếng Anh là \"improve\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"điểm yếu\"?",
+      "options": [
+        "weakness",
+        "tense",
+        "achieve",
+        "exam"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"điểm yếu\" trong tiếng Anh là \"weakness\"."
+    }
+  ]
+}

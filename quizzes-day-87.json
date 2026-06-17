@@ -1,0 +1,485 @@
+{
+  "dayId": "day-87",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"time limit\"?",
+      "options": [
+        "câu trả lời",
+        "giới hạn thời gian",
+        "kết quả",
+        "ôn tập"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"time limit\" có nghĩa là \"giới hạn thời gian\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"confident\"?",
+      "options": [
+        "tự tin",
+        "câu hỏi",
+        "điểm yếu",
+        "đạt được"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"confident\" có nghĩa là \"tự tin\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"revise\"?",
+      "options": [
+        "ôn tập",
+        "ngữ pháp",
+        "sự trôi chảy",
+        "ôn lại"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"revise\" có nghĩa là \"ôn lại\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"assess\"?",
+      "options": [
+        "điểm mạnh",
+        "đánh giá",
+        "tự tin",
+        "đạt được"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"assess\" có nghĩa là \"đánh giá\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"accuracy\"?",
+      "options": [
+        "hoàn thành",
+        "độ chính xác",
+        "đánh giá",
+        "sự trôi chảy"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"accuracy\" có nghĩa là \"độ chính xác\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"fluency\"?",
+      "options": [
+        "ôn lại",
+        "tập trung",
+        "sự trôi chảy",
+        "quản lý"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"fluency\" có nghĩa là \"sự trôi chảy\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"preparation\"?",
+      "options": [
+        "giới hạn thời gian",
+        "sự chuẩn bị",
+        "sự trôi chảy",
+        "cải thiện"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"preparation\" có nghĩa là \"sự chuẩn bị\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"question\"?",
+      "options": [
+        "đánh giá",
+        "luyện tập",
+        "điểm yếu",
+        "câu hỏi"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"question\" có nghĩa là \"câu hỏi\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"answer\"?",
+      "options": [
+        "luyện tập",
+        "kết quả",
+        "câu trả lời",
+        "ôn lại"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"answer\" có nghĩa là \"câu trả lời\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"complete\"?",
+      "options": [
+        "hoàn thành",
+        "cải thiện",
+        "luyện tập",
+        "đạt được"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"complete\" có nghĩa là \"hoàn thành\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"achieve\"?",
+      "options": [
+        "câu hỏi",
+        "đạt được",
+        "quản lý",
+        "đọc"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"achieve\" có nghĩa là \"đạt được\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"improve\"?",
+      "options": [
+        "đạt được",
+        "quản lý",
+        "cải thiện",
+        "câu trả lời"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"improve\" có nghĩa là \"cải thiện\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: Speak with _____.",
+      "options": [
+        "accuracy",
+        "fluency",
+        "improve",
+        "reading"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Speak with fluency.\" — từ đúng là \"fluency\" (sự trôi chảy)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: Good _____ is key.",
+      "options": [
+        "preparation",
+        "assess",
+        "reading",
+        "question"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"Good preparation is key.\" — từ đúng là \"preparation\" (sự chuẩn bị)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: Read each _____ twice.",
+      "options": [
+        "focus",
+        "achieve",
+        "grammar",
+        "question"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Read each question twice.\" — từ đúng là \"question\" (câu hỏi)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: Check your _____s.",
+      "options": [
+        "answer",
+        "confident",
+        "revise",
+        "pass"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"Check your answers.\" — từ đúng là \"answer\" (câu trả lời)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: _____ all sections.",
+      "options": [
+        "assess",
+        "pass",
+        "complete",
+        "exam"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"Complete all sections.\" — từ đúng là \"complete\" (hoàn thành)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: You can _____ B1.",
+      "options": [
+        "complete",
+        "weakness",
+        "practice",
+        "achieve"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"You can achieve B1.\" — từ đúng là \"achieve\" (đạt được)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: I want to _____ my writing.",
+      "options": [
+        "improve",
+        "focus",
+        "listening",
+        "pass"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"I want to improve my writing.\" — từ đúng là \"improve\" (cải thiện)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: Work on your _____.",
+      "options": [
+        "weakness",
+        "reading",
+        "exam",
+        "accuracy"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"Work on your weakness.\" — từ đúng là \"weakness\" (điểm yếu)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: Reading is my _____.",
+      "options": [
+        "achieve",
+        "grammar",
+        "revise",
+        "strength"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Reading is my strength.\" — từ đúng là \"strength\" (điểm mạnh)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: _____ during the test.",
+      "options": [
+        "weakness",
+        "achieve",
+        "practice",
+        "focus"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Focus during the test.\" — từ đúng là \"focus\" (tập trung)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: _____ your time well.",
+      "options": [
+        "review",
+        "confident",
+        "manage",
+        "fluency"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"Manage your time well.\" — từ đúng là \"manage\" (quản lý)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: I hope to _____ the exam.",
+      "options": [
+        "complete",
+        "reading",
+        "pass",
+        "improve"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"I hope to pass the exam.\" — từ đúng là \"pass\" (đỗ/qua)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: She said she ___ studied all night.",
+      "options": [
+        "was",
+        "have",
+        "has",
+        "had"
+      ],
+      "answerIndex": 3,
+      "explanation": "Reported speech: present perfect → past perfect."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: If it ___, we will cancel the trip.",
+      "options": [
+        "would rain",
+        "rained",
+        "rains",
+        "will rain"
+      ],
+      "answerIndex": 2,
+      "explanation": "First conditional uses present simple in the if-clause."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: The house ___ built last year.",
+      "options": [
+        "were",
+        "is",
+        "did",
+        "was"
+      ],
+      "answerIndex": 3,
+      "explanation": "Passive past simple: was + participle."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: I have ___ finished the test.",
+      "options": [
+        "since",
+        "yet",
+        "just",
+        "ago"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Just' with present perfect for recent action."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: This is the ___ exam of the year.",
+      "options": [
+        "harder",
+        "most hard",
+        "hardest",
+        "hard"
+      ],
+      "answerIndex": 2,
+      "explanation": "Superlative of a short adjective: -est."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: You ___ revise before the exam.",
+      "options": [
+        "should",
+        "must not",
+        "could not",
+        "don't have to"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Should' gives advice."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: While I ___, the bell rang.",
+      "options": [
+        "wrote",
+        "write",
+        "am writing",
+        "was writing"
+      ],
+      "answerIndex": 3,
+      "explanation": "Past continuous for an interrupted action."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: The man ___ marked the test is strict.",
+      "options": [
+        "whose",
+        "where",
+        "which",
+        "who"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Who' refers to a person."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: I think I ___ pass the exam.",
+      "options": [
+        "am going",
+        "would",
+        "go to",
+        "will"
+      ],
+      "answerIndex": 3,
+      "explanation": "Prediction based on opinion uses 'will'."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: English ___ spoken in many countries.",
+      "options": [
+        "are",
+        "be",
+        "is",
+        "was being"
+      ],
+      "answerIndex": 2,
+      "explanation": "Passive present simple singular: is + participle."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"giới hạn thời gian\"?",
+      "options": [
+        "achieve",
+        "fluency",
+        "time limit",
+        "listening"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"giới hạn thời gian\" trong tiếng Anh là \"time limit\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"tự tin\"?",
+      "options": [
+        "exam",
+        "reading",
+        "manage",
+        "confident"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"tự tin\" trong tiếng Anh là \"confident\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"ôn lại\"?",
+      "options": [
+        "revise",
+        "accuracy",
+        "result",
+        "strength"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"ôn lại\" trong tiếng Anh là \"revise\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"đánh giá\"?",
+      "options": [
+        "practice",
+        "assess",
+        "grammar",
+        "answer"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"đánh giá\" trong tiếng Anh là \"assess\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"độ chính xác\"?",
+      "options": [
+        "listening",
+        "revise",
+        "accuracy",
+        "complete"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"độ chính xác\" trong tiếng Anh là \"accuracy\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"sự trôi chảy\"?",
+      "options": [
+        "fluency",
+        "pass",
+        "assess",
+        "question"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"sự trôi chảy\" trong tiếng Anh là \"fluency\"."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "dayId": "day-83",
+  "items": [
+    {
+      "word": "detail",
+      "meaning": "chi tiết",
+      "example": "Look for specific details."
+    },
+    {
+      "word": "infer",
+      "meaning": "suy luận",
+      "example": "We can infer the answer."
+    },
+    {
+      "word": "context",
+      "meaning": "ngữ cảnh",
+      "example": "Use context to guess meaning."
+    },
+    {
+      "word": "summary",
+      "meaning": "tóm tắt",
+      "example": "Write a short summary."
+    },
+    {
+      "word": "topic",
+      "meaning": "chủ đề",
+      "example": "The topic is travel."
+    },
+    {
+      "word": "paragraph",
+      "meaning": "đoạn văn",
+      "example": "The first paragraph is short."
+    },
+    {
+      "word": "skim",
+      "meaning": "đọc lướt",
+      "example": "Skim the text for the gist."
+    },
+    {
+      "word": "scan",
+      "meaning": "đọc dò",
+      "example": "Scan for specific numbers."
+    },
+    {
+      "word": "vocabulary",
+      "meaning": "từ vựng",
+      "example": "Build your vocabulary daily."
+    },
+    {
+      "word": "synonym",
+      "meaning": "từ đồng nghĩa",
+      "example": "Find a synonym for 'big'."
+    },
+    {
+      "word": "antonym",
+      "meaning": "từ trái nghĩa",
+      "example": "'Hot' is an antonym of 'cold'."
+    },
+    {
+      "word": "travel",
+      "meaning": "du lịch",
+      "example": "The article is about travel."
+    },
+    {
+      "word": "health",
+      "meaning": "sức khỏe",
+      "example": "Exercise is good for health."
+    },
+    {
+      "word": "society",
+      "meaning": "xã hội",
+      "example": "Technology changes society."
+    },
+    {
+      "word": "environment",
+      "meaning": "môi trường",
+      "example": "We must protect the environment."
+    },
+    {
+      "word": "culture",
+      "meaning": "văn hóa",
+      "example": "Food is part of culture."
+    },
+    {
+      "word": "article",
+      "meaning": "bài báo",
+      "example": "I read an article today."
+    },
+    {
+      "word": "author",
+      "meaning": "tác giả",
+      "example": "The author writes clearly."
+    },
+    {
+      "word": "opinion",
+      "meaning": "ý kiến",
+      "example": "Give your opinion politely."
+    },
+    {
+      "word": "fact",
+      "meaning": "sự thật",
+      "example": "Separate fact from opinion."
+    },
+    {
+      "word": "evidence",
+      "meaning": "bằng chứng",
+      "example": "Find evidence in the text."
+    },
+    {
+      "word": "conclusion",
+      "meaning": "kết luận",
+      "example": "The conclusion is clear."
+    },
+    {
+      "word": "introduction",
+      "meaning": "phần mở đầu",
+      "example": "The introduction sets the scene."
+    },
+    {
+      "word": "predict",
+      "meaning": "dự đoán",
+      "example": "Predict what comes next."
+    }
+  ]
+}

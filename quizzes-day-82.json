@@ -1,0 +1,485 @@
+{
+  "dayId": "day-82",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"purpose\"?",
+      "options": [
+        "vấn đề",
+        "đoạn văn",
+        "mục đích",
+        "từ đồng nghĩa"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"purpose\" có nghĩa là \"mục đích\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"attitude\"?",
+      "options": [
+        "thái độ",
+        "đọc lướt",
+        "chủ đề",
+        "mục đích"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"attitude\" có nghĩa là \"thái độ\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"benefit\"?",
+      "options": [
+        "chi tiết",
+        "vấn đề",
+        "đọc hiểu",
+        "lợi ích"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"benefit\" có nghĩa là \"lợi ích\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"issue\"?",
+      "options": [
+        "du lịch",
+        "thái độ",
+        "vấn đề",
+        "đọc dò"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"issue\" có nghĩa là \"vấn đề\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"passage\"?",
+      "options": [
+        "đọc hiểu",
+        "chi tiết",
+        "đoạn văn",
+        "xã hội"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"passage\" có nghĩa là \"đoạn văn\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"comprehension\"?",
+      "options": [
+        "đọc hiểu",
+        "chủ đề",
+        "du lịch",
+        "đọc lướt"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"comprehension\" có nghĩa là \"đọc hiểu\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"main idea\"?",
+      "options": [
+        "ý chính",
+        "đoạn văn",
+        "du lịch",
+        "xã hội"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"main idea\" có nghĩa là \"ý chính\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"detail\"?",
+      "options": [
+        "chi tiết",
+        "văn hóa",
+        "từ đồng nghĩa",
+        "môi trường"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"detail\" có nghĩa là \"chi tiết\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"infer\"?",
+      "options": [
+        "đoạn văn",
+        "lợi ích",
+        "chi tiết",
+        "suy luận"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"infer\" có nghĩa là \"suy luận\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"context\"?",
+      "options": [
+        "sức khỏe",
+        "từ vựng",
+        "ngữ cảnh",
+        "đọc hiểu"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"context\" có nghĩa là \"ngữ cảnh\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"summary\"?",
+      "options": [
+        "lợi ích",
+        "đoạn văn",
+        "sức khỏe",
+        "tóm tắt"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"summary\" có nghĩa là \"tóm tắt\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"topic\"?",
+      "options": [
+        "bài báo",
+        "thái độ",
+        "tóm tắt",
+        "chủ đề"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"topic\" có nghĩa là \"chủ đề\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: The test checks _____.",
+      "options": [
+        "main idea",
+        "health",
+        "infer",
+        "comprehension"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"The test checks comprehension.\" — từ đúng là \"comprehension\" (đọc hiểu)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: Find the _____ of the text.",
+      "options": [
+        "paragraph",
+        "context",
+        "society",
+        "main idea"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Find the main idea of the text.\" — từ đúng là \"main idea\" (ý chính)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: Look for specific _____s.",
+      "options": [
+        "society",
+        "detail",
+        "scan",
+        "infer"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Look for specific details.\" — từ đúng là \"detail\" (chi tiết)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: We can _____ the answer.",
+      "options": [
+        "health",
+        "summary",
+        "benefit",
+        "infer"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"We can infer the answer.\" — từ đúng là \"infer\" (suy luận)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: Use _____ to guess meaning.",
+      "options": [
+        "culture",
+        "vocabulary",
+        "context",
+        "topic"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"Use context to guess meaning.\" — từ đúng là \"context\" (ngữ cảnh)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: Write a short _____.",
+      "options": [
+        "passage",
+        "summary",
+        "article",
+        "detail"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Write a short summary.\" — từ đúng là \"summary\" (tóm tắt)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: The _____ is travel.",
+      "options": [
+        "health",
+        "paragraph",
+        "society",
+        "topic"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"The topic is travel.\" — từ đúng là \"topic\" (chủ đề)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: The first _____ is short.",
+      "options": [
+        "paragraph",
+        "infer",
+        "scan",
+        "detail"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The first paragraph is short.\" — từ đúng là \"paragraph\" (đoạn văn)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: _____ the text for the gist.",
+      "options": [
+        "passage",
+        "main idea",
+        "vocabulary",
+        "skim"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Skim the text for the gist.\" — từ đúng là \"skim\" (đọc lướt)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: _____ for specific numbers.",
+      "options": [
+        "summary",
+        "scan",
+        "vocabulary",
+        "environment"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Scan for specific numbers.\" — từ đúng là \"scan\" (đọc dò)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: Build your _____ daily.",
+      "options": [
+        "detail",
+        "culture",
+        "topic",
+        "vocabulary"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Build your vocabulary daily.\" — từ đúng là \"vocabulary\" (từ vựng)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: Find a _____ for 'big'.",
+      "options": [
+        "synonym",
+        "scan",
+        "passage",
+        "attitude"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"Find a synonym for 'big'.\" — từ đúng là \"synonym\" (từ đồng nghĩa)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: The main ___ of a text is its central message.",
+      "options": [
+        "idea",
+        "detail",
+        "author",
+        "comma"
+      ],
+      "answerIndex": 0,
+      "explanation": "The main idea is the central message."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: To read quickly for the gist, you ___.",
+      "options": [
+        "spell",
+        "skim",
+        "scan",
+        "translate"
+      ],
+      "answerIndex": 1,
+      "explanation": "Skimming means reading quickly for general meaning."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: To find a specific number, you ___ the text.",
+      "options": [
+        "scan",
+        "draw",
+        "skim",
+        "write"
+      ],
+      "answerIndex": 0,
+      "explanation": "Scanning means looking for specific information."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: A word with a similar meaning is a ___.",
+      "options": [
+        "noun",
+        "verb",
+        "antonym",
+        "synonym"
+      ],
+      "answerIndex": 3,
+      "explanation": "A synonym has a similar meaning."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: A word with the opposite meaning is an ___.",
+      "options": [
+        "synonym",
+        "antonym",
+        "article",
+        "adverb"
+      ],
+      "answerIndex": 1,
+      "explanation": "An antonym has the opposite meaning."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: Use the ___ to guess an unknown word.",
+      "options": [
+        "page",
+        "title",
+        "comma",
+        "context"
+      ],
+      "answerIndex": 3,
+      "explanation": "Context helps guess meaning."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: A short retelling of a text is a ___.",
+      "options": [
+        "summary",
+        "title",
+        "question",
+        "synonym"
+      ],
+      "answerIndex": 0,
+      "explanation": "A summary briefly restates the text."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: The writer of a text is the ___.",
+      "options": [
+        "reader",
+        "printer",
+        "author",
+        "editor"
+      ],
+      "answerIndex": 2,
+      "explanation": "The author writes the text."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: Something true that can be proven is a ___.",
+      "options": [
+        "guess",
+        "story",
+        "fact",
+        "opinion"
+      ],
+      "answerIndex": 2,
+      "explanation": "A fact can be proven true."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: A personal belief is an ___.",
+      "options": [
+        "fact",
+        "evidence",
+        "opinion",
+        "rule"
+      ],
+      "answerIndex": 2,
+      "explanation": "An opinion is a personal view."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"mục đích\"?",
+      "options": [
+        "main idea",
+        "purpose",
+        "paragraph",
+        "detail"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"mục đích\" trong tiếng Anh là \"purpose\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"thái độ\"?",
+      "options": [
+        "culture",
+        "attitude",
+        "summary",
+        "context"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"thái độ\" trong tiếng Anh là \"attitude\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"lợi ích\"?",
+      "options": [
+        "environment",
+        "issue",
+        "article",
+        "benefit"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"lợi ích\" trong tiếng Anh là \"benefit\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"vấn đề\"?",
+      "options": [
+        "vocabulary",
+        "scan",
+        "infer",
+        "issue"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"vấn đề\" trong tiếng Anh là \"issue\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"đoạn văn\"?",
+      "options": [
+        "paragraph",
+        "main idea",
+        "passage",
+        "topic"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"đoạn văn\" trong tiếng Anh là \"passage\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"đọc hiểu\"?",
+      "options": [
+        "passage",
+        "paragraph",
+        "comprehension",
+        "health"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"đọc hiểu\" trong tiếng Anh là \"comprehension\"."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "dayId": "day-82",
+  "items": [
+    {
+      "word": "purpose",
+      "meaning": "mục đích",
+      "example": "What is the author's purpose?"
+    },
+    {
+      "word": "attitude",
+      "meaning": "thái độ",
+      "example": "The writer's attitude is positive."
+    },
+    {
+      "word": "benefit",
+      "meaning": "lợi ích",
+      "example": "Reading has many benefits."
+    },
+    {
+      "word": "issue",
+      "meaning": "vấn đề",
+      "example": "The text discusses a social issue."
+    },
+    {
+      "word": "passage",
+      "meaning": "đoạn văn",
+      "example": "Read the passage carefully."
+    },
+    {
+      "word": "comprehension",
+      "meaning": "đọc hiểu",
+      "example": "The test checks comprehension."
+    },
+    {
+      "word": "main idea",
+      "meaning": "ý chính",
+      "example": "Find the main idea of the text."
+    },
+    {
+      "word": "detail",
+      "meaning": "chi tiết",
+      "example": "Look for specific details."
+    },
+    {
+      "word": "infer",
+      "meaning": "suy luận",
+      "example": "We can infer the answer."
+    },
+    {
+      "word": "context",
+      "meaning": "ngữ cảnh",
+      "example": "Use context to guess meaning."
+    },
+    {
+      "word": "summary",
+      "meaning": "tóm tắt",
+      "example": "Write a short summary."
+    },
+    {
+      "word": "topic",
+      "meaning": "chủ đề",
+      "example": "The topic is travel."
+    },
+    {
+      "word": "paragraph",
+      "meaning": "đoạn văn",
+      "example": "The first paragraph is short."
+    },
+    {
+      "word": "skim",
+      "meaning": "đọc lướt",
+      "example": "Skim the text for the gist."
+    },
+    {
+      "word": "scan",
+      "meaning": "đọc dò",
+      "example": "Scan for specific numbers."
+    },
+    {
+      "word": "vocabulary",
+      "meaning": "từ vựng",
+      "example": "Build your vocabulary daily."
+    },
+    {
+      "word": "synonym",
+      "meaning": "từ đồng nghĩa",
+      "example": "Find a synonym for 'big'."
+    },
+    {
+      "word": "antonym",
+      "meaning": "từ trái nghĩa",
+      "example": "'Hot' is an antonym of 'cold'."
+    },
+    {
+      "word": "travel",
+      "meaning": "du lịch",
+      "example": "The article is about travel."
+    },
+    {
+      "word": "health",
+      "meaning": "sức khỏe",
+      "example": "Exercise is good for health."
+    },
+    {
+      "word": "society",
+      "meaning": "xã hội",
+      "example": "Technology changes society."
+    },
+    {
+      "word": "environment",
+      "meaning": "môi trường",
+      "example": "We must protect the environment."
+    },
+    {
+      "word": "culture",
+      "meaning": "văn hóa",
+      "example": "Food is part of culture."
+    },
+    {
+      "word": "article",
+      "meaning": "bài báo",
+      "example": "I read an article today."
+    }
+  ]
+}

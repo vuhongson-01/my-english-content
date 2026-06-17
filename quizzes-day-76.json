@@ -1,0 +1,485 @@
+{
+  "dayId": "day-76",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"which\"?",
+      "options": [
+        "kết nối",
+        "câu",
+        "cái mà",
+        "kết hợp"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"which\" có nghĩa là \"cái mà\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"that\"?",
+      "options": [
+        "mà",
+        "thông tin",
+        "người",
+        "chỉ rõ"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"that\" có nghĩa là \"mà\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"where\"?",
+      "options": [
+        "cái mà",
+        "nơi mà",
+        "nơi chốn",
+        "dấu phẩy"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"where\" có nghĩa là \"nơi mà\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"whose\"?",
+      "options": [
+        "miêu tả",
+        "của ai",
+        "dấu phẩy",
+        "nhận diện"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"whose\" có nghĩa là \"của ai\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"define\"?",
+      "options": [
+        "miêu tả",
+        "người",
+        "phức tạp",
+        "xác định"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"define\" có nghĩa là \"xác định\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"describe\"?",
+      "options": [
+        "nơi chốn",
+        "miêu tả",
+        "câu",
+        "xác định"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"describe\" có nghĩa là \"miêu tả\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"connect\"?",
+      "options": [
+        "dấu phẩy",
+        "thêm vào",
+        "vật",
+        "kết nối"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"connect\" có nghĩa là \"kết nối\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"complex\"?",
+      "options": [
+        "danh từ",
+        "bổ nghĩa",
+        "câu",
+        "phức tạp"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"complex\" có nghĩa là \"phức tạp\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"information\"?",
+      "options": [
+        "thông tin",
+        "chỉ rõ",
+        "xác định",
+        "kết nối"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"information\" có nghĩa là \"thông tin\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"essential\"?",
+      "options": [
+        "kết nối",
+        "danh từ",
+        "thiết yếu",
+        "nhận diện"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"essential\" có nghĩa là \"thiết yếu\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"additional\"?",
+      "options": [
+        "phức tạp",
+        "lược bỏ",
+        "ám chỉ",
+        "thêm vào"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"additional\" có nghĩa là \"thêm vào\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"identify\"?",
+      "options": [
+        "nơi mà",
+        "nhận diện",
+        "phức tạp",
+        "miêu tả"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"identify\" có nghĩa là \"nhận diện\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: The clause _____s the person.",
+      "options": [
+        "person",
+        "describe",
+        "connect",
+        "combine"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"The clause describes the person.\" — từ đúng là \"describe\" (miêu tả)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: Relative pronouns _____ ideas.",
+      "options": [
+        "refer",
+        "connect",
+        "pronoun",
+        "sentence"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Relative pronouns connect ideas.\" — từ đúng là \"connect\" (kết nối)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: This is a _____ sentence.",
+      "options": [
+        "noun",
+        "that",
+        "place",
+        "complex"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"This is a complex sentence.\" — từ đúng là \"complex\" (phức tạp)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: The clause gives extra _____.",
+      "options": [
+        "which",
+        "information",
+        "place",
+        "noun"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"The clause gives extra information.\" — từ đúng là \"information\" (thông tin)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: This information is _____.",
+      "options": [
+        "essential",
+        "pronoun",
+        "specify",
+        "person"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"This information is essential.\" — từ đúng là \"essential\" (thiết yếu)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: She gave _____ details.",
+      "options": [
+        "noun",
+        "essential",
+        "omit",
+        "additional"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"She gave additional details.\" — từ đúng là \"additional\" (thêm vào)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: The clause helps _____ the noun.",
+      "options": [
+        "refer",
+        "essential",
+        "combine",
+        "identify"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"The clause helps identify the noun.\" — từ đúng là \"identify\" (nhận diện)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: A relative clause follows a _____.",
+      "options": [
+        "which",
+        "combine",
+        "noun",
+        "additional"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"A relative clause follows a noun.\" — từ đúng là \"noun\" (danh từ)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: Who is a relative _____.",
+      "options": [
+        "essential",
+        "pronoun",
+        "define",
+        "information"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Who is a relative pronoun.\" — từ đúng là \"pronoun\" (đại từ)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: We _____ two sentences into one.",
+      "options": [
+        "information",
+        "which",
+        "combine",
+        "essential"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"We combine two sentences into one.\" — từ đúng là \"combine\" (kết hợp)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: Which _____s to things.",
+      "options": [
+        "information",
+        "refer",
+        "connect",
+        "define"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Which refers to things.\" — từ đúng là \"refer\" (ám chỉ)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: Who refers to a _____.",
+      "options": [
+        "noun",
+        "combine",
+        "person",
+        "modify"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"Who refers to a person.\" — từ đúng là \"person\" (người)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: The man ___ called is my uncle.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Who' refers to people."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: The book ___ I read was good.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Which' refers to things."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: This is the house ___ I was born.",
+      "options": [
+        "whose",
+        "who",
+        "where",
+        "which"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Where' refers to places."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: The boy ___ dog is lost is crying.",
+      "options": [
+        "who",
+        "whose",
+        "where",
+        "which"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Whose' shows possession."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: The car ___ he bought is red.",
+      "options": [
+        "that",
+        "where",
+        "who",
+        "whose"
+      ],
+      "answerIndex": 0,
+      "explanation": "'That' can refer to things."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: The woman ___ I met is a doctor.",
+      "options": [
+        "where",
+        "which",
+        "whom",
+        "whose"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Whom' is the object pronoun for people."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: The city ___ we visited was lovely.",
+      "options": [
+        "which",
+        "who",
+        "whose",
+        "whom"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Which' refers to a thing/place as object."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: People ___ exercise are healthier.",
+      "options": [
+        "who",
+        "where",
+        "whose",
+        "which"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Who' refers to people."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: The shop ___ sells books is closed.",
+      "options": [
+        "whom",
+        "where",
+        "who",
+        "which"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Which' refers to a thing as subject."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: The day ___ we met was sunny.",
+      "options": [
+        "when",
+        "which",
+        "whose",
+        "who"
+      ],
+      "answerIndex": 0,
+      "explanation": "'When' refers to time."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"cái mà\"?",
+      "options": [
+        "omit",
+        "sentence",
+        "which",
+        "define"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"cái mà\" trong tiếng Anh là \"which\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"mà\"?",
+      "options": [
+        "whose",
+        "information",
+        "that",
+        "specify"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"mà\" trong tiếng Anh là \"that\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"nơi mà\"?",
+      "options": [
+        "where",
+        "essential",
+        "comma",
+        "thing"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"nơi mà\" trong tiếng Anh là \"where\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"của ai\"?",
+      "options": [
+        "whose",
+        "place",
+        "information",
+        "specify"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"của ai\" trong tiếng Anh là \"whose\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"xác định\"?",
+      "options": [
+        "comma",
+        "person",
+        "place",
+        "define"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"xác định\" trong tiếng Anh là \"define\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"miêu tả\"?",
+      "options": [
+        "refer",
+        "whose",
+        "describe",
+        "identify"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"miêu tả\" trong tiếng Anh là \"describe\"."
+    }
+  ]
+}

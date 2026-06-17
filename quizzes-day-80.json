@@ -1,0 +1,485 @@
+{
+  "dayId": "day-80",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"travel\"?",
+      "options": [
+        "vấn đề",
+        "bài báo",
+        "du lịch",
+        "xã hội"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"travel\" có nghĩa là \"du lịch\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"health\"?",
+      "options": [
+        "dự đoán",
+        "ý chính",
+        "sức khỏe",
+        "tác giả"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"health\" có nghĩa là \"sức khỏe\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"society\"?",
+      "options": [
+        "ý chính",
+        "sự thật",
+        "xã hội",
+        "dự đoán"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"society\" có nghĩa là \"xã hội\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"environment\"?",
+      "options": [
+        "môi trường",
+        "lợi ích",
+        "ý kiến",
+        "sự thật"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"environment\" có nghĩa là \"môi trường\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"culture\"?",
+      "options": [
+        "văn hóa",
+        "thái độ",
+        "lợi ích",
+        "ngữ cảnh"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"culture\" có nghĩa là \"văn hóa\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"article\"?",
+      "options": [
+        "thái độ",
+        "vấn đề",
+        "suy luận",
+        "bài báo"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"article\" có nghĩa là \"bài báo\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"author\"?",
+      "options": [
+        "tác giả",
+        "mục đích",
+        "ngữ cảnh",
+        "bằng chứng"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"author\" có nghĩa là \"tác giả\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"opinion\"?",
+      "options": [
+        "mục đích",
+        "suy luận",
+        "ý kiến",
+        "thái độ"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"opinion\" có nghĩa là \"ý kiến\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"fact\"?",
+      "options": [
+        "ý kiến",
+        "sự thật",
+        "đoạn văn",
+        "ngữ cảnh"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"fact\" có nghĩa là \"sự thật\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"evidence\"?",
+      "options": [
+        "bằng chứng",
+        "vấn đề",
+        "chi tiết",
+        "dự đoán"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"evidence\" có nghĩa là \"bằng chứng\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"conclusion\"?",
+      "options": [
+        "suy luận",
+        "liên quan",
+        "kết luận",
+        "mục đích"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"conclusion\" có nghĩa là \"kết luận\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"introduction\"?",
+      "options": [
+        "phần mở đầu",
+        "chi tiết",
+        "vấn đề",
+        "mục đích"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"introduction\" có nghĩa là \"phần mở đầu\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: I read an _____ today.",
+      "options": [
+        "attitude",
+        "introduction",
+        "article",
+        "benefit"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"I read an article today.\" — từ đúng là \"article\" (bài báo)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: The _____ writes clearly.",
+      "options": [
+        "author",
+        "evidence",
+        "health",
+        "issue"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The author writes clearly.\" — từ đúng là \"author\" (tác giả)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: Give your _____ politely.",
+      "options": [
+        "relevant",
+        "opinion",
+        "issue",
+        "environment"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Give your opinion politely.\" — từ đúng là \"opinion\" (ý kiến)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: Separate _____ from opinion.",
+      "options": [
+        "opinion",
+        "fact",
+        "relevant",
+        "culture"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Separate fact from opinion.\" — từ đúng là \"fact\" (sự thật)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: Find _____ in the text.",
+      "options": [
+        "introduction",
+        "evidence",
+        "author",
+        "relevant"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Find evidence in the text.\" — từ đúng là \"evidence\" (bằng chứng)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: The _____ is clear.",
+      "options": [
+        "conclusion",
+        "context",
+        "attitude",
+        "issue"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The conclusion is clear.\" — từ đúng là \"conclusion\" (kết luận)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: The _____ sets the scene.",
+      "options": [
+        "introduction",
+        "context",
+        "travel",
+        "author"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The introduction sets the scene.\" — từ đúng là \"introduction\" (phần mở đầu)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: _____ what comes next.",
+      "options": [
+        "travel",
+        "article",
+        "evidence",
+        "predict"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Predict what comes next.\" — từ đúng là \"predict\" (dự đoán)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: Keep your answer _____.",
+      "options": [
+        "passage",
+        "evidence",
+        "relevant",
+        "opinion"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"Keep your answer relevant.\" — từ đúng là \"relevant\" (liên quan)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: What is the author's _____?",
+      "options": [
+        "relevant",
+        "culture",
+        "purpose",
+        "society"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"What is the author's purpose?\" — từ đúng là \"purpose\" (mục đích)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: The writer's _____ is positive.",
+      "options": [
+        "benefit",
+        "introduction",
+        "attitude",
+        "environment"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"The writer's attitude is positive.\" — từ đúng là \"attitude\" (thái độ)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: Reading has many _____s.",
+      "options": [
+        "introduction",
+        "relevant",
+        "purpose",
+        "benefit"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Reading has many benefits.\" — từ đúng là \"benefit\" (lợi ích)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: The main ___ of a text is its central message.",
+      "options": [
+        "author",
+        "detail",
+        "comma",
+        "idea"
+      ],
+      "answerIndex": 3,
+      "explanation": "The main idea is the central message."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: To read quickly for the gist, you ___.",
+      "options": [
+        "skim",
+        "scan",
+        "spell",
+        "translate"
+      ],
+      "answerIndex": 0,
+      "explanation": "Skimming means reading quickly for general meaning."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: To find a specific number, you ___ the text.",
+      "options": [
+        "draw",
+        "skim",
+        "write",
+        "scan"
+      ],
+      "answerIndex": 3,
+      "explanation": "Scanning means looking for specific information."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: A word with a similar meaning is a ___.",
+      "options": [
+        "noun",
+        "antonym",
+        "verb",
+        "synonym"
+      ],
+      "answerIndex": 3,
+      "explanation": "A synonym has a similar meaning."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: A word with the opposite meaning is an ___.",
+      "options": [
+        "antonym",
+        "synonym",
+        "article",
+        "adverb"
+      ],
+      "answerIndex": 0,
+      "explanation": "An antonym has the opposite meaning."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: Use the ___ to guess an unknown word.",
+      "options": [
+        "context",
+        "page",
+        "comma",
+        "title"
+      ],
+      "answerIndex": 0,
+      "explanation": "Context helps guess meaning."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: A short retelling of a text is a ___.",
+      "options": [
+        "title",
+        "summary",
+        "synonym",
+        "question"
+      ],
+      "answerIndex": 1,
+      "explanation": "A summary briefly restates the text."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: The writer of a text is the ___.",
+      "options": [
+        "reader",
+        "printer",
+        "editor",
+        "author"
+      ],
+      "answerIndex": 3,
+      "explanation": "The author writes the text."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: Something true that can be proven is a ___.",
+      "options": [
+        "opinion",
+        "fact",
+        "guess",
+        "story"
+      ],
+      "answerIndex": 1,
+      "explanation": "A fact can be proven true."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: A personal belief is an ___.",
+      "options": [
+        "evidence",
+        "opinion",
+        "fact",
+        "rule"
+      ],
+      "answerIndex": 1,
+      "explanation": "An opinion is a personal view."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"du lịch\"?",
+      "options": [
+        "issue",
+        "society",
+        "environment",
+        "travel"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"du lịch\" trong tiếng Anh là \"travel\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"sức khỏe\"?",
+      "options": [
+        "conclusion",
+        "evidence",
+        "purpose",
+        "health"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"sức khỏe\" trong tiếng Anh là \"health\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"xã hội\"?",
+      "options": [
+        "travel",
+        "passage",
+        "society",
+        "context"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"xã hội\" trong tiếng Anh là \"society\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"môi trường\"?",
+      "options": [
+        "environment",
+        "main idea",
+        "relevant",
+        "society"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"môi trường\" trong tiếng Anh là \"environment\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"văn hóa\"?",
+      "options": [
+        "culture",
+        "predict",
+        "issue",
+        "passage"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"văn hóa\" trong tiếng Anh là \"culture\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"bài báo\"?",
+      "options": [
+        "issue",
+        "article",
+        "relevant",
+        "evidence"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"bài báo\" trong tiếng Anh là \"article\"."
+    }
+  ]
+}
