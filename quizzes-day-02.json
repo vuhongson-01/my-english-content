@@ -3,22 +3,313 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Choose the correct sentence:",
-      "options": [
-        "I am go always early.",
-        "I always am early.",
-        "I am always early.",
-        "Always I am early."
-      ],
-      "answerIndex": 2,
-      "explanation": "Trạng từ tần suất đứng sau động từ to be (am)."
+      "question": "_____ she study every day?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "answerIndex": 1,
+      "explanation": "Chủ ngữ 'she' là ngôi thứ ba số ít nên dùng 'Does' trong câu hỏi Yes/No."
     },
     {
       "id": "q2",
-      "question": "\"She ___ eats meat; she's a vegetarian.\"",
-      "options": ["always", "never", "usually", "often"],
+      "question": "_____ you live in Hanoi?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "answerIndex": 0,
+      "explanation": "Chủ ngữ 'you' dùng 'Do' trong câu hỏi Yes/No."
+    },
+    {
+      "id": "q3",
+      "question": "Does he work in an office? → Trả lời ngắn ĐÚNG:",
+      "options": ["Yes, he do.", "Yes, he is.", "Yes, he does.", "Yes, does he."],
+      "answerIndex": 2,
+      "explanation": "Trả lời ngắn với Does: Yes, he does. / No, he doesn't."
+    },
+    {
+      "id": "q4",
+      "question": "Do they have breakfast every day? → Trả lời phủ định ngắn ĐÚNG:",
+      "options": ["No, they don't.", "No, they doesn't.", "No, they aren't.", "No, they do."],
+      "answerIndex": 0,
+      "explanation": "Trả lời ngắn phủ định với Do: No, they don't."
+    },
+    {
+      "id": "q5",
+      "question": "_____ time do you wake up?",
+      "options": ["How", "What", "Where", "When"],
       "answerIndex": 1,
-      "explanation": "Người ăn chay không bao giờ ăn thịt -> never."
+      "explanation": "'What time' dùng để hỏi về thời gian cụ thể."
+    },
+    {
+      "id": "q6",
+      "question": "_____ does she work? → She works at a hospital.",
+      "options": ["What", "When", "Where", "Why"],
+      "answerIndex": 2,
+      "explanation": "'Where' dùng để hỏi về nơi chốn."
+    },
+    {
+      "id": "q7",
+      "question": "_____ often does she exercise?",
+      "options": ["What", "How", "When", "Why"],
+      "answerIndex": 1,
+      "explanation": "'How often' dùng để hỏi về tần suất."
+    },
+    {
+      "id": "q8",
+      "question": "_____ do you do in your free time?",
+      "options": ["Where", "When", "What", "Who"],
+      "answerIndex": 2,
+      "explanation": "'What' dùng để hỏi về hoạt động, sự việc."
+    },
+    {
+      "id": "q9",
+      "question": "_____ does he commute to work? → He takes the bus.",
+      "options": ["Why", "How", "Where", "When"],
+      "answerIndex": 1,
+      "explanation": "'How' dùng để hỏi về cách thức."
+    },
+    {
+      "id": "q10",
+      "question": "Câu hỏi ĐÚNG cấu trúc thì hiện tại đơn:",
+      "options": [
+        "Does she goes to the gym?",
+        "Do he work on weekdays?",
+        "Does your mother cook every day?",
+        "Do she relax after work?"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Does + your mother (She) + V nguyên thể' là cấu trúc đúng."
+    },
+    {
+      "id": "q11",
+      "question": "She exercises _____ a week. (2 lần)",
+      "options": ["once", "twice", "three", "often"],
+      "answerIndex": 1,
+      "explanation": "'Twice' có nghĩa là hai lần."
+    },
+    {
+      "id": "q12",
+      "question": "He visits his grandparents _____ a month. (1 lần)",
+      "options": ["twice", "rarely", "once", "often"],
+      "answerIndex": 2,
+      "explanation": "'Once' có nghĩa là một lần."
+    },
+    {
+      "id": "q13",
+      "question": "_____ do you work? → I work in Hanoi.",
+      "options": ["What", "How", "When", "Where"],
+      "answerIndex": 3,
+      "explanation": "'Where' hỏi về nơi chốn."
+    },
+    {
+      "id": "q14",
+      "question": "_____ does she relax after work?",
+      "options": ["What", "How", "Where", "Who"],
+      "answerIndex": 1,
+      "explanation": "'How' dùng để hỏi về cách thức thư giãn."
+    },
+    {
+      "id": "q15",
+      "question": "Do you have any plans for the weekend? → Trả lời đúng:",
+      "options": ["Yes, I have.", "Yes, I do.", "Yes, I am.", "Yes, I does."],
+      "answerIndex": 1,
+      "explanation": "Câu hỏi dùng 'Do', trả lời ngắn: Yes, I do."
+    },
+    {
+      "id": "q16",
+      "question": "Từ 'rarely' nghĩa là gì?",
+      "options": ["thường xuyên", "luôn luôn", "hiếm khi", "thỉnh thoảng"],
+      "answerIndex": 2,
+      "explanation": "'Rarely' có nghĩa là hiếm khi, chỉ tần suất rất thấp."
+    },
+    {
+      "id": "q17",
+      "question": "Từ 'commute' nghĩa là gì?",
+      "options": ["nấu ăn", "ngủ", "đi làm hằng ngày", "đi du lịch"],
+      "answerIndex": 2,
+      "explanation": "'Commute' có nghĩa là di chuyển hằng ngày đến nơi làm việc."
+    },
+    {
+      "id": "q18",
+      "question": "Chọn câu hỏi WHY đúng:",
+      "options": [
+        "Why does they arrive late?",
+        "Why do they always arrive late?",
+        "Why they always arrive late?",
+        "Why does they always arrives late?"
+      ],
+      "answerIndex": 1,
+      "explanation": "Why + do (they) + V nguyên thể: Why do they always arrive late?"
+    },
+    {
+      "id": "q19",
+      "question": "How often _____ she go to the supermarket?",
+      "options": ["do", "does", "is", "are"],
+      "answerIndex": 1,
+      "explanation": "She là ngôi thứ ba số ít nên dùng 'does'."
+    },
+    {
+      "id": "q20",
+      "question": "What _____ you do in your free time?",
+      "options": ["do", "does", "are", "is"],
+      "answerIndex": 0,
+      "explanation": "Chủ ngữ 'you' dùng 'do'."
+    },
+    {
+      "id": "q21",
+      "question": "Từ 'hobby' nghĩa là gì?",
+      "options": ["công việc", "sở thích", "thói quen", "kế hoạch"],
+      "answerIndex": 1,
+      "explanation": "'Hobby' có nghĩa là sở thích, hoạt động giải trí."
+    },
+    {
+      "id": "q22",
+      "question": "Does your family have dinner together? → Trả lời phủ định:",
+      "options": ["No, we don't.", "No, we doesn't.", "No, they doesn't.", "No, it don't."],
+      "answerIndex": 0,
+      "explanation": "Câu hỏi về 'your family' nên trả lời bằng 'we'. Dùng 'don't' với 'we'."
+    },
+    {
+      "id": "q23",
+      "question": "_____ does your sister live?",
+      "options": ["How", "When", "Where", "Why"],
+      "answerIndex": 2,
+      "explanation": "'Where' hỏi về nơi sống."
+    },
+    {
+      "id": "q24",
+      "question": "Chọn câu đúng:",
+      "options": [
+        "What time does he starts work?",
+        "What time do he start work?",
+        "What time does he start work?",
+        "What time is he start work?"
+      ],
+      "answerIndex": 2,
+      "explanation": "Does + he + V nguyên thể (start, không có s): What time does he start work?"
+    },
+    {
+      "id": "q25",
+      "question": "Từ 'transport' nghĩa là gì?",
+      "options": ["bữa ăn", "lịch trình", "phương tiện giao thông", "công việc"],
+      "answerIndex": 2,
+      "explanation": "'Transport' có nghĩa là phương tiện giao thông."
+    },
+    {
+      "id": "q26",
+      "question": "_____ do you usually eat for lunch?",
+      "options": ["Where", "Who", "What", "When"],
+      "answerIndex": 2,
+      "explanation": "'What' hỏi về loại thức ăn."
+    },
+    {
+      "id": "q27",
+      "question": "Does he work on weekdays? → Yes, _____.",
+      "options": ["he do", "he is", "he does", "does he"],
+      "answerIndex": 2,
+      "explanation": "Trả lời ngắn với Does: Yes, + S + does."
+    },
+    {
+      "id": "q28",
+      "question": "Từ 'colleague' có nghĩa là gì?",
+      "options": ["hàng xóm", "bạn bè", "đồng nghiệp", "giáo viên"],
+      "answerIndex": 2,
+      "explanation": "'Colleague' có nghĩa là đồng nghiệp."
+    },
+    {
+      "id": "q29",
+      "question": "_____ does she go to bed? → She goes to bed at 10.",
+      "options": ["How", "What time", "Where", "Why"],
+      "answerIndex": 1,
+      "explanation": "'What time' hỏi về thời gian cụ thể."
+    },
+    {
+      "id": "q30",
+      "question": "Do you like your neighborhood? → Trả lời đúng:",
+      "options": ["Yes, I like.", "Yes, I am.", "Yes, I do.", "Yes, I likes."],
+      "answerIndex": 2,
+      "explanation": "Trả lời ngắn với Do: Yes, I do."
+    },
+    {
+      "id": "q31",
+      "question": "How _____ does he visit his grandparents?",
+      "options": ["much", "many", "often", "far"],
+      "answerIndex": 2,
+      "explanation": "'How often' hỏi về tần suất. How + often là cụm đúng."
+    },
+    {
+      "id": "q32",
+      "question": "Câu nào là câu hỏi WHY đúng?",
+      "options": [
+        "Why she doesn't eat breakfast?",
+        "Why doesn't she eat breakfast?",
+        "Why does she not eats breakfast?",
+        "Why does she not ate breakfast?"
+      ],
+      "answerIndex": 1,
+      "explanation": "Why + doesn't + S + V nguyên thể: Why doesn't she eat breakfast?"
+    },
+    {
+      "id": "q33",
+      "question": "Chọn câu hỏi đúng về thói quen cuối tuần:",
+      "options": [
+        "What she does on weekends?",
+        "What does she does on weekends?",
+        "What does she do on weekends?",
+        "What do she does on weekends?"
+      ],
+      "answerIndex": 2,
+      "explanation": "What + does + she + V nguyên thể (do): What does she do on weekends?"
+    },
+    {
+      "id": "q34",
+      "question": "Từ 'neighborhood' nghĩa là gì?",
+      "options": ["khu phố, xóm", "trường học", "văn phòng", "bệnh viện"],
+      "answerIndex": 0,
+      "explanation": "'Neighborhood' có nghĩa là khu phố, vùng lân cận nơi ở."
+    },
+    {
+      "id": "q35",
+      "question": "_____ do they go to the gym? → They go twice a week.",
+      "options": ["What", "When", "How often", "Where"],
+      "answerIndex": 2,
+      "explanation": "'How often' hỏi về tần suất, câu trả lời 'twice a week' xác nhận điều này."
+    },
+    {
+      "id": "q36",
+      "question": "Từ 'relax' nghĩa là gì?",
+      "options": ["làm việc", "thư giãn", "học bài", "nấu ăn"],
+      "answerIndex": 1,
+      "explanation": "'Relax' có nghĩa là thư giãn, nghỉ ngơi."
+    },
+    {
+      "id": "q37",
+      "question": "Does she eat lunch with her colleagues? → Câu trả lời phủ định:",
+      "options": ["No, she don't.", "No, she isn't.", "No, she doesn't.", "No, she not does."],
+      "answerIndex": 2,
+      "explanation": "Does → No, she doesn't. Trả lời ngắn phủ định với does."
+    },
+    {
+      "id": "q38",
+      "question": "Chọn câu đúng nghĩa 'Bạn có đi làm vào cuối tuần không?'",
+      "options": [
+        "Does you work on weekends?",
+        "Do you work on weekends?",
+        "Are you work on weekends?",
+        "Do you works on weekends?"
+      ],
+      "answerIndex": 1,
+      "explanation": "Do + you + V nguyên thể: Do you work on weekends?"
+    },
+    {
+      "id": "q39",
+      "question": "_____ does your mother start cooking? → She starts at 5 p.m.",
+      "options": ["How", "Why", "What time", "Where"],
+      "answerIndex": 2,
+      "explanation": "'What time' hỏi về thời gian cụ thể."
+    },
+    {
+      "id": "q40",
+      "question": "Từ 'plan' trong câu 'Do you have any plans for the weekend?' có nghĩa là gì?",
+      "options": ["kế hoạch", "vấn đề", "câu hỏi", "thói quen"],
+      "answerIndex": 0,
+      "explanation": "'Plan' có nghĩa là kế hoạch, dự định."
     }
   ]
 }

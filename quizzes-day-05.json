@@ -1,0 +1,300 @@
+{
+  "dayId": "day-05",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "I wake up _____ 6 a.m. every morning.",
+      "options": ["in", "on", "at", "by"],
+      "answerIndex": 2,
+      "explanation": "Dùng 'at' với giờ cụ thể: at 6 a.m."
+    },
+    {
+      "id": "q2",
+      "question": "She exercises _____ the morning.",
+      "options": ["at", "on", "in", "by"],
+      "answerIndex": 2,
+      "explanation": "Dùng 'in' với buổi trong ngày: in the morning."
+    },
+    {
+      "id": "q3",
+      "question": "He works overtime _____ Fridays.",
+      "options": ["in", "at", "on", "by"],
+      "answerIndex": 2,
+      "explanation": "Dùng 'on' với ngày/thứ: on Fridays."
+    },
+    {
+      "id": "q4",
+      "question": "They eat lunch _____ noon.",
+      "options": ["in", "on", "at", "during"],
+      "answerIndex": 2,
+      "explanation": "Dùng 'at' với noon (và night): at noon, at night."
+    },
+    {
+      "id": "q5",
+      "question": "Từ 'routine' nghĩa là gì?",
+      "options": ["lịch trình cụ thể", "thói quen, nếp sống", "thời gian rảnh", "thời hạn"],
+      "answerIndex": 1,
+      "explanation": "'Routine' có nghĩa là thói quen, nếp sống hằng ngày."
+    },
+    {
+      "id": "q6",
+      "question": "Từ 'rush hour' nghĩa là gì?",
+      "options": ["giờ nghỉ trưa", "giờ cao điểm", "giờ làm thêm", "giờ tan làm"],
+      "answerIndex": 1,
+      "explanation": "'Rush hour' là giờ cao điểm, khi giao thông đông đúc nhất."
+    },
+    {
+      "id": "q7",
+      "question": "She _____ to the bus stop every morning because she is late.",
+      "options": ["snoozes", "skips", "rushes", "unwinds"],
+      "answerIndex": 2,
+      "explanation": "'Rush' có nghĩa là vội vã. She rushes = cô ấy vội."
+    },
+    {
+      "id": "q8",
+      "question": "He _____ breakfast when he is late.",
+      "options": ["rushes", "skips", "tidies", "catches up"],
+      "answerIndex": 1,
+      "explanation": "'Skip' có nghĩa là bỏ qua. He skips breakfast = anh ấy bỏ bữa sáng."
+    },
+    {
+      "id": "q9",
+      "question": "Từ 'nap' nghĩa là gì?",
+      "options": ["ngủ đêm", "ngủ trưa", "thức đêm", "đi ngủ sớm"],
+      "answerIndex": 1,
+      "explanation": "'Nap' là giấc ngủ ngắn (thường là buổi trưa)."
+    },
+    {
+      "id": "q10",
+      "question": "She _____ her friends on weekends.",
+      "options": ["rushes to", "catches up with", "tidies up", "skips"],
+      "answerIndex": 1,
+      "explanation": "'Catch up with' có nghĩa là gặp gỡ/cập nhật tình hình với ai đó."
+    },
+    {
+      "id": "q11",
+      "question": "He _____ by watching TV after work.",
+      "options": ["snoozes", "rushes", "unwinds", "skips"],
+      "answerIndex": 2,
+      "explanation": "'Unwind' có nghĩa là thư giãn sau ngày dài."
+    },
+    {
+      "id": "q12",
+      "question": "Từ 'deadline' nghĩa là gì?",
+      "options": ["kế hoạch", "lịch trình", "thời hạn, hạn chót", "giờ cao điểm"],
+      "answerIndex": 2,
+      "explanation": "'Deadline' là thời hạn phải hoàn thành công việc."
+    },
+    {
+      "id": "q13",
+      "question": "After dinner, the family does household _____ together.",
+      "options": ["schedules", "chores", "groceries", "routines"],
+      "answerIndex": 1,
+      "explanation": "'Chores' là việc nhà (household chores = công việc gia đình)."
+    },
+    {
+      "id": "q14",
+      "question": "He buys _____ at the supermarket after work.",
+      "options": ["schedules", "chores", "groceries", "routines"],
+      "answerIndex": 2,
+      "explanation": "'Groceries' là đồ tạp hóa, thực phẩm mua ở siêu thị."
+    },
+    {
+      "id": "q15",
+      "question": "Giới từ nào ĐÚNG: 'I study English _____ the evening'?",
+      "options": ["at", "on", "in", "by"],
+      "answerIndex": 2,
+      "explanation": "Dùng 'in' với buổi trong ngày: in the evening."
+    },
+    {
+      "id": "q16",
+      "question": "Từ 'dawn' nghĩa là gì?",
+      "options": ["hoàng hôn", "nửa đêm", "bình minh, tảng sáng", "ban ngày"],
+      "answerIndex": 2,
+      "explanation": "'Dawn' là bình minh, khoảng thời gian trời mới sáng."
+    },
+    {
+      "id": "q17",
+      "question": "Từ 'dusk' nghĩa là gì?",
+      "options": ["bình minh", "lúc chạng vạng, hoàng hôn", "buổi trưa", "nửa đêm"],
+      "answerIndex": 1,
+      "explanation": "'Dusk' là lúc chạng vạng, khi trời bắt đầu tối."
+    },
+    {
+      "id": "q18",
+      "question": "She _____ her room every Sunday.",
+      "options": ["snoozes", "skips", "tidies up", "rushes"],
+      "answerIndex": 2,
+      "explanation": "'Tidy up' có nghĩa là dọn dẹp, sắp xếp gọn gàng."
+    },
+    {
+      "id": "q19",
+      "question": "He always _____ the alarm and gets up late.",
+      "options": ["skips", "snoozes", "rushes", "tidies"],
+      "answerIndex": 1,
+      "explanation": "'Snooze' là bấm nút trễ chuông báo thức."
+    },
+    {
+      "id": "q20",
+      "question": "She prepares a _____ lunch the night before.",
+      "options": ["rush", "packed", "spare", "skip"],
+      "answerIndex": 1,
+      "explanation": "'Packed lunch' là hộp cơm mang theo đi làm/học."
+    },
+    {
+      "id": "q21",
+      "question": "Điền đúng: 'In her _____ time, she paints and reads.'",
+      "options": ["free", "spare", "rush", "Cả A và B đúng"],
+      "answerIndex": 3,
+      "explanation": "Cả 'free time' và 'spare time' đều có nghĩa là thời gian rảnh."
+    },
+    {
+      "id": "q22",
+      "question": "She never stays up past _____.",
+      "options": ["dawn", "noon", "dusk", "midnight"],
+      "answerIndex": 3,
+      "explanation": "'Midnight' là nửa đêm (12 giờ đêm)."
+    },
+    {
+      "id": "q23",
+      "question": "Dùng giới từ nào: 'She studies on Mondays _____ Wednesdays'?",
+      "options": ["in", "at", "and", "on"],
+      "answerIndex": 2,
+      "explanation": "'On Mondays and Wednesdays' – dùng 'and' để nối hai ngày."
+    },
+    {
+      "id": "q24",
+      "question": "His daily _____ takes about 30 minutes.",
+      "options": ["routine", "schedule", "commute", "break"],
+      "answerIndex": 2,
+      "explanation": "'Commute' là hành trình đi làm hằng ngày."
+    },
+    {
+      "id": "q25",
+      "question": "Giới từ nào SAI: 'He goes to bed _____ night'?",
+      "options": ["at", "in", "during", "Cả B và C đều sai"],
+      "answerIndex": 3,
+      "explanation": "Đúng là 'at night'. 'In night' và 'during night' là sai."
+    },
+    {
+      "id": "q26",
+      "question": "She prefers to exercise _____ the daytime.",
+      "options": ["at", "on", "in", "by"],
+      "answerIndex": 2,
+      "explanation": "Dùng 'during' hoặc 'in' với daytime: during/in the daytime."
+    },
+    {
+      "id": "q27",
+      "question": "They take a short _____ at 10 a.m.",
+      "options": ["nap", "break", "routine", "deadline"],
+      "answerIndex": 1,
+      "explanation": "'Break' là giờ nghỉ (ngắn) trong giờ làm việc."
+    },
+    {
+      "id": "q28",
+      "question": "Từ 'schedule' nghĩa là gì?",
+      "options": ["thói quen", "lịch trình, thời khóa biểu", "thời gian rảnh", "việc nhà"],
+      "answerIndex": 1,
+      "explanation": "'Schedule' là lịch trình, kế hoạch thời gian."
+    },
+    {
+      "id": "q29",
+      "question": "Điền đúng: 'I set my _____ clock for 5:30.'",
+      "options": ["snooze", "alarm", "rush", "deadline"],
+      "answerIndex": 1,
+      "explanation": "'Alarm clock' là đồng hồ báo thức."
+    },
+    {
+      "id": "q30",
+      "question": "She always finishes her work before the _____.",
+      "options": ["routine", "schedule", "deadline", "commute"],
+      "answerIndex": 2,
+      "explanation": "'Deadline' là thời hạn phải hoàn thành."
+    },
+    {
+      "id": "q31",
+      "question": "Giới từ nào đúng: 'She was born _____ July'?",
+      "options": ["at", "on", "in", "by"],
+      "answerIndex": 2,
+      "explanation": "Dùng 'in' với tháng: in July."
+    },
+    {
+      "id": "q32",
+      "question": "He takes a short nap _____ lunch.",
+      "options": ["at", "after", "on", "in"],
+      "answerIndex": 1,
+      "explanation": "'After lunch' = sau bữa trưa."
+    },
+    {
+      "id": "q33",
+      "question": "Từ 'overtime' nghĩa là gì?",
+      "options": ["giờ nghỉ", "làm thêm giờ", "giờ cao điểm", "thời hạn"],
+      "answerIndex": 1,
+      "explanation": "'Overtime' là làm thêm ngoài giờ quy định."
+    },
+    {
+      "id": "q34",
+      "question": "Chọn câu dùng giới từ ĐÚNG:",
+      "options": [
+        "She studies in Monday.",
+        "She studies on Monday.",
+        "She studies at Monday.",
+        "She studies by Monday."
+      ],
+      "answerIndex": 1,
+      "explanation": "Dùng 'on' với thứ/ngày: on Monday."
+    },
+    {
+      "id": "q35",
+      "question": "Having a good _____ helps you stay organized.",
+      "options": ["deadline", "nap", "routine", "chore"],
+      "answerIndex": 2,
+      "explanation": "'Routine' là thói quen/nếp sống giúp bạn có tổ chức."
+    },
+    {
+      "id": "q36",
+      "question": "Farmers often start work _____ dawn.",
+      "options": ["in", "at", "on", "by"],
+      "answerIndex": 1,
+      "explanation": "Dùng 'at' với các mốc thời gian: at dawn, at noon, at midnight."
+    },
+    {
+      "id": "q37",
+      "question": "Từ 'skip' trong 'He skips breakfast' nghĩa là gì?",
+      "options": ["ăn vội", "bỏ qua", "trễ", "vội vã"],
+      "answerIndex": 1,
+      "explanation": "'Skip' có nghĩa là bỏ qua, không làm điều gì đó."
+    },
+    {
+      "id": "q38",
+      "question": "Chọn câu dùng giới từ ĐÚNG:",
+      "options": [
+        "I go to bed at night.",
+        "I go to bed in night.",
+        "I go to bed on night.",
+        "I go to bed by night."
+      ],
+      "answerIndex": 0,
+      "explanation": "Dùng 'at night' (không dùng in/on/by với night)."
+    },
+    {
+      "id": "q39",
+      "question": "Từ 'chores' nghĩa là gì?",
+      "options": ["thói quen", "việc nhà", "lịch trình", "giờ nghỉ"],
+      "answerIndex": 1,
+      "explanation": "'Chores' là việc nhà như nấu cơm, rửa bát, dọn dẹp..."
+    },
+    {
+      "id": "q40",
+      "question": "Chọn câu mô tả lịch trình đúng giới từ:",
+      "options": [
+        "In 7 a.m. I wake up and in the morning I exercise.",
+        "At 7 a.m. I wake up and in the morning I exercise.",
+        "On 7 a.m. I wake up and at the morning I exercise.",
+        "At 7 a.m. I wake up and at the morning I exercise."
+      ],
+      "answerIndex": 1,
+      "explanation": "at + giờ cụ thể; in + buổi: At 7 a.m. ... in the morning."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dayId": "day-05",
+  "items": [
+    { "word": "morning routine", "meaning": "thói quen buổi sáng", "example": "My morning routine starts at 6 a.m." },
+    { "word": "alarm clock", "meaning": "đồng hồ báo thức", "example": "I set my alarm clock for 5:30 every morning." },
+    { "word": "snooze", "meaning": "bấm trễ chuông báo thức", "example": "He always snoozes the alarm and gets up late." },
+    { "word": "rush", "meaning": "vội vã, gấp rút", "example": "She rushes to the bus stop every morning." },
+    { "word": "skip", "meaning": "bỏ qua", "example": "He sometimes skips breakfast when he is late." },
+    { "word": "packed lunch", "meaning": "hộp cơm mang theo", "example": "She prepares a packed lunch the night before." },
+    { "word": "commute", "meaning": "hành trình đi làm mỗi ngày", "example": "His daily commute takes about 30 minutes." },
+    { "word": "rush hour", "meaning": "giờ cao điểm", "example": "The roads are very busy during rush hour." },
+    { "word": "break", "meaning": "giờ nghỉ", "example": "They take a short break at 10 a.m." },
+    { "word": "overtime", "meaning": "làm thêm giờ", "example": "He works overtime on Fridays." },
+    { "word": "deadline", "meaning": "thời hạn, hạn chót", "example": "She always finishes her work before the deadline." },
+    { "word": "chores", "meaning": "việc nhà", "example": "After dinner, the family does household chores together." },
+    { "word": "tidy up", "meaning": "dọn dẹp", "example": "She tidies up her room every Sunday." },
+    { "word": "groceries", "meaning": "đồ tạp hóa, thực phẩm mua sắm", "example": "He buys groceries at the supermarket after work." },
+    { "word": "catch up", "meaning": "bắt kịp, cập nhật", "example": "She catches up with friends on weekends." },
+    { "word": "unwind", "meaning": "thư giãn (sau ngày dài)", "example": "He unwinds by watching TV after work." },
+    { "word": "schedule", "meaning": "lịch trình, thời khóa biểu", "example": "What does your daily schedule look like?" },
+    { "word": "routine", "meaning": "thói quen, nếp sống", "example": "Having a good routine helps you stay organized." },
+    { "word": "noon", "meaning": "buổi trưa (12 giờ)", "example": "They have lunch together at noon." },
+    { "word": "midnight", "meaning": "nửa đêm", "example": "She never stays up past midnight." },
+    { "word": "dawn", "meaning": "bình minh, tảng sáng", "example": "Farmers often start work at dawn." },
+    { "word": "dusk", "meaning": "lúc chạng vạng, hoàng hôn", "example": "The children come home at dusk." },
+    { "word": "daytime", "meaning": "ban ngày", "example": "She prefers to exercise during the daytime." },
+    { "word": "nap", "meaning": "ngủ trưa", "example": "He takes a short nap after lunch." },
+    { "word": "spare time", "meaning": "thời gian rảnh", "example": "In her spare time, she paints and reads." }
+  ]
+}

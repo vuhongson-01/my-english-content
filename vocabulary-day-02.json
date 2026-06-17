@@ -1,11 +1,30 @@
 {
   "dayId": "day-02",
   "items": [
-    { "word": "always", "meaning": "luôn luôn", "example": "He always smiles." },
-    { "word": "rarely", "meaning": "hiếm khi", "example": "I rarely eat fast food." },
-    { "word": "frequency", "meaning": "tần suất", "example": "How is the frequency of the bus?" },
-    { "word": "often", "meaning": "thường xuyên", "example": "We often meet on weekends." },
-    { "word": "sometimes", "meaning": "thỉnh thoảng", "example": "Sometimes I walk to work." },
-    { "word": "hardly ever", "meaning": "hầu như không bao giờ", "example": "She hardly ever drinks coffee." }
+    { "word": "work", "meaning": "làm việc", "example": "Where does he work? He works at a hospital." },
+    { "word": "live", "meaning": "sống, sinh sống", "example": "Where do you live? I live in Hanoi." },
+    { "word": "commute", "meaning": "đi làm hằng ngày", "example": "How does she commute? She takes the bus." },
+    { "word": "breakfast", "meaning": "bữa sáng", "example": "Do you have breakfast every day? Yes, I do." },
+    { "word": "lunch", "meaning": "bữa trưa", "example": "What do you usually eat for lunch?" },
+    { "word": "dinner", "meaning": "bữa tối", "example": "Does your family have dinner together?" },
+    { "word": "gym", "meaning": "phòng tập thể dục", "example": "How often does she go to the gym?" },
+    { "word": "hobby", "meaning": "sở thích", "example": "What hobbies do you have?" },
+    { "word": "free time", "meaning": "thời gian rảnh", "example": "What do you do in your free time?" },
+    { "word": "colleague", "meaning": "đồng nghiệp", "example": "Does she eat lunch with her colleagues?" },
+    { "word": "neighborhood", "meaning": "khu phố, xóm", "example": "Do you like your neighborhood?" },
+    { "word": "transport", "meaning": "phương tiện giao thông", "example": "What transport do you use every day?" },
+    { "word": "early", "meaning": "sớm", "example": "Does he wake up early on weekdays?" },
+    { "word": "late", "meaning": "muộn", "example": "Why do they always arrive late?" },
+    { "word": "weekday", "meaning": "ngày trong tuần", "example": "Do you work on weekdays?" },
+    { "word": "weekend", "meaning": "cuối tuần", "example": "What does she do on weekends?" },
+    { "word": "office", "meaning": "văn phòng", "example": "Does he work in an office?" },
+    { "word": "school", "meaning": "trường học", "example": "How far is your school from home?" },
+    { "word": "supermarket", "meaning": "siêu thị", "example": "How often do you go to the supermarket?" },
+    { "word": "plan", "meaning": "kế hoạch", "example": "Do you have any plans for the weekend?" },
+    { "word": "relax", "meaning": "thư giãn", "example": "How does she relax after work?" },
+    { "word": "twice", "meaning": "hai lần", "example": "She exercises twice a week." },
+    { "word": "once", "meaning": "một lần", "example": "He visits his grandparents once a month." },
+    { "word": "often", "meaning": "thường xuyên", "example": "How often do you cook at home?" },
+    { "word": "rarely", "meaning": "hiếm khi", "example": "She rarely eats fast food." }
   ]
 }

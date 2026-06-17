@@ -1,0 +1,365 @@
+{
+  "dayId": "day-07",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Chọn câu ĐÚNG dùng Present Simple:",
+      "options": [
+        "She is wake up at 6 every day.",
+        "She wakes up at 6 every day.",
+        "She waking up at 6 every day.",
+        "She wake up at 6 every day."
+      ],
+      "answerIndex": 1,
+      "explanation": "She (ngôi thứ ba số ít) + wakes. 'every day' = tín hiệu Present Simple."
+    },
+    {
+      "id": "q2",
+      "question": "Chọn câu ĐÚNG dùng Present Continuous:",
+      "options": [
+        "I study English right now.",
+        "I am study English right now.",
+        "I am studying English right now.",
+        "I studying English right now."
+      ],
+      "answerIndex": 2,
+      "explanation": "I + am + studying (V-ing). 'right now' = tín hiệu Present Continuous."
+    },
+    {
+      "id": "q3",
+      "question": "Từ tín hiệu nào thuộc về Present Simple?",
+      "options": ["at the moment", "right now", "currently", "every morning"],
+      "answerIndex": 3,
+      "explanation": "'every morning' là tín hiệu của Present Simple (thói quen)."
+    },
+    {
+      "id": "q4",
+      "question": "Từ tín hiệu nào thuộc về Present Continuous?",
+      "options": ["always", "never", "look!", "on weekdays"],
+      "answerIndex": 2,
+      "explanation": "'look!' là tín hiệu của Present Continuous, gợi chú ý đến hành động đang xảy ra."
+    },
+    {
+      "id": "q5",
+      "question": "Câu nào SAI ngữ pháp?",
+      "options": [
+        "I know the answer.",
+        "She understands the lesson.",
+        "He is wanting a coffee.",
+        "They believe in hard work."
+      ],
+      "answerIndex": 2,
+      "explanation": "'Want' là stative verb, không dùng -ing: He wants a coffee."
+    },
+    {
+      "id": "q6",
+      "question": "Câu nào SAI?",
+      "options": [
+        "She is loving music.",
+        "She loves music.",
+        "Do you like jazz?",
+        "He prefers tea to coffee."
+      ],
+      "answerIndex": 0,
+      "explanation": "'Love' là stative verb, không dùng -ing: She loves music."
+    },
+    {
+      "id": "q7",
+      "question": "Điền vào chỗ trống: 'He usually _____ to work, but today he _____ his bicycle.'",
+      "options": ["drives / rides", "is driving / is riding", "drives / is riding", "is driving / rides"],
+      "answerIndex": 2,
+      "explanation": "usually + thói quen = drives; today + khác thường = is riding."
+    },
+    {
+      "id": "q8",
+      "question": "Dạng V-ing ĐÚNG của 'run' là gì?",
+      "options": ["runing", "running", "runs", "runed"],
+      "answerIndex": 1,
+      "explanation": "run: nguyên âm + phụ âm 1 âm tiết → gấp đôi: running."
+    },
+    {
+      "id": "q9",
+      "question": "Dạng V-ing ĐÚNG của 'make' là gì?",
+      "options": ["makeing", "makking", "making", "maked"],
+      "answerIndex": 2,
+      "explanation": "make tận cùng e câm → bỏ e + ing: making."
+    },
+    {
+      "id": "q10",
+      "question": "Dạng V-ing ĐÚNG của 'study' là gì?",
+      "options": ["studyng", "studing", "studying", "studyed"],
+      "answerIndex": 2,
+      "explanation": "study → thêm -ing bình thường: studying (y giữ nguyên trước -ing)."
+    },
+    {
+      "id": "q11",
+      "question": "_____ does she go to the gym?",
+      "options": ["What", "How often", "Where", "Why"],
+      "answerIndex": 1,
+      "explanation": "Câu trả lời liên quan đến tần suất → dùng 'How often'."
+    },
+    {
+      "id": "q12",
+      "question": "Does he work on weekends? → Trả lời phủ định:",
+      "options": ["No, he don't.", "No, he doesn't.", "No, he isn't.", "No, he not."],
+      "answerIndex": 1,
+      "explanation": "Does → No, he doesn't."
+    },
+    {
+      "id": "q13",
+      "question": "Are they playing football? → Trả lời khẳng định:",
+      "options": ["Yes, they do.", "Yes, they are.", "Yes, they is.", "Yes, they playing."],
+      "answerIndex": 1,
+      "explanation": "Are → Yes, they are."
+    },
+    {
+      "id": "q14",
+      "question": "Giới từ nào đúng: 'I go to bed _____ 10 p.m.'?",
+      "options": ["in", "on", "at", "by"],
+      "answerIndex": 2,
+      "explanation": "Dùng 'at' với giờ cụ thể."
+    },
+    {
+      "id": "q15",
+      "question": "Giới từ nào đúng: 'She exercises _____ the morning'?",
+      "options": ["at", "on", "in", "by"],
+      "answerIndex": 2,
+      "explanation": "Dùng 'in' với buổi trong ngày: in the morning."
+    },
+    {
+      "id": "q16",
+      "question": "Giới từ nào đúng: 'He works overtime _____ Fridays'?",
+      "options": ["in", "at", "on", "by"],
+      "answerIndex": 2,
+      "explanation": "Dùng 'on' với ngày/thứ."
+    },
+    {
+      "id": "q17",
+      "question": "Chọn câu mô tả đúng thói quen hằng ngày:",
+      "options": [
+        "I am always drinking coffee in the morning.",
+        "I always drink coffee in the morning.",
+        "I always am drinking coffee in the morning.",
+        "I drinking coffee always in the morning."
+      ],
+      "answerIndex": 1,
+      "explanation": "always + thói quen = Present Simple. 'always' đứng trước V chính."
+    },
+    {
+      "id": "q18",
+      "question": "Câu nào dùng SAI thì?",
+      "options": [
+        "She cooks dinner every evening.",
+        "Look! She is cooking dinner!",
+        "She is always cook dinner.",
+        "She is cooking dinner right now."
+      ],
+      "answerIndex": 2,
+      "explanation": "Không dùng is + always + V nguyên thể. Đúng: She always cooks dinner."
+    },
+    {
+      "id": "q19",
+      "question": "Từ 'effort' nghĩa là gì?",
+      "options": ["kết quả", "nỗ lực", "mục tiêu", "tiến bộ"],
+      "answerIndex": 1,
+      "explanation": "'Effort' có nghĩa là nỗ lực, sự cố gắng."
+    },
+    {
+      "id": "q20",
+      "question": "Từ 'progress' nghĩa là gì?",
+      "options": ["bài kiểm tra", "lỗi sai", "tiến bộ", "thực hành"],
+      "answerIndex": 2,
+      "explanation": "'Progress' có nghĩa là tiến bộ, sự phát triển."
+    },
+    {
+      "id": "q21",
+      "question": "Câu nào dùng ĐÚNG cả hai thì?",
+      "options": [
+        "He is usually working at 8, but today he sleeps.",
+        "He usually starts at 8, but today he is sleeping.",
+        "He is usually starting at 8, but today he is sleeping.",
+        "He usually starts at 8, but today he sleeps."
+      ],
+      "answerIndex": 1,
+      "explanation": "usually + Simple: starts; today + Continuous: is sleeping."
+    },
+    {
+      "id": "q22",
+      "question": "Câu hỏi nào ĐÚNG cấu trúc?",
+      "options": [
+        "What time does she wakes up?",
+        "What time she wake up?",
+        "What time does she wake up?",
+        "What time do she wakes up?"
+      ],
+      "answerIndex": 2,
+      "explanation": "does + she + V nguyên thể: What time does she wake up?"
+    },
+    {
+      "id": "q23",
+      "question": "Câu hỏi nào ĐÚNG cấu trúc Present Continuous?",
+      "options": [
+        "Is they eating lunch?",
+        "Are they eating lunch?",
+        "Do they eating lunch?",
+        "Does they eating lunch?"
+      ],
+      "answerIndex": 1,
+      "explanation": "They → Are they + V-ing: Are they eating lunch?"
+    },
+    {
+      "id": "q24",
+      "question": "Điền: 'She _____ never _____ fast food.'",
+      "options": ["does / eats", "/ eats", "is / eating", "does / eat"],
+      "answerIndex": 1,
+      "explanation": "Trạng từ tần suất 'never' đứng trước V chính: She never eats fast food."
+    },
+    {
+      "id": "q25",
+      "question": "Câu nào mô tả đúng thói quen và đang xảy ra?",
+      "options": [
+        "She reads every night and is reading now.",
+        "She is reading every night and reads now.",
+        "She reads every night and reads now.",
+        "She is reading every night and is reading now."
+      ],
+      "answerIndex": 0,
+      "explanation": "reads = thói quen (Simple); is reading now = đang xảy ra (Continuous)."
+    },
+    {
+      "id": "q26",
+      "question": "Từ 'consistent' nghĩa là gì?",
+      "options": ["sáng tạo", "nhất quán, đều đặn", "khó khăn", "đặc biệt"],
+      "answerIndex": 1,
+      "explanation": "'Consistent' có nghĩa là nhất quán, thực hiện đều đặn."
+    },
+    {
+      "id": "q27",
+      "question": "Câu nào dùng đúng giới từ?",
+      "options": [
+        "I wake up in 6 a.m. every day.",
+        "I wake up at 6 a.m. every day.",
+        "I wake up on 6 a.m. every day.",
+        "I wake up by 6 a.m. every day."
+      ],
+      "answerIndex": 1,
+      "explanation": "Dùng 'at' với giờ cụ thể: at 6 a.m."
+    },
+    {
+      "id": "q28",
+      "question": "Câu nào dùng đúng giới từ?",
+      "options": [
+        "She studies at Monday.",
+        "She studies in Monday.",
+        "She studies on Monday.",
+        "She studies by Monday."
+      ],
+      "answerIndex": 2,
+      "explanation": "Dùng 'on' với ngày trong tuần."
+    },
+    {
+      "id": "q29",
+      "question": "Từ 'fluent' nghĩa là gì?",
+      "options": ["căng thẳng", "chính xác", "trôi chảy", "khó khăn"],
+      "answerIndex": 2,
+      "explanation": "'Fluent' có nghĩa là nói trôi chảy, thành thạo."
+    },
+    {
+      "id": "q30",
+      "question": "Từ 'goal' nghĩa là gì?",
+      "options": ["kết quả", "mục tiêu", "thói quen", "lịch trình"],
+      "answerIndex": 1,
+      "explanation": "'Goal' có nghĩa là mục tiêu, đích đến."
+    },
+    {
+      "id": "q31",
+      "question": "Điền đúng: 'She _____ (sit) by the window right now.'",
+      "options": ["sit", "sits", "is sitting", "are sitting"],
+      "answerIndex": 2,
+      "explanation": "right now + She → She is sitting (sit → sitting, gấp đôi t)."
+    },
+    {
+      "id": "q32",
+      "question": "Điền đúng: 'He _____ (brush) his teeth twice a day.'",
+      "options": ["brush", "brushes", "is brushing", "are brushing"],
+      "answerIndex": 1,
+      "explanation": "'twice a day' = thói quen, Present Simple. He + brushes (-sh + es)."
+    },
+    {
+      "id": "q33",
+      "question": "Câu nào là câu phủ định ĐÚNG của 'They watch TV every night'?",
+      "options": [
+        "They aren't watch TV every night.",
+        "They don't watches TV every night.",
+        "They don't watch TV every night.",
+        "They doesn't watch TV every night."
+      ],
+      "answerIndex": 2,
+      "explanation": "They + don't + V nguyên thể: They don't watch."
+    },
+    {
+      "id": "q34",
+      "question": "Câu nào là câu phủ định ĐÚNG của 'She is cooking dinner'?",
+      "options": [
+        "She doesn't cooking dinner.",
+        "She isn't cooking dinner.",
+        "She not cooking dinner.",
+        "She is not cook dinner."
+      ],
+      "answerIndex": 1,
+      "explanation": "Phủ định Present Continuous: She + isn't + V-ing."
+    },
+    {
+      "id": "q35",
+      "question": "Từ 'describe' nghĩa là gì?",
+      "options": ["hỏi", "mô tả", "giải thích", "viết"],
+      "answerIndex": 1,
+      "explanation": "'Describe' có nghĩa là mô tả, miêu tả."
+    },
+    {
+      "id": "q36",
+      "question": "Từ 'apply' nghĩa là gì?",
+      "options": ["học thuộc", "áp dụng", "giải thích", "ôn tập"],
+      "answerIndex": 1,
+      "explanation": "'Apply' có nghĩa là áp dụng vào thực tế."
+    },
+    {
+      "id": "q37",
+      "question": "Câu nào dùng ĐÚNG cấu trúc câu hỏi?",
+      "options": [
+        "Where does she lives?",
+        "Where she does live?",
+        "Where does she live?",
+        "Where is she live?"
+      ],
+      "answerIndex": 2,
+      "explanation": "Where + does + she + V nguyên thể (live): Where does she live?"
+    },
+    {
+      "id": "q38",
+      "question": "Từ 'context' nghĩa là gì?",
+      "options": ["ví dụ", "ngữ cảnh", "cấu trúc", "quy tắc"],
+      "answerIndex": 1,
+      "explanation": "'Context' có nghĩa là ngữ cảnh, hoàn cảnh sử dụng ngôn ngữ."
+    },
+    {
+      "id": "q39",
+      "question": "Từ 'improve' nghĩa là gì?",
+      "options": ["học thuộc", "thực hành", "cải thiện", "đánh giá"],
+      "answerIndex": 2,
+      "explanation": "'Improve' có nghĩa là cải thiện, trở nên tốt hơn."
+    },
+    {
+      "id": "q40",
+      "question": "Câu nào tổng hợp ĐÚNG kiến thức tuần 1?",
+      "options": [
+        "I am usually eating rice for breakfast, but today I eating bread.",
+        "I usually eat rice for breakfast, but today I am eating bread.",
+        "I usually eating rice for breakfast, but today I eat bread.",
+        "I am eating rice usually, but today I am eating bread."
+      ],
+      "answerIndex": 1,
+      "explanation": "usually + thói quen = eat (Simple); today + khác thường = am eating (Continuous)."
+    }
+  ]
+}

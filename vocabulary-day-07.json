@@ -1,0 +1,30 @@
+{
+  "dayId": "day-07",
+  "items": [
+    { "word": "review", "meaning": "ôn tập, xem lại", "example": "Today I review everything I learned this week." },
+    { "word": "summarize", "meaning": "tóm tắt", "example": "Can you summarize the grammar rules we studied?" },
+    { "word": "mistake", "meaning": "lỗi sai", "example": "Everyone makes mistakes when learning a language." },
+    { "word": "practice", "meaning": "thực hành, luyện tập", "example": "Practice makes perfect." },
+    { "word": "progress", "meaning": "tiến bộ", "example": "I can see my progress after one week of study." },
+    { "word": "confident", "meaning": "tự tin", "example": "She feels more confident speaking English now." },
+    { "word": "improve", "meaning": "cải thiện", "example": "His English is improving every day." },
+    { "word": "grammar", "meaning": "ngữ pháp", "example": "Understanding grammar helps you form correct sentences." },
+    { "word": "sentence", "meaning": "câu", "example": "Write five sentences about your daily routine." },
+    { "word": "structure", "meaning": "cấu trúc", "example": "The structure of Present Simple is S + V(s/es)." },
+    { "word": "tense", "meaning": "thì (ngữ pháp)", "example": "We studied two tenses this week." },
+    { "word": "signal word", "meaning": "từ tín hiệu", "example": "'Now' is a signal word for Present Continuous." },
+    { "word": "stative verb", "meaning": "động từ trạng thái", "example": "Know and want are stative verbs." },
+    { "word": "frequency adverb", "meaning": "trạng từ tần suất", "example": "Always and never are frequency adverbs." },
+    { "word": "describe", "meaning": "mô tả", "example": "Describe your morning routine in English." },
+    { "word": "daily life", "meaning": "cuộc sống hằng ngày", "example": "English is useful for daily life situations." },
+    { "word": "apply", "meaning": "áp dụng", "example": "Try to apply new grammar rules in conversation." },
+    { "word": "context", "meaning": "ngữ cảnh", "example": "Understanding context helps you choose the right tense." },
+    { "word": "combination", "meaning": "sự kết hợp", "example": "Use a combination of both tenses in your paragraph." },
+    { "word": "paragraph", "meaning": "đoạn văn", "example": "Write a paragraph about your typical day." },
+    { "word": "achieve", "meaning": "đạt được", "example": "She achieved her weekly learning goal." },
+    { "word": "goal", "meaning": "mục tiêu", "example": "My goal is to speak English fluently." },
+    { "word": "fluent", "meaning": "trôi chảy", "example": "With practice, you will become fluent in English." },
+    { "word": "consistent", "meaning": "nhất quán, đều đặn", "example": "Consistent daily practice leads to fast improvement." },
+    { "word": "effort", "meaning": "nỗ lực", "example": "Learning a language takes time and effort." }
+  ]
+}

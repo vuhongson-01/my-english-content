@@ -1,0 +1,300 @@
+{
+  "dayId": "day-06",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Linh là giáo viên dạy ở đâu?",
+      "options": ["Đại học Hà Nội", "Trường trung học ở Hà Nội", "Trường tiểu học ở Hà Nội", "Trung tâm tiếng Anh"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'I am a teacher at a secondary school in Hanoi.'"
+    },
+    {
+      "id": "q2",
+      "question": "Linh thức dậy lúc mấy giờ?",
+      "options": ["5:00 a.m.", "5:30 a.m.", "6:00 a.m.", "6:30 a.m."],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'I wake up at 5:30 a.m.'"
+    },
+    {
+      "id": "q3",
+      "question": "Linh đi làm bằng phương tiện gì?",
+      "options": ["Xe máy", "Taxi", "Xe buýt", "Đi bộ"],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'I take the bus to school.'"
+    },
+    {
+      "id": "q4",
+      "question": "Tại sao Linh không lái xe đến trường?",
+      "options": ["Vì không có xe", "Vì lái xe giờ cao điểm căng thẳng", "Vì trường gần nhà", "Vì xe hỏng"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'driving during rush hour is stressful.'"
+    },
+    {
+      "id": "q5",
+      "question": "Linh làm gì trong lúc đi xe buýt?",
+      "options": ["Ngủ", "Nghe nhạc", "Ôn lại kế hoạch bài dạy", "Đọc sách"],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'I use this time to review my lesson plans.'"
+    },
+    {
+      "id": "q6",
+      "question": "Mỗi ngày Linh dạy bao nhiêu tiết?",
+      "options": ["Hai tiết", "Ba tiết", "Bốn tiết", "Năm tiết"],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'I teach four classes every day.'"
+    },
+    {
+      "id": "q7",
+      "question": "Học sinh của Linh đang làm gì lúc cô viết bài?",
+      "options": ["Đang nghe nhạc", "Đang làm bài tập đọc hiểu", "Đang thi", "Đang nghỉ"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'my students are doing a reading exercise in class.'"
+    },
+    {
+      "id": "q8",
+      "question": "Từ 'curious' trong đoạn văn có nghĩa là gì?",
+      "options": ["chăm chỉ", "tò mò", "thân thiện", "thông minh"],
+      "answerIndex": 1,
+      "explanation": "'Curious' có nghĩa là tò mò, hay hỏi han."
+    },
+    {
+      "id": "q9",
+      "question": "Linh làm gì vào buổi tối? (Chọn tất cả đúng → Câu nào KHÔNG đúng)",
+      "options": ["Nấu ăn", "Giúp con làm bài tập", "Xem TV", "Đọc sách"],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'I rarely watch TV on weekdays.' Cô ấy hiếm khi xem TV."
+    },
+    {
+      "id": "q10",
+      "question": "Từ 'stressful' có nghĩa là gì?",
+      "options": ["thú vị", "căng thẳng", "buồn chán", "đơn giản"],
+      "answerIndex": 1,
+      "explanation": "'Stressful' có nghĩa là căng thẳng, gây áp lực."
+    },
+    {
+      "id": "q11",
+      "question": "Câu 'I am writing this' trong đoạn văn dùng thì gì?",
+      "options": ["Present Simple", "Present Continuous", "Past Simple", "Future Simple"],
+      "answerIndex": 1,
+      "explanation": "'I am writing' là Present Continuous, diễn tả hành động đang xảy ra lúc viết."
+    },
+    {
+      "id": "q12",
+      "question": "Câu 'I teach four classes every day' dùng thì gì?",
+      "options": ["Present Continuous", "Past Simple", "Present Simple", "Future Simple"],
+      "answerIndex": 2,
+      "explanation": "'every day' là tín hiệu Present Simple, chỉ thói quen."
+    },
+    {
+      "id": "q13",
+      "question": "Từ 'typical' có nghĩa là gì?",
+      "options": ["đặc biệt", "điển hình, thông thường", "khác thường", "lý tưởng"],
+      "answerIndex": 1,
+      "explanation": "'Typical' có nghĩa là điển hình, bình thường, hay xảy ra nhất."
+    },
+    {
+      "id": "q14",
+      "question": "Đoạn văn dùng thì gì chủ yếu để mô tả thói quen của Linh?",
+      "options": ["Present Continuous", "Past Simple", "Present Simple", "Future Simple"],
+      "answerIndex": 2,
+      "explanation": "Thói quen hằng ngày được mô tả bằng Present Simple."
+    },
+    {
+      "id": "q15",
+      "question": "Từ 'review' nghĩa là gì?",
+      "options": ["học mới", "ôn lại, xem lại", "giải thích", "ghi chép"],
+      "answerIndex": 1,
+      "explanation": "'Review' có nghĩa là ôn lại, xem xét lại."
+    },
+    {
+      "id": "q16",
+      "question": "Linh mua thực phẩm ở đâu?",
+      "options": ["Chợ", "Siêu thị", "Cửa hàng tiện lợi", "Không mua"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'I go to the supermarket and buy groceries for dinner.'"
+    },
+    {
+      "id": "q17",
+      "question": "Từ 'hardworking' nghĩa là gì?",
+      "options": ["lười biếng", "chăm chỉ", "thông minh", "vui vẻ"],
+      "answerIndex": 1,
+      "explanation": "'Hardworking' có nghĩa là chăm chỉ, siêng năng."
+    },
+    {
+      "id": "q18",
+      "question": "Câu nào sử dụng đúng thì khi mô tả thói quen trong đoạn văn?",
+      "options": [
+        "She is teaching at a school every day.",
+        "She teaches at a school every day.",
+        "She taught at a school every day.",
+        "She will teach at a school every day."
+      ],
+      "answerIndex": 1,
+      "explanation": "Thói quen hằng ngày → Present Simple: She teaches."
+    },
+    {
+      "id": "q19",
+      "question": "Từ 'lesson plan' nghĩa là gì?",
+      "options": ["kế hoạch bài dạy", "thời khóa biểu", "bài tập về nhà", "giáo trình"],
+      "answerIndex": 0,
+      "explanation": "'Lesson plan' là kế hoạch bài dạy mà giáo viên chuẩn bị trước."
+    },
+    {
+      "id": "q20",
+      "question": "Linh ăn sáng gì?",
+      "options": ["Bánh mì và phở", "Cơm hoặc bánh mì với trứng", "Chỉ uống cà phê", "Không ăn sáng"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'usually rice or bread with eggs.'"
+    },
+    {
+      "id": "q21",
+      "question": "Từ 'productive' nghĩa là gì?",
+      "options": ["vui vẻ", "khó khăn", "hiệu quả, năng suất", "thư giãn"],
+      "answerIndex": 2,
+      "explanation": "'Productive' có nghĩa là có hiệu quả, làm được nhiều việc."
+    },
+    {
+      "id": "q22",
+      "question": "Từ 'spend time' nghĩa là gì?",
+      "options": ["lãng phí thời gian", "tiết kiệm thời gian", "dành thời gian", "quản lý thời gian"],
+      "answerIndex": 2,
+      "explanation": "'Spend time' có nghĩa là dành thời gian để làm gì đó."
+    },
+    {
+      "id": "q23",
+      "question": "Hành trình xe buýt của Linh mất bao lâu?",
+      "options": ["20 phút", "30 phút", "40 phút", "50 phút"],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'The bus journey takes about 40 minutes.'"
+    },
+    {
+      "id": "q24",
+      "question": "Từ 'daily' nghĩa là gì?",
+      "options": ["hằng tuần", "hằng tháng", "hằng ngày", "hằng năm"],
+      "answerIndex": 2,
+      "explanation": "'Daily' có nghĩa là hằng ngày."
+    },
+    {
+      "id": "q25",
+      "question": "Câu nào đúng về Linh dựa theo đoạn văn?",
+      "options": [
+        "She drives to school every day.",
+        "She rarely takes the bus.",
+        "She watches TV every evening.",
+        "She helps her daughter with homework."
+      ],
+      "answerIndex": 3,
+      "explanation": "Đoạn văn: 'I help my daughter with her homework' → Đúng."
+    },
+    {
+      "id": "q26",
+      "question": "Từ 'concentrate' nghĩa là gì?",
+      "options": ["thư giãn", "tập trung", "lo lắng", "vui vẻ"],
+      "answerIndex": 1,
+      "explanation": "'Concentrate' có nghĩa là tập trung, chú ý."
+    },
+    {
+      "id": "q27",
+      "question": "Linh đi dạo ở đâu vào buổi sáng?",
+      "options": ["Trường học", "Công viên gần nhà", "Hồ Tây", "Phòng tập gym"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'I go for a short walk in the park near my house.'"
+    },
+    {
+      "id": "q28",
+      "question": "Từ 'organized' nghĩa là gì?",
+      "options": ["bận rộn", "lộn xộn", "có tổ chức", "sáng tạo"],
+      "answerIndex": 2,
+      "explanation": "'Organized' có nghĩa là có tổ chức, ngăn nắp."
+    },
+    {
+      "id": "q29",
+      "question": "Từ 'public transport' nghĩa là gì?",
+      "options": ["xe cá nhân", "phương tiện công cộng", "xe taxi", "xe đạp"],
+      "answerIndex": 1,
+      "explanation": "'Public transport' là phương tiện công cộng như xe buýt, tàu điện."
+    },
+    {
+      "id": "q30",
+      "question": "Câu nào KHÔNG đúng theo đoạn văn?",
+      "options": [
+        "Linh wakes up at 5:30 a.m.",
+        "Linh takes the bus to school.",
+        "Linh always watches TV in the evening.",
+        "Linh reads for an hour before bed."
+      ],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'I rarely watch TV on weekdays.' Cô ấy HIẾM KHI xem TV."
+    },
+    {
+      "id": "q31",
+      "question": "Từ 'manage' nghĩa là gì?",
+      "options": ["gặp gỡ", "quản lý, xoay sở", "lo lắng", "chuẩn bị"],
+      "answerIndex": 1,
+      "explanation": "'Manage' có nghĩa là quản lý hoặc xoay sở được."
+    },
+    {
+      "id": "q32",
+      "question": "Trong đoạn văn, thì hiện tại tiếp diễn được dùng để mô tả điều gì?",
+      "options": ["Thói quen hằng ngày", "Hành động đang xảy ra lúc viết", "Kế hoạch tương lai", "Sự thật hiển nhiên"],
+      "answerIndex": 1,
+      "explanation": "'I am writing this' và 'students are doing an exercise' mô tả hành động đang xảy ra."
+    },
+    {
+      "id": "q33",
+      "question": "Từ 'simple' trong 'a simple breakfast' nghĩa là gì?",
+      "options": ["phong phú", "đắt tiền", "đơn giản", "lạ"],
+      "answerIndex": 2,
+      "explanation": "'Simple' có nghĩa là đơn giản, không cầu kỳ."
+    },
+    {
+      "id": "q34",
+      "question": "Từ 'nearby' nghĩa là gì?",
+      "options": ["xa xôi", "gần đó", "bên trong", "phía trên"],
+      "answerIndex": 1,
+      "explanation": "'Nearby' có nghĩa là gần đó, ở gần."
+    },
+    {
+      "id": "q35",
+      "question": "Linh làm gì trước khi đi ngủ?",
+      "options": ["Xem TV", "Chạy bộ", "Đọc sách", "Gọi điện cho bạn bè"],
+      "answerIndex": 2,
+      "explanation": "Đoạn văn: 'read for about an hour before bed.'"
+    },
+    {
+      "id": "q36",
+      "question": "Cụm từ 'rush hour' xuất hiện trong đoạn văn có nghĩa là gì?",
+      "options": ["giờ nghỉ ngơi", "giờ cao điểm giao thông", "giờ làm thêm", "giờ ăn sáng"],
+      "answerIndex": 1,
+      "explanation": "'Rush hour' là giờ cao điểm giao thông, khi đường phố đông đúc nhất."
+    },
+    {
+      "id": "q37",
+      "question": "Câu 'Her students are doing a reading exercise' dùng thì gì?",
+      "options": ["Present Simple", "Past Simple", "Present Continuous", "Future"],
+      "answerIndex": 2,
+      "explanation": "are + doing = Present Continuous, mô tả hành động đang xảy ra."
+    },
+    {
+      "id": "q38",
+      "question": "Từ 'district' nghĩa là gì?",
+      "options": ["thành phố", "tỉnh", "quận, huyện", "xã"],
+      "answerIndex": 2,
+      "explanation": "'District' là đơn vị hành chính quận/huyện."
+    },
+    {
+      "id": "q39",
+      "question": "Linh mô tả học sinh của mình như thế nào?",
+      "options": ["Lười biếng và thụ động", "Tò mò và chăm chỉ", "Thông minh nhưng hay nghịch", "Yên lặng và nhút nhát"],
+      "answerIndex": 1,
+      "explanation": "Đoạn văn: 'My students are very curious and hardworking.'"
+    },
+    {
+      "id": "q40",
+      "question": "Từ 'rarely' trong 'I rarely watch TV on weekdays' nghĩa là gì?",
+      "options": ["thường xuyên", "luôn luôn", "hiếm khi", "không bao giờ"],
+      "answerIndex": 2,
+      "explanation": "'Rarely' có nghĩa là hiếm khi, tần suất rất thấp."
+    }
+  ]
+}

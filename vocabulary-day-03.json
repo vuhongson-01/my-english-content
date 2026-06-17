@@ -1,0 +1,30 @@
+{
+  "dayId": "day-03",
+  "items": [
+    { "word": "right now", "meaning": "ngay lúc này", "example": "I am studying English right now." },
+    { "word": "at the moment", "meaning": "lúc này, hiện tại", "example": "She is cooking dinner at the moment." },
+    { "word": "currently", "meaning": "hiện đang", "example": "He is currently working on a project." },
+    { "word": "listen", "meaning": "lắng nghe", "example": "Are you listening to the teacher?" },
+    { "word": "talk", "meaning": "nói chuyện", "example": "They are talking on the phone." },
+    { "word": "run", "meaning": "chạy", "example": "He is running in the park right now." },
+    { "word": "sit", "meaning": "ngồi", "example": "She is sitting by the window." },
+    { "word": "stand", "meaning": "đứng", "example": "Why is he standing in the rain?" },
+    { "word": "come", "meaning": "đến, đang đến", "example": "She is coming home from school." },
+    { "word": "make", "meaning": "làm, tạo ra", "example": "He is making a sandwich for lunch." },
+    { "word": "wait", "meaning": "đợi, chờ", "example": "They are waiting for the bus." },
+    { "word": "play", "meaning": "chơi", "example": "The children are playing in the garden." },
+    { "word": "write", "meaning": "viết", "example": "She is writing a letter to her friend." },
+    { "word": "type", "meaning": "gõ phím", "example": "He is typing a report on his computer." },
+    { "word": "use", "meaning": "dùng, sử dụng", "example": "She is using her phone to take photos." },
+    { "word": "drink", "meaning": "uống", "example": "He is drinking coffee at the cafe." },
+    { "word": "eat", "meaning": "ăn", "example": "They are eating lunch at the restaurant." },
+    { "word": "sleep", "meaning": "ngủ", "example": "The baby is sleeping in the room." },
+    { "word": "cry", "meaning": "khóc", "example": "Why is she crying?" },
+    { "word": "laugh", "meaning": "cười", "example": "Everyone is laughing at the joke." },
+    { "word": "swim", "meaning": "bơi", "example": "The kids are swimming in the pool." },
+    { "word": "drive", "meaning": "lái xe", "example": "My father is driving to the office." },
+    { "word": "read", "meaning": "đọc", "example": "She is reading a novel by the window." },
+    { "word": "help", "meaning": "giúp đỡ", "example": "He is helping his mother with housework." },
+    { "word": "carry", "meaning": "mang, xách", "example": "She is carrying a heavy bag." }
+  ]
+}

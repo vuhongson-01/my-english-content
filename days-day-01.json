@@ -1,10 +1,11 @@
 {
   "id": "day-01",
-  "title": "Present Simple — ôn tập",
+  "title": "Present Simple – Affirmative & Negative",
   "topic": "Grammar",
   "objectives": [
-    "Dùng đúng thì hiện tại đơn cho thói quen và sự thật hiển nhiên.",
-    "Thêm -s/-es ở ngôi thứ ba số ít."
+    "Nhận biết cấu trúc câu khẳng định và phủ định của thì hiện tại đơn",
+    "Chia động từ đúng với chủ ngữ ngôi thứ ba số ít (thêm -s/-es)",
+    "Viết ít nhất 5 câu mô tả thói quen cá nhân hằng ngày"
   ],
-  "lesson": "Thì hiện tại đơn (Present Simple) diễn tả thói quen, lịch trình và sự thật hiển nhiên.\n\nCông thức:\n- Khẳng định: S + V(s/es)\n- Phủ định: S + do/does + not + V\n- Nghi vấn: Do/Does + S + V?\n\nVí dụ: \"She works in a bank.\" / \"They don't live here.\" / \"Do you like coffee?\"\n\nLưu ý ngôi thứ ba số ít (he/she/it) thêm -s hoặc -es."
+  "lesson": "## Present Simple – Khẳng định & Phủ định\n\nThì hiện tại đơn dùng để diễn tả **thói quen**, **sự thật hiển nhiên**, hoặc **lịch trình cố định**.\n\n### Cấu trúc\n**Khẳng định:** S + V(s/es) + ...\n- I/You/We/They + V (nguyên thể): *I work every day.*\n- He/She/It + V+s/es: *She works every day.*\n\n**Phủ định:** S + do/does + not + V + ...\n- I/You/We/They + **don't** + V: *I don't eat meat.*\n- He/She/It + **doesn't** + V: *He doesn't drink coffee.*\n\n### Quy tắc thêm -s/-es\n- Động từ thường: thêm **-s** → works, eats, drinks\n- Tận cùng -ch, -sh, -x, -o, -ss: thêm **-es** → watches, washes, goes\n- Tận cùng phụ âm + y: đổi y→i rồi thêm **-es** → study → studies\n\n### Ví dụ\n- *She **studies** English every morning.*\n- *They **don't watch** TV on weekdays.*\n- *My father **goes** to work at 7 a.m.*"
 }

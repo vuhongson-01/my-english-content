@@ -3,34 +3,318 @@
   "questions": [
     {
       "id": "q1",
-      "question": "Choose the correct form: \"He ___ to work by bus.\"",
-      "options": ["go", "goes", "going", "gone"],
+      "question": "She _____ up at 6 o'clock every morning.",
+      "options": ["wake", "wakes", "waking", "waked"],
       "answerIndex": 1,
-      "explanation": "Ngôi thứ ba số ít (he) thêm -es: goes."
+      "explanation": "Chủ ngữ 'She' là ngôi thứ ba số ít, động từ phải thêm -s: wakes."
     },
     {
       "id": "q2",
-      "question": "Make it negative: \"They live here.\"",
-      "options": [
-        "They doesn't live here.",
-        "They not live here.",
-        "They don't live here.",
-        "They don't lives here."
-      ],
-      "answerIndex": 2,
-      "explanation": "Chủ ngữ số nhiều dùng don't + động từ nguyên thể."
+      "question": "My father _____ to work by motorbike.",
+      "options": ["go", "goes", "going", "goed"],
+      "answerIndex": 1,
+      "explanation": "He/She/It + go + es = goes. 'Go' là động từ tận cùng -o nên thêm -es."
     },
     {
       "id": "q3",
-      "question": "Which question is correct?",
+      "question": "They _____ fast food. (phủ định)",
+      "options": ["doesn't eat", "don't eat", "not eat", "don't eats"],
+      "answerIndex": 1,
+      "explanation": "Chủ ngữ 'They' dùng 'don't' + động từ nguyên thể: don't eat."
+    },
+    {
+      "id": "q4",
+      "question": "She _____ English for two hours each day.",
+      "options": ["study", "studys", "studies", "studied"],
+      "answerIndex": 2,
+      "explanation": "Study tận cùng phụ âm + y → đổi y→i + es = studies."
+    },
+    {
+      "id": "q5",
+      "question": "He _____ coffee. (phủ định)",
+      "options": ["don't drink", "doesn't drinks", "doesn't drink", "not drinks"],
+      "answerIndex": 2,
+      "explanation": "He dùng 'doesn't' + V nguyên thể: doesn't drink."
+    },
+    {
+      "id": "q6",
+      "question": "I _____ to bed at 10 p.m. every night.",
+      "options": ["goes", "go", "going", "gone"],
+      "answerIndex": 1,
+      "explanation": "Chủ ngữ 'I' dùng động từ nguyên thể: go."
+    },
+    {
+      "id": "q7",
+      "question": "My grandmother _____ dinner for the family.",
+      "options": ["cook", "cooks", "cooking", "cooked"],
+      "answerIndex": 1,
+      "explanation": "My grandmother = She, ngôi thứ ba số ít, thêm -s: cooks."
+    },
+    {
+      "id": "q8",
+      "question": "She _____ at school at 7:45.",
+      "options": ["arrive", "arriving", "arrives", "arrived"],
+      "answerIndex": 2,
+      "explanation": "She là ngôi thứ ba số ít, arrive + s = arrives."
+    },
+    {
+      "id": "q9",
+      "question": "We _____ lunch together at noon.",
+      "options": ["eats", "eating", "eat", "ate"],
+      "answerIndex": 2,
+      "explanation": "Chủ ngữ 'We' dùng động từ nguyên thể: eat."
+    },
+    {
+      "id": "q10",
+      "question": "He _____ a glass of water every morning.",
+      "options": ["drink", "drinks", "drank", "drinking"],
+      "answerIndex": 1,
+      "explanation": "He là ngôi thứ ba số ít, drink + s = drinks."
+    },
+    {
+      "id": "q11",
+      "question": "_____ 'always' được dùng để chỉ tần suất nào?",
+      "options": ["Đôi khi", "Không bao giờ", "Luôn luôn", "Thường thường"],
+      "answerIndex": 2,
+      "explanation": "'Always' nghĩa là luôn luôn, chỉ tần suất 100%."
+    },
+    {
+      "id": "q12",
+      "question": "She _____ breakfast at 7 a.m.",
+      "options": ["have", "has", "having", "had"],
+      "answerIndex": 1,
+      "explanation": "She dùng 'has' vì have là động từ bất quy tắc ở ngôi thứ ba số ít."
+    },
+    {
+      "id": "q13",
+      "question": "School _____ at 7:30 every day.",
+      "options": ["start", "starts", "starting", "started"],
+      "answerIndex": 1,
+      "explanation": "School = It, ngôi thứ ba số ít, start + s = starts."
+    },
+    {
+      "id": "q14",
+      "question": "I _____ at the gym three times a week.",
+      "options": ["exercises", "exercising", "exercise", "exercised"],
+      "answerIndex": 2,
+      "explanation": "Chủ ngữ 'I' dùng động từ nguyên thể: exercise."
+    },
+    {
+      "id": "q15",
+      "question": "My brother _____ home at 6:30.",
+      "options": ["leave", "leaves", "leaving", "leaved"],
+      "answerIndex": 1,
+      "explanation": "My brother = He, ngôi thứ ba số ít, leave + s = leaves."
+    },
+    {
+      "id": "q16",
+      "question": "Chọn câu ĐÚNG về thì hiện tại đơn:",
       "options": [
-        "Does you like tea?",
-        "Do you likes tea?",
-        "Do you like tea?",
-        "You like tea?"
+        "She don't watch TV on weekdays.",
+        "He watches the news every night.",
+        "They watches a movie on Sunday.",
+        "I studies at home every day."
+      ],
+      "answerIndex": 1,
+      "explanation": "He/She/It + watch → watches là đúng. Các đáp án còn lại sai cấu trúc."
+    },
+    {
+      "id": "q17",
+      "question": "He _____ the bus to the office.",
+      "options": ["take", "takes", "taking", "took"],
+      "answerIndex": 1,
+      "explanation": "He là ngôi thứ ba số ít, take + s = takes."
+    },
+    {
+      "id": "q18",
+      "question": "She _____ to school every day.",
+      "options": ["walk", "walks", "walking", "walked"],
+      "answerIndex": 1,
+      "explanation": "She là ngôi thứ ba số ít, walk + s = walks."
+    },
+    {
+      "id": "q19",
+      "question": "I _____ eight hours every night.",
+      "options": ["sleeps", "sleeping", "slept", "sleep"],
+      "answerIndex": 3,
+      "explanation": "Chủ ngữ 'I' dùng động từ nguyên thể: sleep."
+    },
+    {
+      "id": "q20",
+      "question": "'Never' trong câu 'They never eat fast food' có nghĩa là gì?",
+      "options": ["Luôn luôn", "Thường thường", "Không bao giờ", "Đôi khi"],
+      "answerIndex": 2,
+      "explanation": "'Never' có nghĩa là không bao giờ, chỉ tần suất 0%."
+    },
+    {
+      "id": "q21",
+      "question": "She _____ work at 5 p.m.",
+      "options": ["finish", "finishes", "finishing", "finished"],
+      "answerIndex": 1,
+      "explanation": "finish tận cùng -sh → thêm -es = finishes. She là ngôi thứ ba số ít."
+    },
+    {
+      "id": "q22",
+      "question": "Câu nào dùng đúng thì hiện tại đơn?",
+      "options": [
+        "I am walk to school every day.",
+        "She don't eats lunch at home.",
+        "He reads a book every night.",
+        "They goes to bed late."
       ],
       "answerIndex": 2,
-      "explanation": "Với \"you\" dùng Do + S + V nguyên thể."
+      "explanation": "'He reads' đúng vì He là ngôi thứ ba số ít, read + s = reads."
+    },
+    {
+      "id": "q23",
+      "question": "I usually _____ rice for lunch.",
+      "options": ["has", "have", "having", "had"],
+      "answerIndex": 1,
+      "explanation": "Chủ ngữ 'I' dùng 'have', không phải 'has'."
+    },
+    {
+      "id": "q24",
+      "question": "He always _____ on time.",
+      "options": ["arrive", "arrives", "arriving", "arrived"],
+      "answerIndex": 1,
+      "explanation": "He là ngôi thứ ba số ít, arrive + s = arrives."
+    },
+    {
+      "id": "q25",
+      "question": "Từ nào chỉ hành động 'ra khỏi giường vào buổi sáng'?",
+      "options": ["wake up", "get up", "go to bed", "shower"],
+      "answerIndex": 1,
+      "explanation": "'Get up' có nghĩa là ra khỏi giường. 'Wake up' là thức dậy (mở mắt)."
+    },
+    {
+      "id": "q26",
+      "question": "She sometimes _____ breakfast.",
+      "options": ["skip", "skips", "skipping", "skipped"],
+      "answerIndex": 1,
+      "explanation": "She là ngôi thứ ba số ít, skip + s = skips."
+    },
+    {
+      "id": "q27",
+      "question": "Chọn câu phủ định ĐÚNG:",
+      "options": [
+        "He don't drink coffee.",
+        "She doesn't study on Sundays.",
+        "They doesn't eat meat.",
+        "I doesn't wake up early."
+      ],
+      "answerIndex": 1,
+      "explanation": "She/He/It + doesn't + V nguyên thể. 'She doesn't study' là đúng."
+    },
+    {
+      "id": "q28",
+      "question": "My mother _____ breakfast at 7 a.m.",
+      "options": ["have", "has", "having", "had"],
+      "answerIndex": 1,
+      "explanation": "My mother = She, dùng 'has' (dạng ngôi thứ ba của have)."
+    },
+    {
+      "id": "q29",
+      "question": "Nghĩa của 'brush' trong ngữ cảnh buổi sáng là gì?",
+      "options": ["tắm", "đánh răng", "đi ngủ", "ăn sáng"],
+      "answerIndex": 1,
+      "explanation": "'Brush' trong ngữ cảnh buổi sáng thường có nghĩa là đánh răng (brush teeth)."
+    },
+    {
+      "id": "q30",
+      "question": "He _____ his teeth after every meal.",
+      "options": ["brush", "brushs", "brushes", "brushed"],
+      "answerIndex": 2,
+      "explanation": "brush tận cùng -sh → thêm -es = brushes. He là ngôi thứ ba số ít."
+    },
+    {
+      "id": "q31",
+      "question": "Điền đúng: 'I _____ before going to work.'",
+      "options": ["showers", "showering", "shower", "showered"],
+      "answerIndex": 2,
+      "explanation": "Chủ ngữ 'I' dùng động từ nguyên thể: shower."
+    },
+    {
+      "id": "q32",
+      "question": "Trạng từ tần suất nào đứng SAI vị trí trong câu?",
+      "options": [
+        "She always wakes up early.",
+        "He never drinks alcohol.",
+        "They usually have lunch at noon.",
+        "I eat always rice."
+      ],
+      "answerIndex": 3,
+      "explanation": "Trạng từ tần suất phải đứng TRƯỚC động từ chính: 'I always eat rice.'"
+    },
+    {
+      "id": "q33",
+      "question": "Chọn từ đúng: 'She _____ to bed at 10 p.m.'",
+      "options": ["go", "goes", "going", "gone"],
+      "answerIndex": 1,
+      "explanation": "She là ngôi thứ ba số ít, go + es = goes (tận cùng -o thêm -es)."
+    },
+    {
+      "id": "q34",
+      "question": "'Finish' với chủ ngữ 'She' chia như thế nào?",
+      "options": ["finish", "finishs", "finishes", "finishing"],
+      "answerIndex": 2,
+      "explanation": "finish tận cùng -sh → thêm -es = finishes."
+    },
+    {
+      "id": "q35",
+      "question": "Câu nào ĐÚNG?",
+      "options": [
+        "He don't go to school on Saturday.",
+        "She doesn't goes to school on Saturday.",
+        "He doesn't go to school on Saturday.",
+        "She not go to school on Saturday."
+      ],
+      "answerIndex": 2,
+      "explanation": "He + doesn't + V nguyên thể: He doesn't go. 'Doesn't goes' là sai."
+    },
+    {
+      "id": "q36",
+      "question": "Từ 'usually' nghĩa là gì?",
+      "options": ["luôn luôn", "không bao giờ", "thường thường", "đôi khi"],
+      "answerIndex": 2,
+      "explanation": "'Usually' có nghĩa là thường thường, chỉ tần suất khoảng 70-80%."
+    },
+    {
+      "id": "q37",
+      "question": "He _____ a book every night.",
+      "options": ["read", "reads", "reading", "readed"],
+      "answerIndex": 1,
+      "explanation": "He là ngôi thứ ba số ít, read + s = reads."
+    },
+    {
+      "id": "q38",
+      "question": "Câu nào mô tả đúng thói quen hằng ngày?",
+      "options": [
+        "She is eating breakfast now.",
+        "I am walking to school every day.",
+        "He works from 8 a.m. to 5 p.m.",
+        "They are going to bed late."
+      ],
+      "answerIndex": 2,
+      "explanation": "Thì hiện tại đơn dùng để diễn tả thói quen. 'He works from 8 to 5' là đúng."
+    },
+    {
+      "id": "q39",
+      "question": "Chọn câu có trạng từ tần suất đúng vị trí:",
+      "options": [
+        "Sometimes she walks to school.",
+        "She walks sometimes to school.",
+        "She walks to sometimes school.",
+        "She to school sometimes walks."
+      ],
+      "answerIndex": 0,
+      "explanation": "Sometimes có thể đứng đầu câu hoặc trước động từ chính đều đúng."
+    },
+    {
+      "id": "q40",
+      "question": "Điền đúng: 'My father _____ home at 6:30.'",
+      "options": ["leave", "leaves", "leaving", "leaved"],
+      "answerIndex": 1,
+      "explanation": "My father = He, ngôi thứ ba số ít, leave + s = leaves."
     }
   ]
 }

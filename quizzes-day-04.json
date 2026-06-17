@@ -1,0 +1,360 @@
+{
+  "dayId": "day-04",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Water _____ at 100 degrees Celsius. (sự thật)",
+      "options": ["is boiling", "boils", "boil", "are boiling"],
+      "answerIndex": 1,
+      "explanation": "Sự thật khoa học → Present Simple: water boils."
+    },
+    {
+      "id": "q2",
+      "question": "Look! It _____ outside.",
+      "options": ["rains", "rained", "is raining", "rain"],
+      "answerIndex": 2,
+      "explanation": "'Look!' là tín hiệu của hiện tại tiếp diễn: it is raining."
+    },
+    {
+      "id": "q3",
+      "question": "He usually _____ the bus, but today he _____ his car.",
+      "options": ["takes / is driving", "is taking / drives", "takes / drives", "is taking / is driving"],
+      "answerIndex": 0,
+      "explanation": "usually + thói quen = Simple; today + bây giờ = Continuous."
+    },
+    {
+      "id": "q4",
+      "question": "Câu nào SAI?",
+      "options": [
+        "She is knowing the answer.",
+        "She knows the answer.",
+        "He wants a coffee.",
+        "I understand the rule."
+      ],
+      "answerIndex": 0,
+      "explanation": "'Know' là stative verb, không dùng -ing: She knows (not is knowing)."
+    },
+    {
+      "id": "q5",
+      "question": "She _____ three languages. Right now she _____ English.",
+      "options": ["speaks / is speaking", "is speaking / speaks", "speaks / speaks", "is speaking / is speaking"],
+      "answerIndex": 0,
+      "explanation": "Khả năng thường xuyên = Simple; đang xảy ra lúc nói = Continuous."
+    },
+    {
+      "id": "q6",
+      "question": "Từ nào là tín hiệu của Present Continuous?",
+      "options": ["every day", "on Mondays", "at the moment", "usually"],
+      "answerIndex": 2,
+      "explanation": "'At the moment' là tín hiệu của thì hiện tại tiếp diễn."
+    },
+    {
+      "id": "q7",
+      "question": "Từ nào là tín hiệu của Present Simple?",
+      "options": ["now", "right now", "currently", "always"],
+      "answerIndex": 3,
+      "explanation": "'Always' là tín hiệu của thì hiện tại đơn (thói quen)."
+    },
+    {
+      "id": "q8",
+      "question": "Câu nào ĐÚNG?",
+      "options": [
+        "I am wanting a cup of tea.",
+        "I want a cup of tea.",
+        "I am want a cup of tea.",
+        "I wants a cup of tea."
+      ],
+      "answerIndex": 1,
+      "explanation": "'Want' là stative verb → không dùng -ing: I want."
+    },
+    {
+      "id": "q9",
+      "question": "Listen! Someone _____ the piano.",
+      "options": ["plays", "play", "is playing", "are playing"],
+      "answerIndex": 2,
+      "explanation": "'Listen!' là tín hiệu hiện tại tiếp diễn → someone is playing."
+    },
+    {
+      "id": "q10",
+      "question": "Today she _____ from home. (thay vì bình thường đến văn phòng)",
+      "options": ["work", "works", "is working", "are working"],
+      "answerIndex": 2,
+      "explanation": "'Today' + hành động khác thường → hiện tại tiếp diễn: is working."
+    },
+    {
+      "id": "q11",
+      "question": "Câu nào dùng thì ĐÚNG?",
+      "options": [
+        "She is believing in hard work.",
+        "She believes in hard work.",
+        "She is believe in hard work.",
+        "She beliving in hard work."
+      ],
+      "answerIndex": 1,
+      "explanation": "'Believe' là stative verb → không dùng -ing: she believes."
+    },
+    {
+      "id": "q12",
+      "question": "He seems tired _____.",
+      "options": ["every day", "today", "always", "usually"],
+      "answerIndex": 1,
+      "explanation": "'Seem' là stative verb. Câu này mô tả tình trạng hiện tại → today phù hợp nhất."
+    },
+    {
+      "id": "q13",
+      "question": "Câu nào mô tả THÓI QUEN?",
+      "options": [
+        "She is cooking dinner right now.",
+        "She cooks dinner every evening.",
+        "She cooking dinner at the moment.",
+        "She currently cooking dinner."
+      ],
+      "answerIndex": 1,
+      "explanation": "'Every evening' là tín hiệu thói quen → Present Simple: She cooks."
+    },
+    {
+      "id": "q14",
+      "question": "Câu nào mô tả HÀNH ĐỘNG ĐANG XẢY RA?",
+      "options": [
+        "He usually reads the newspaper.",
+        "He reads every morning.",
+        "He is reading the newspaper now.",
+        "He reads on weekdays."
+      ],
+      "answerIndex": 2,
+      "explanation": "'Now' + is reading = Present Continuous, đang xảy ra lúc này."
+    },
+    {
+      "id": "q15",
+      "question": "_____ do you understand the grammar rule?",
+      "options": ["Are", "Is", "Do", "Does"],
+      "answerIndex": 2,
+      "explanation": "'Understand' là stative verb → dùng Present Simple: Do you understand?"
+    },
+    {
+      "id": "q16",
+      "question": "Từ 'prefer' là loại động từ gì?",
+      "options": ["Action verb", "Stative verb", "Modal verb", "Linking verb"],
+      "answerIndex": 1,
+      "explanation": "'Prefer' là stative verb (động từ trạng thái), không dùng với -ing."
+    },
+    {
+      "id": "q17",
+      "question": "She _____ tea to coffee. (sở thích)",
+      "options": ["is preferring", "are preferring", "prefers", "prefer"],
+      "answerIndex": 2,
+      "explanation": "prefer là stative verb → Present Simple: She prefers."
+    },
+    {
+      "id": "q18",
+      "question": "Câu nào dịch đúng: 'Anh ấy ghét dậy sớm.'",
+      "options": [
+        "He is hating waking up early.",
+        "He hates waking up early.",
+        "He hate waking up early.",
+        "He is hate waking up early."
+      ],
+      "answerIndex": 1,
+      "explanation": "'Hate' là stative verb → Present Simple: He hates."
+    },
+    {
+      "id": "q19",
+      "question": "Câu nào dùng cả hai thì ĐÚNG?",
+      "options": [
+        "She usually cooks, but today she is eating out.",
+        "She is usually cooking, but today she eats out.",
+        "She usually is cooking, but today she eating out.",
+        "She usually cooks, but today she eating out."
+      ],
+      "answerIndex": 0,
+      "explanation": "usually + thói quen = cooks; today + bây giờ khác thường = is eating out."
+    },
+    {
+      "id": "q20",
+      "question": "Từ 'fact' nghĩa là gì?",
+      "options": ["ý kiến", "sự thật, thực tế", "thói quen", "ngoại lệ"],
+      "answerIndex": 1,
+      "explanation": "'Fact' có nghĩa là sự thật, thực tế. Sự thật dùng Present Simple."
+    },
+    {
+      "id": "q21",
+      "question": "I _____ more time to finish this. (cần)",
+      "options": ["am needing", "is needing", "need", "needs"],
+      "answerIndex": 2,
+      "explanation": "'Need' là stative verb → I need (không dùng -ing)."
+    },
+    {
+      "id": "q22",
+      "question": "The sun _____ every day in summer.",
+      "options": ["is shining", "shines", "shine", "are shining"],
+      "answerIndex": 1,
+      "explanation": "Sự thật/thói quen → Present Simple: The sun shines."
+    },
+    {
+      "id": "q23",
+      "question": "Câu nào ĐÚNG khi mô tả hiện tại?",
+      "options": [
+        "It's a fact that water is boiling at 100°C.",
+        "It's a fact that water boils at 100°C.",
+        "It's a fact that water boiling at 100°C.",
+        "It's a fact that water are boiling at 100°C."
+      ],
+      "answerIndex": 1,
+      "explanation": "Sự thật khoa học → Present Simple: water boils."
+    },
+    {
+      "id": "q24",
+      "question": "Từ 'habit' nghĩa là gì?",
+      "options": ["khoảnh khắc", "ngoại lệ", "thói quen", "sự thật"],
+      "answerIndex": 2,
+      "explanation": "'Habit' có nghĩa là thói quen."
+    },
+    {
+      "id": "q25",
+      "question": "Chọn câu đúng: 'Em ấy có vẻ mệt hôm nay.'",
+      "options": [
+        "She is seeming tired today.",
+        "She seems tired today.",
+        "She seem tired today.",
+        "She seeming tired today."
+      ],
+      "answerIndex": 1,
+      "explanation": "'Seem' là stative verb → không dùng -ing: She seems tired today."
+    },
+    {
+      "id": "q26",
+      "question": "At this moment, she _____.",
+      "options": ["studies", "study", "is studying", "are studying"],
+      "answerIndex": 2,
+      "explanation": "'At this moment' → Present Continuous: she is studying."
+    },
+    {
+      "id": "q27",
+      "question": "Từ 'instead' nghĩa là gì?",
+      "options": ["vì vậy", "thay vào đó", "mặc dù", "bên ngoài"],
+      "answerIndex": 1,
+      "explanation": "'Instead' có nghĩa là thay vào đó."
+    },
+    {
+      "id": "q28",
+      "question": "Câu nào dùng sai?",
+      "options": [
+        "Do you understand the rule?",
+        "Are you understanding the rule?",
+        "I understand the grammar.",
+        "He understands the lesson."
+      ],
+      "answerIndex": 1,
+      "explanation": "'Understand' là stative verb → không dùng -ing: Do you understand?"
+    },
+    {
+      "id": "q29",
+      "question": "She _____ usually _____ at the gym, but today she _____ at home.",
+      "options": ["/ exercises / is working out", "/ is exercising / works out", "/ exercise / working out", "/ exercises / working out"],
+      "answerIndex": 0,
+      "explanation": "usually + Simple: exercises; today + Continuous: is working out."
+    },
+    {
+      "id": "q30",
+      "question": "Từ 'opinion' nghĩa là gì?",
+      "options": ["sự thật", "ý kiến", "thói quen", "kế hoạch"],
+      "answerIndex": 1,
+      "explanation": "'Opinion' có nghĩa là ý kiến, quan điểm cá nhân."
+    },
+    {
+      "id": "q31",
+      "question": "Câu nào đúng ngữ pháp?",
+      "options": [
+        "I am loving this movie!",
+        "I love this movie!",
+        "I loves this movie!",
+        "I am love this movie!"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Love' là stative verb → I love (không dùng am loving trong ngữ cảnh này)."
+    },
+    {
+      "id": "q32",
+      "question": "Từ 'exception' nghĩa là gì?",
+      "options": ["quy tắc", "ví dụ", "ngoại lệ", "kết quả"],
+      "answerIndex": 2,
+      "explanation": "'Exception' có nghĩa là ngoại lệ."
+    },
+    {
+      "id": "q33",
+      "question": "Chọn cặp từ tín hiệu đúng cho Present Continuous:",
+      "options": ["always / never", "now / at the moment", "every day / on Mondays", "usually / often"],
+      "answerIndex": 1,
+      "explanation": "'Now' và 'at the moment' là tín hiệu của Present Continuous."
+    },
+    {
+      "id": "q34",
+      "question": "He _____ in the library right now, not at home.",
+      "options": ["study", "studies", "is studying", "are studying"],
+      "answerIndex": 2,
+      "explanation": "'Right now' = Present Continuous: he is studying."
+    },
+    {
+      "id": "q35",
+      "question": "Câu nào ĐÚNG về cách dùng stative verb?",
+      "options": [
+        "She is needing help right now.",
+        "She needs help right now.",
+        "She need help right now.",
+        "She are needing help right now."
+      ],
+      "answerIndex": 1,
+      "explanation": "'Need' là stative verb → không dùng -ing: She needs help."
+    },
+    {
+      "id": "q36",
+      "question": "Câu nào dùng SAI thì?",
+      "options": [
+        "She usually drinks coffee in the morning.",
+        "She is drinking coffee right now.",
+        "She is always drink coffee.",
+        "She drinks coffee every day."
+      ],
+      "answerIndex": 2,
+      "explanation": "'always' + thói quen → Present Simple: She always drinks (không dùng is + always + drink)."
+    },
+    {
+      "id": "q37",
+      "question": "Từ 'outside' nghĩa là gì?",
+      "options": ["bên trong", "bên ngoài", "bên cạnh", "phía trên"],
+      "answerIndex": 1,
+      "explanation": "'Outside' có nghĩa là bên ngoài."
+    },
+    {
+      "id": "q38",
+      "question": "Chọn câu đúng: 'Anh ấy biết câu trả lời.'",
+      "options": [
+        "He is knowing the answer.",
+        "He know the answer.",
+        "He knows the answer.",
+        "He is know the answer."
+      ],
+      "answerIndex": 2,
+      "explanation": "'Know' là stative verb → Present Simple: He knows."
+    },
+    {
+      "id": "q39",
+      "question": "She _____ reading books in the evening. (yêu thích)",
+      "options": ["is loving", "loving", "loves", "love"],
+      "answerIndex": 2,
+      "explanation": "'Love' là stative verb → Present Simple: She loves."
+    },
+    {
+      "id": "q40",
+      "question": "Câu nào mô tả đúng cả thói quen VÀ hành động đang xảy ra?",
+      "options": [
+        "He speaks English and is speaking now.",
+        "He is speaking English and speaks now.",
+        "He speaks English but today is working in French.",
+        "He is speaking English but usually speaks."
+      ],
+      "answerIndex": 0,
+      "explanation": "'He speaks English' = khả năng thường xuyên; 'is speaking now' = đang nói lúc này."
+    }
+  ]
+}

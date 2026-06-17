@@ -1,0 +1,30 @@
+{
+  "dayId": "day-06",
+  "items": [
+    { "word": "typical", "meaning": "điển hình, thông thường", "example": "A typical day for me starts at 6 a.m." },
+    { "word": "secondary school", "meaning": "trường trung học", "example": "She teaches English at a secondary school." },
+    { "word": "fresh air", "meaning": "không khí trong lành", "example": "I love the fresh air in the park in the morning." },
+    { "word": "stressful", "meaning": "căng thẳng", "example": "Driving during rush hour is very stressful." },
+    { "word": "journey", "meaning": "hành trình", "example": "The bus journey to school takes 40 minutes." },
+    { "word": "review", "meaning": "ôn lại, xem lại", "example": "She reviews her lesson plan on the bus." },
+    { "word": "lesson plan", "meaning": "kế hoạch bài dạy", "example": "Teachers prepare lesson plans before class." },
+    { "word": "curious", "meaning": "tò mò", "example": "Curious students ask many questions." },
+    { "word": "hardworking", "meaning": "chăm chỉ", "example": "She is very hardworking and never misses class." },
+    { "word": "exercise", "meaning": "bài tập", "example": "The students are doing a reading exercise." },
+    { "word": "rarely", "meaning": "hiếm khi", "example": "He rarely watches TV on weekdays." },
+    { "word": "weekday", "meaning": "ngày trong tuần (thứ 2–6)", "example": "She works five days a week on weekdays." },
+    { "word": "simple", "meaning": "đơn giản", "example": "She has a simple breakfast every morning." },
+    { "word": "groceries", "meaning": "thực phẩm, đồ tạp hóa", "example": "I buy groceries at the market after work." },
+    { "word": "homework", "meaning": "bài tập về nhà", "example": "She helps her daughter with homework every evening." },
+    { "word": "colleague", "meaning": "đồng nghiệp", "example": "She has lunch with her colleagues at noon." },
+    { "word": "manage", "meaning": "quản lý, xoay sở", "example": "She manages her time well every day." },
+    { "word": "organized", "meaning": "có tổ chức", "example": "Being organized helps you have a productive day." },
+    { "word": "productive", "meaning": "hiệu quả, năng suất", "example": "She has a very productive morning routine." },
+    { "word": "concentrate", "meaning": "tập trung", "example": "It is hard to concentrate when you are tired." },
+    { "word": "district", "meaning": "quận, huyện", "example": "She lives in a quiet district of the city." },
+    { "word": "nearby", "meaning": "gần đó", "example": "There is a park nearby where she walks every morning." },
+    { "word": "daily", "meaning": "hằng ngày", "example": "Exercise is part of her daily routine." },
+    { "word": "public transport", "meaning": "phương tiện công cộng", "example": "She uses public transport to get to work." },
+    { "word": "spend time", "meaning": "dành thời gian", "example": "She spends time reading before going to bed." }
+  ]
+}

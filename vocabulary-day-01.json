@@ -1,11 +1,30 @@
 {
   "dayId": "day-01",
   "items": [
-    { "word": "habit", "meaning": "thói quen", "example": "Reading before bed is a good habit." },
-    { "word": "usually", "meaning": "thường thường", "example": "I usually wake up at 6." },
-    { "word": "commute", "meaning": "đi làm/đi học hằng ngày", "example": "She commutes by train." },
-    { "word": "routine", "meaning": "thói quen/lịch sinh hoạt", "example": "My morning routine starts with coffee." },
-    { "word": "weekday", "meaning": "ngày trong tuần (T2–T6)", "example": "I work on weekdays." },
-    { "word": "schedule", "meaning": "lịch trình", "example": "The bus runs on a fixed schedule." }
+    { "word": "wake up", "meaning": "thức dậy", "example": "I wake up at 6 o'clock every morning." },
+    { "word": "get up", "meaning": "ra khỏi giường", "example": "She gets up early to exercise." },
+    { "word": "brush", "meaning": "đánh (răng)", "example": "He brushes his teeth after every meal." },
+    { "word": "shower", "meaning": "tắm vòi hoa sen", "example": "I shower before going to work." },
+    { "word": "have breakfast", "meaning": "ăn sáng", "example": "My mother has breakfast at 7 a.m." },
+    { "word": "go to work", "meaning": "đi làm", "example": "My father goes to work by motorbike." },
+    { "word": "start", "meaning": "bắt đầu", "example": "School starts at 7:30 every day." },
+    { "word": "finish", "meaning": "kết thúc", "example": "She finishes work at 5 p.m." },
+    { "word": "cook", "meaning": "nấu ăn", "example": "My grandmother cooks dinner for the family." },
+    { "word": "eat", "meaning": "ăn", "example": "We eat lunch together at noon." },
+    { "word": "drink", "meaning": "uống", "example": "He drinks a glass of water every morning." },
+    { "word": "study", "meaning": "học", "example": "She studies English for two hours each day." },
+    { "word": "watch", "meaning": "xem", "example": "They watch the news before bed." },
+    { "word": "read", "meaning": "đọc", "example": "He reads a book every night." },
+    { "word": "exercise", "meaning": "tập thể dục", "example": "I exercise at the gym three times a week." },
+    { "word": "walk", "meaning": "đi bộ", "example": "She walks to school every day." },
+    { "word": "take", "meaning": "đi (xe buýt/taxi...)", "example": "He takes the bus to the office." },
+    { "word": "arrive", "meaning": "đến nơi", "example": "She arrives at school at 7:45." },
+    { "word": "leave", "meaning": "rời khỏi", "example": "My brother leaves home at 6:30." },
+    { "word": "sleep", "meaning": "ngủ", "example": "I sleep eight hours every night." },
+    { "word": "go to bed", "meaning": "đi ngủ", "example": "She goes to bed at 10 p.m." },
+    { "word": "usually", "meaning": "thường thường", "example": "I usually have rice for lunch." },
+    { "word": "always", "meaning": "luôn luôn", "example": "He always arrives on time." },
+    { "word": "sometimes", "meaning": "đôi khi", "example": "She sometimes skips breakfast." },
+    { "word": "never", "meaning": "không bao giờ", "example": "They never eat fast food." }
   ]
 }

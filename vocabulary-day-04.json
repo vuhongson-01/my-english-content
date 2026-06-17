@@ -1,0 +1,30 @@
+{
+  "dayId": "day-04",
+  "items": [
+    { "word": "boil", "meaning": "sôi, đun sôi", "example": "Water boils at 100 degrees Celsius." },
+    { "word": "rain", "meaning": "mưa", "example": "Look! It is raining outside." },
+    { "word": "shine", "meaning": "chiếu sáng, tỏa nắng", "example": "The sun shines every day in summer." },
+    { "word": "love", "meaning": "yêu thích (stative verb)", "example": "She loves reading books in the evening." },
+    { "word": "hate", "meaning": "ghét (stative verb)", "example": "He hates waking up early." },
+    { "word": "know", "meaning": "biết (stative verb)", "example": "I know the answer to this question." },
+    { "word": "understand", "meaning": "hiểu (stative verb)", "example": "Do you understand the grammar rule?" },
+    { "word": "believe", "meaning": "tin (stative verb)", "example": "She believes in hard work." },
+    { "word": "want", "meaning": "muốn (stative verb)", "example": "He wants a cup of coffee." },
+    { "word": "need", "meaning": "cần (stative verb)", "example": "I need more time to finish this." },
+    { "word": "prefer", "meaning": "thích hơn (stative verb)", "example": "She prefers tea to coffee." },
+    { "word": "seem", "meaning": "có vẻ (stative verb)", "example": "He seems tired today." },
+    { "word": "look", "meaning": "nhìn / trông có vẻ", "example": "Look! She is wearing a new dress." },
+    { "word": "listen", "meaning": "lắng nghe", "example": "Listen! Someone is playing the piano." },
+    { "word": "today", "meaning": "hôm nay", "example": "Today she is working from home." },
+    { "word": "usually", "meaning": "thường thường", "example": "He usually takes the bus, but today he is driving." },
+    { "word": "instead", "meaning": "thay vào đó", "example": "She usually cooks, but today she is eating out instead." },
+    { "word": "outside", "meaning": "bên ngoài", "example": "It is raining outside, so I'm staying home." },
+    { "word": "speak", "meaning": "nói (ngôn ngữ)", "example": "She speaks three languages." },
+    { "word": "language", "meaning": "ngôn ngữ", "example": "How many languages do you speak?" },
+    { "word": "opinion", "meaning": "ý kiến", "example": "I think (= in my opinion) this is a good idea." },
+    { "word": "fact", "meaning": "sự thật, thực tế", "example": "It's a fact that water boils at 100°C." },
+    { "word": "habit", "meaning": "thói quen", "example": "Brushing teeth is a healthy daily habit." },
+    { "word": "moment", "meaning": "khoảnh khắc", "example": "At this moment, she is studying." },
+    { "word": "exception", "meaning": "ngoại lệ", "example": "Stative verbs are exceptions to the -ing rule." }
+  ]
+}

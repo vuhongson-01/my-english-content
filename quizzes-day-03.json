@@ -1,0 +1,320 @@
+{
+  "dayId": "day-03",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "She _____ dinner at the moment.",
+      "options": ["cook", "cooks", "is cooking", "cooking"],
+      "answerIndex": 2,
+      "explanation": "Hành động đang xảy ra 'at the moment' → dùng hiện tại tiếp diễn: is cooking."
+    },
+    {
+      "id": "q2",
+      "question": "They _____ for the bus right now.",
+      "options": ["wait", "waits", "are waiting", "waiting"],
+      "answerIndex": 2,
+      "explanation": "'right now' là dấu hiệu hiện tại tiếp diễn. They + are + waiting."
+    },
+    {
+      "id": "q3",
+      "question": "I _____ English at the moment.",
+      "options": ["study", "studies", "am studying", "are studying"],
+      "answerIndex": 2,
+      "explanation": "I + am + V-ing: I am studying."
+    },
+    {
+      "id": "q4",
+      "question": "_____ you listening to the teacher?",
+      "options": ["Do", "Does", "Are", "Is"],
+      "answerIndex": 2,
+      "explanation": "Câu hỏi hiện tại tiếp diễn: Are + you + V-ing?"
+    },
+    {
+      "id": "q5",
+      "question": "He _____ in the park right now.",
+      "options": ["run", "runs", "is running", "are running"],
+      "answerIndex": 2,
+      "explanation": "run + ning (gấp đôi n). He + is + running."
+    },
+    {
+      "id": "q6",
+      "question": "Dạng V-ing của 'sit' là gì?",
+      "options": ["siting", "sitting", "siting", "sits"],
+      "answerIndex": 1,
+      "explanation": "sit: nguyên âm + phụ âm 1 âm tiết → gấp đôi t: sitting."
+    },
+    {
+      "id": "q7",
+      "question": "Dạng V-ing của 'come' là gì?",
+      "options": ["comeing", "coming", "comes", "comed"],
+      "answerIndex": 1,
+      "explanation": "come tận cùng e câm → bỏ e + ing: coming."
+    },
+    {
+      "id": "q8",
+      "question": "Dạng V-ing của 'make' là gì?",
+      "options": ["makeing", "makes", "making", "maked"],
+      "answerIndex": 2,
+      "explanation": "make tận cùng e câm → bỏ e + ing: making."
+    },
+    {
+      "id": "q9",
+      "question": "Dạng V-ing của 'run' là gì?",
+      "options": ["runing", "running", "runs", "runed"],
+      "answerIndex": 1,
+      "explanation": "run: nguyên âm + phụ âm 1 âm tiết → gấp đôi n: running."
+    },
+    {
+      "id": "q10",
+      "question": "The baby _____ in the room.",
+      "options": ["sleep", "sleeps", "is sleeping", "are sleeping"],
+      "answerIndex": 2,
+      "explanation": "The baby = It, là ngôi thứ ba số ít → is sleeping."
+    },
+    {
+      "id": "q11",
+      "question": "Câu nào dùng thì ĐÚNG?",
+      "options": [
+        "She is cooking every day.",
+        "She cooks dinner right now.",
+        "She is cooking dinner at the moment.",
+        "She cooking dinner now."
+      ],
+      "answerIndex": 2,
+      "explanation": "Hành động đang xảy ra 'at the moment' → hiện tại tiếp diễn: is cooking."
+    },
+    {
+      "id": "q12",
+      "question": "Từ nào cho biết thì hiện tại tiếp diễn phù hợp?",
+      "options": ["every day", "usually", "right now", "always"],
+      "answerIndex": 2,
+      "explanation": "'Right now' là dấu hiệu của thì hiện tại tiếp diễn."
+    },
+    {
+      "id": "q13",
+      "question": "He _____ a sandwich for lunch.",
+      "options": ["make", "makes", "is making", "are making"],
+      "answerIndex": 2,
+      "explanation": "He + is + making (bỏ e + ing)."
+    },
+    {
+      "id": "q14",
+      "question": "The children _____ in the garden.",
+      "options": ["play", "plays", "are playing", "is playing"],
+      "answerIndex": 2,
+      "explanation": "The children = They → are playing."
+    },
+    {
+      "id": "q15",
+      "question": "Are you listening to me? → Trả lời đúng:",
+      "options": ["Yes, I do.", "Yes, I listening.", "Yes, I am.", "Yes, I are."],
+      "answerIndex": 2,
+      "explanation": "Trả lời ngắn với Are: Yes, I am."
+    },
+    {
+      "id": "q16",
+      "question": "Từ 'at the moment' nghĩa là gì?",
+      "options": ["mỗi ngày", "lúc này, hiện tại", "luôn luôn", "thỉnh thoảng"],
+      "answerIndex": 1,
+      "explanation": "'At the moment' nghĩa là lúc này, đây là dấu hiệu thì hiện tại tiếp diễn."
+    },
+    {
+      "id": "q17",
+      "question": "My father _____ to the office right now.",
+      "options": ["drive", "drives", "is driving", "are driving"],
+      "answerIndex": 2,
+      "explanation": "My father = He, ngôi thứ ba số ít → is driving."
+    },
+    {
+      "id": "q18",
+      "question": "Câu phủ định ĐÚNG của 'He is sleeping':",
+      "options": ["He not sleeping.", "He isn't sleeping.", "He doesn't sleeping.", "He are not sleeping."],
+      "answerIndex": 1,
+      "explanation": "Phủ định hiện tại tiếp diễn: He + isn't + V-ing."
+    },
+    {
+      "id": "q19",
+      "question": "Why _____ she crying?",
+      "options": ["do", "does", "is", "are"],
+      "answerIndex": 2,
+      "explanation": "Câu hỏi hiện tại tiếp diễn ngôi thứ ba số ít: Is + she + V-ing?"
+    },
+    {
+      "id": "q20",
+      "question": "They _____ lunch at the restaurant now.",
+      "options": ["eat", "eats", "are eating", "is eating"],
+      "answerIndex": 2,
+      "explanation": "They + are + eating (thêm -ing bình thường)."
+    },
+    {
+      "id": "q21",
+      "question": "Dạng V-ing của 'write' là gì?",
+      "options": ["writeing", "writing", "writes", "writting"],
+      "answerIndex": 1,
+      "explanation": "write tận cùng e câm → bỏ e + ing: writing."
+    },
+    {
+      "id": "q22",
+      "question": "Dạng V-ing của 'swim' là gì?",
+      "options": ["swiming", "swims", "swimming", "swimmed"],
+      "answerIndex": 2,
+      "explanation": "swim: nguyên âm + phụ âm 1 âm tiết → gấp đôi m: swimming."
+    },
+    {
+      "id": "q23",
+      "question": "Chọn câu hiện tại tiếp diễn ĐÚNG:",
+      "options": [
+        "Is they waiting for the bus?",
+        "Are he driving to work?",
+        "Is she typing a report?",
+        "Are she reading a novel?"
+      ],
+      "answerIndex": 2,
+      "explanation": "she là ngôi thứ ba số ít → Is + she + V-ing: Is she typing...?"
+    },
+    {
+      "id": "q24",
+      "question": "She _____ a letter to her friend.",
+      "options": ["write", "writes", "is writing", "are writing"],
+      "answerIndex": 2,
+      "explanation": "She + is + writing (write → writing). Hành động đang xảy ra."
+    },
+    {
+      "id": "q25",
+      "question": "Câu nào dùng thì SAI?",
+      "options": [
+        "I am studying right now.",
+        "She is cooking at the moment.",
+        "He is always goes to work by bus.",
+        "They are playing in the garden."
+      ],
+      "answerIndex": 2,
+      "explanation": "'always' + thói quen → dùng hiện tại đơn: He always goes to work by bus."
+    },
+    {
+      "id": "q26",
+      "question": "_____ he helping his mother with housework?",
+      "options": ["Do", "Does", "Is", "Are"],
+      "answerIndex": 2,
+      "explanation": "Câu hỏi hiện tại tiếp diễn ngôi thứ ba số ít: Is + he?"
+    },
+    {
+      "id": "q27",
+      "question": "Từ 'currently' nghĩa là gì?",
+      "options": ["luôn luôn", "hiện đang", "mỗi tuần", "vừa xong"],
+      "answerIndex": 1,
+      "explanation": "'Currently' có nghĩa là hiện đang, đây là dấu hiệu thì hiện tại tiếp diễn."
+    },
+    {
+      "id": "q28",
+      "question": "He _____ coffee at the cafe right now.",
+      "options": ["drink", "drinks", "is drinking", "are drinking"],
+      "answerIndex": 2,
+      "explanation": "He + is + drinking. 'Right now' = hiện tại tiếp diễn."
+    },
+    {
+      "id": "q29",
+      "question": "The kids _____ in the pool.",
+      "options": ["swim", "swims", "are swimming", "is swimming"],
+      "answerIndex": 2,
+      "explanation": "The kids = They → are swimming."
+    },
+    {
+      "id": "q30",
+      "question": "Everyone _____ at the joke.",
+      "options": ["laugh", "laughs", "is laughing", "are laughing"],
+      "answerIndex": 2,
+      "explanation": "Everyone là danh từ số ít → is laughing."
+    },
+    {
+      "id": "q31",
+      "question": "Chọn câu dịch đúng: 'Tôi đang đọc sách lúc này'",
+      "options": [
+        "I read a book right now.",
+        "I am reading a book right now.",
+        "I reads a book right now.",
+        "I reading a book right now."
+      ],
+      "answerIndex": 1,
+      "explanation": "Đang xảy ra: I + am + reading."
+    },
+    {
+      "id": "q32",
+      "question": "She _____ a heavy bag.",
+      "options": ["carry", "carries", "is carrying", "are carrying"],
+      "answerIndex": 2,
+      "explanation": "She + is + carrying (carry → carrying, thêm -ing bình thường)."
+    },
+    {
+      "id": "q33",
+      "question": "Dạng V-ing của 'drive' là gì?",
+      "options": ["driveing", "driving", "drives", "drived"],
+      "answerIndex": 1,
+      "explanation": "drive tận cùng e câm → bỏ e + ing: driving."
+    },
+    {
+      "id": "q34",
+      "question": "Dạng V-ing của 'use' là gì?",
+      "options": ["useing", "using", "uses", "useed"],
+      "answerIndex": 1,
+      "explanation": "use tận cùng e câm → bỏ e + ing: using."
+    },
+    {
+      "id": "q35",
+      "question": "Câu hỏi ĐÚNG: 'Họ có đang chờ xe buýt không?'",
+      "options": [
+        "Do they waiting for the bus?",
+        "Are they wait for the bus?",
+        "Are they waiting for the bus?",
+        "Is they waiting for the bus?"
+      ],
+      "answerIndex": 2,
+      "explanation": "They → Are + they + V-ing: Are they waiting for the bus?"
+    },
+    {
+      "id": "q36",
+      "question": "Từ 'type' trong câu 'He is typing a report' có nghĩa là gì?",
+      "options": ["đọc", "viết tay", "gõ phím", "in ấn"],
+      "answerIndex": 2,
+      "explanation": "'Type' có nghĩa là gõ phím máy tính."
+    },
+    {
+      "id": "q37",
+      "question": "She _____ home from school right now.",
+      "options": ["come", "comes", "is coming", "are coming"],
+      "answerIndex": 2,
+      "explanation": "She + is + coming (come → coming, bỏ e). 'Right now' = hiện tại tiếp diễn."
+    },
+    {
+      "id": "q38",
+      "question": "Câu nào ĐÚNG?",
+      "options": [
+        "They are talk on the phone.",
+        "They are talking on the phone.",
+        "They is talking on the phone.",
+        "They talking on the phone."
+      ],
+      "answerIndex": 1,
+      "explanation": "They + are + talking là cấu trúc hiện tại tiếp diễn đúng."
+    },
+    {
+      "id": "q39",
+      "question": "He _____ currently working on a project.",
+      "options": ["is", "are", "do", "does"],
+      "answerIndex": 0,
+      "explanation": "He là ngôi thứ ba số ít → He is currently working."
+    },
+    {
+      "id": "q40",
+      "question": "Chọn câu mô tả thói quen (hiện tại đơn) đúng:",
+      "options": [
+        "She is cooking every morning.",
+        "She cooks breakfast every morning.",
+        "She cooking breakfast every morning.",
+        "She are cooking every morning."
+      ],
+      "answerIndex": 1,
+      "explanation": "Thói quen hằng ngày → hiện tại đơn: She cooks breakfast every morning."
+    }
+  ]
+}
