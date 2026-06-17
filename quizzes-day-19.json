@@ -1,0 +1,485 @@
+{
+  "dayId": "day-19",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the Vietnamese meaning of the word \"memory\"?",
+      "options": [
+        "khoảnh khắc",
+        "ký ức",
+        "đóng băng/sững lại",
+        "kể chuyện"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"memory\" có nghĩa là \"ký ức\"."
+    },
+    {
+      "id": "q2",
+      "question": "What is the Vietnamese meaning of the word \"recall\"?",
+      "options": [
+        "đám đông",
+        "tối",
+        "nhớ lại",
+        "sự việc"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"recall\" có nghĩa là \"nhớ lại\"."
+    },
+    {
+      "id": "q3",
+      "question": "What is the Vietnamese meaning of the word \"freeze\"?",
+      "options": [
+        "tối",
+        "đột nhiên",
+        "đóng băng/sững lại",
+        "đồng thời"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"freeze\" có nghĩa là \"đóng băng/sững lại\"."
+    },
+    {
+      "id": "q4",
+      "question": "What is the Vietnamese meaning of the word \"crowd\"?",
+      "options": [
+        "bối cảnh",
+        "đám đông",
+        "hồi tưởng",
+        "trong khi"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"crowd\" có nghĩa là \"đám đông\"."
+    },
+    {
+      "id": "q5",
+      "question": "What is the Vietnamese meaning of the word \"storytelling\"?",
+      "options": [
+        "hồi tưởng",
+        "khoảnh khắc",
+        "kể chuyện",
+        "làm gián đoạn"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"storytelling\" có nghĩa là \"kể chuyện\"."
+    },
+    {
+      "id": "q6",
+      "question": "What is the Vietnamese meaning of the word \"meanwhile\"?",
+      "options": [
+        "bối cảnh",
+        "trong khi đó",
+        "chứng kiến/nhân chứng",
+        "miêu tả"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"meanwhile\" có nghĩa là \"trong khi đó\"."
+    },
+    {
+      "id": "q7",
+      "question": "What is the Vietnamese meaning of the word \"suddenly\"?",
+      "options": [
+        "tối",
+        "đám đông",
+        "khoảnh khắc",
+        "đột nhiên"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"suddenly\" có nghĩa là \"đột nhiên\"."
+    },
+    {
+      "id": "q8",
+      "question": "What is the Vietnamese meaning of the word \"interrupt\"?",
+      "options": [
+        "làm gián đoạn",
+        "người kể chuyện",
+        "khoảnh khắc",
+        "khi/lúc"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"interrupt\" có nghĩa là \"làm gián đoạn\"."
+    },
+    {
+      "id": "q9",
+      "question": "What is the Vietnamese meaning of the word \"background\"?",
+      "options": [
+        "đột nhiên",
+        "bối cảnh",
+        "trong khi đó",
+        "cốt truyện"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"background\" có nghĩa là \"bối cảnh\"."
+    },
+    {
+      "id": "q10",
+      "question": "What is the Vietnamese meaning of the word \"describe\"?",
+      "options": [
+        "miêu tả",
+        "tiếng ồn",
+        "trong khi",
+        "đột nhiên"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"describe\" có nghĩa là \"miêu tả\"."
+    },
+    {
+      "id": "q11",
+      "question": "What is the Vietnamese meaning of the word \"event\"?",
+      "options": [
+        "nhớ lại",
+        "hồi tưởng",
+        "đám đông",
+        "sự kiện"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"event\" có nghĩa là \"sự kiện\"."
+    },
+    {
+      "id": "q12",
+      "question": "What is the Vietnamese meaning of the word \"scene\"?",
+      "options": [
+        "chứng kiến/nhân chứng",
+        "đồng thời",
+        "cảnh",
+        "cốt truyện"
+      ],
+      "answerIndex": 2,
+      "explanation": "\"scene\" có nghĩa là \"cảnh\"."
+    },
+    {
+      "id": "q13",
+      "question": "Choose the best word: She cooked dinner; _____, he set the table.",
+      "options": [
+        "freeze",
+        "noise",
+        "meanwhile",
+        "witness"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"She cooked dinner; meanwhile, he set the table.\" — từ đúng là \"meanwhile\" (trong khi đó)."
+    },
+    {
+      "id": "q14",
+      "question": "Choose the best word: _____, the lights went out.",
+      "options": [
+        "storytelling",
+        "suddenly",
+        "dark",
+        "simultaneously"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"Suddenly, the lights went out.\" — từ đúng là \"suddenly\" (đột nhiên)."
+    },
+    {
+      "id": "q15",
+      "question": "Choose the best word: The phone call _____ed our meeting.",
+      "options": [
+        "moment",
+        "interrupt",
+        "character",
+        "freeze"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"The phone call interrupted our meeting.\" — từ đúng là \"interrupt\" (làm gián đoạn)."
+    },
+    {
+      "id": "q16",
+      "question": "Choose the best word: Birds were singing in the _____.",
+      "options": [
+        "plot",
+        "event",
+        "memory",
+        "background"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Birds were singing in the background.\" — từ đúng là \"background\" (bối cảnh)."
+    },
+    {
+      "id": "q17",
+      "question": "Choose the best word: Can you _____ what was happening?",
+      "options": [
+        "freeze",
+        "meanwhile",
+        "as",
+        "describe"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"Can you describe what was happening?\" — từ đúng là \"describe\" (miêu tả)."
+    },
+    {
+      "id": "q18",
+      "question": "Choose the best word: The _____ lasted all evening.",
+      "options": [
+        "event",
+        "interrupt",
+        "plot",
+        "moment"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The event lasted all evening.\" — từ đúng là \"event\" (sự kiện)."
+    },
+    {
+      "id": "q19",
+      "question": "Choose the best word: She painted the busy street _____.",
+      "options": [
+        "scene",
+        "dark",
+        "simultaneously",
+        "flashback"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"She painted the busy street scene.\" — từ đúng là \"scene\" (cảnh)."
+    },
+    {
+      "id": "q20",
+      "question": "Choose the best word: The main _____ was very brave.",
+      "options": [
+        "character",
+        "background",
+        "incident",
+        "suddenly"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The main character was very brave.\" — từ đúng là \"character\" (nhân vật)."
+    },
+    {
+      "id": "q21",
+      "question": "Choose the best word: The _____ told the story slowly.",
+      "options": [
+        "character",
+        "memory",
+        "crowd",
+        "narrator"
+      ],
+      "answerIndex": 3,
+      "explanation": "Câu hoàn chỉnh: \"The narrator told the story slowly.\" — từ đúng là \"narrator\" (người kể chuyện)."
+    },
+    {
+      "id": "q22",
+      "question": "Choose the best word: The _____ of the film was exciting.",
+      "options": [
+        "describe",
+        "character",
+        "plot",
+        "freeze"
+      ],
+      "answerIndex": 2,
+      "explanation": "Câu hoàn chỉnh: \"The plot of the film was exciting.\" — từ đúng là \"plot\" (cốt truyện)."
+    },
+    {
+      "id": "q23",
+      "question": "Choose the best word: The movie used a _____ to the past.",
+      "options": [
+        "flashback",
+        "narrator",
+        "as",
+        "while"
+      ],
+      "answerIndex": 0,
+      "explanation": "Câu hoàn chỉnh: \"The movie used a flashback to the past.\" — từ đúng là \"flashback\" (hồi tưởng)."
+    },
+    {
+      "id": "q24",
+      "question": "Choose the best word: They were talking _____.",
+      "options": [
+        "flashback",
+        "simultaneously",
+        "freeze",
+        "describe"
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hoàn chỉnh: \"They were talking simultaneously.\" — từ đúng là \"simultaneously\" (đồng thời)."
+    },
+    {
+      "id": "q25",
+      "question": "Complete the sentence: While I ___ TV, the phone rang.",
+      "options": [
+        "watch",
+        "am watching",
+        "watched",
+        "was watching"
+      ],
+      "answerIndex": 3,
+      "explanation": "Past continuous for an action in progress interrupted by a past simple action."
+    },
+    {
+      "id": "q26",
+      "question": "Complete the sentence: They ___ football when it started to rain.",
+      "options": [
+        "are playing",
+        "play",
+        "played",
+        "were playing"
+      ],
+      "answerIndex": 3,
+      "explanation": "Past continuous describes the longer background action."
+    },
+    {
+      "id": "q27",
+      "question": "Complete the sentence: What ___ you doing at 8 p.m. yesterday?",
+      "options": [
+        "are",
+        "was",
+        "did",
+        "were"
+      ],
+      "answerIndex": 3,
+      "explanation": "Use 'were' with 'you' in past continuous questions."
+    },
+    {
+      "id": "q28",
+      "question": "Complete the sentence: She was cooking while he ___ the table.",
+      "options": [
+        "sets",
+        "is setting",
+        "was setting",
+        "set"
+      ],
+      "answerIndex": 2,
+      "explanation": "Two simultaneous past actions both use past continuous."
+    },
+    {
+      "id": "q29",
+      "question": "Complete the sentence: I ___ not sleeping when you called.",
+      "options": [
+        "were",
+        "did",
+        "am",
+        "was"
+      ],
+      "answerIndex": 3,
+      "explanation": "Singular subject 'I' takes 'was'."
+    },
+    {
+      "id": "q30",
+      "question": "Complete the sentence: As we ___ home, we saw an accident.",
+      "options": [
+        "walk",
+        "are walking",
+        "walked",
+        "were walking"
+      ],
+      "answerIndex": 3,
+      "explanation": "Past continuous sets the scene for a past simple event."
+    },
+    {
+      "id": "q31",
+      "question": "Complete the sentence: The sun ___ shining and birds were singing.",
+      "options": [
+        "was",
+        "were",
+        "did",
+        "is"
+      ],
+      "answerIndex": 0,
+      "explanation": "Singular subject 'sun' takes 'was'."
+    },
+    {
+      "id": "q32",
+      "question": "Complete the sentence: They were arguing when I ___ in.",
+      "options": [
+        "came",
+        "was coming",
+        "were coming",
+        "come"
+      ],
+      "answerIndex": 0,
+      "explanation": "The short interrupting action uses past simple."
+    },
+    {
+      "id": "q33",
+      "question": "Complete the sentence: We ___ dinner when the lights went out.",
+      "options": [
+        "were having",
+        "are having",
+        "had",
+        "have"
+      ],
+      "answerIndex": 0,
+      "explanation": "Past continuous for the action in progress."
+    },
+    {
+      "id": "q34",
+      "question": "Complete the sentence: While the children ___, the parents talked.",
+      "options": [
+        "are playing",
+        "play",
+        "played",
+        "were playing"
+      ],
+      "answerIndex": 3,
+      "explanation": "Simultaneous past actions use past continuous."
+    },
+    {
+      "id": "q35",
+      "question": "Which English word means \"ký ức\"?",
+      "options": [
+        "recall",
+        "memory",
+        "event",
+        "freeze"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"ký ức\" trong tiếng Anh là \"memory\"."
+    },
+    {
+      "id": "q36",
+      "question": "Which English word means \"nhớ lại\"?",
+      "options": [
+        "recall",
+        "describe",
+        "witness",
+        "narrator"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"nhớ lại\" trong tiếng Anh là \"recall\"."
+    },
+    {
+      "id": "q37",
+      "question": "Which English word means \"đóng băng/sững lại\"?",
+      "options": [
+        "meanwhile",
+        "freeze",
+        "incident",
+        "noise"
+      ],
+      "answerIndex": 1,
+      "explanation": "\"đóng băng/sững lại\" trong tiếng Anh là \"freeze\"."
+    },
+    {
+      "id": "q38",
+      "question": "Which English word means \"đám đông\"?",
+      "options": [
+        "crowd",
+        "noise",
+        "plot",
+        "as"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"đám đông\" trong tiếng Anh là \"crowd\"."
+    },
+    {
+      "id": "q39",
+      "question": "Which English word means \"kể chuyện\"?",
+      "options": [
+        "storytelling",
+        "as",
+        "flashback",
+        "narrator"
+      ],
+      "answerIndex": 0,
+      "explanation": "\"kể chuyện\" trong tiếng Anh là \"storytelling\"."
+    },
+    {
+      "id": "q40",
+      "question": "Which English word means \"trong khi đó\"?",
+      "options": [
+        "storytelling",
+        "background",
+        "flashback",
+        "meanwhile"
+      ],
+      "answerIndex": 3,
+      "explanation": "\"trong khi đó\" trong tiếng Anh là \"meanwhile\"."
+    }
+  ]
+}
